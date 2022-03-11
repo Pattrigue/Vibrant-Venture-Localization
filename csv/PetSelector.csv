@@ -1,19 +1,19 @@
-Key,Id,Shared Comments,Danish(da),English(en)
-"PetMaker",5417103360,"","Kæledyrsskaber","","Pet Maker",""
-"MyPets",285248483328,"","Mine Kæledyr","","My Pets",""
-"WorkshopPets",297281941504,"","Workshopkæledyr","","Workshop Pets",""
-"NoPets",1287628419072,"","Du har ikke lavet nogle kæledyr endnu.
+Key,Id,Danish(da),English(en)
+"PetMaker",5417103360,"Kæledyrsskaber","Pet Maker"
+"MyPets",285248483328,"Mine Kæledyr","My Pets"
+"WorkshopPets",297281941504,"Workshopkæledyr","Workshop Pets"
+"NoPets",1287628419072,"Du har ikke lavet nogle kæledyr endnu.
 
-Åben kæledyrsskaberen for at lave dine egne kæledyr, eller besøg Steam Workshop for at finde nogle!","","You have not created any pets yet.
+Åben kæledyrsskaberen for at lave dine egne kæledyr, eller besøg Steam Workshop for at finde nogle!","You have not created any pets yet.
 
 Open the pet maker to create your own pets or head to the Steam Workshop to download some!",""
-"NoWorkshopPets",1549713698816,"","Du har ikke abonneret på nogen kæledyr på Steam Workshop endnu.","","You have not subscribed to any pets on the Steam Workshop yet.",""
-"NotConnected",3692583612416,"","Du er ikke forbundet til Steam.
-Genstart venligst spillet gennem Steam.","","You are not connected to Steam.
+"NoWorkshopPets",1549713698816,"Du har ikke abonneret på nogen kæledyr på Steam Workshop endnu.","You have not subscribed to any pets on the Steam Workshop yet."
+"NotConnected",3692583612416,"Du er ikke forbundet til Steam.
+Genstart venligst spillet gennem Steam.",""
 Please restart the game through Steam.",""
-"NotReady",3711814496256,"","Steam Workshop er ikke færdig med at indlæse!
-Prøv venligst igen senere.","","Steam Workshop has not finished loading!
+"NotReady",3711814496256,"Steam Workshop er ikke færdig med at indlæse!
+Prøv venligst igen senere.",""
 Please try again later.",""
-"EnterPetMakerPrompt",238079803813888,"","Åbn kæledyrsskaberen?
-Fremskridt i den nuværende bane vil blive tabt!","","Enter the Pet Maker?
+"EnterPetMakerPrompt",238079803813888,"Åbn kæledyrsskaberen?
+Fremskridt i den nuværende bane vil blive tabt!",""
 Progress in the current level will be lost!",""
