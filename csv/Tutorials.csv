@@ -1,4 +1,4 @@
-Key,Id,Danish(da),English(en)
+﻿Key,Id,Danish(da),English(en)
 "Jump",20902473728,"Tryk {0} for at hoppe","Press {0} to jump"
 "SlideKick",249567539200,"Tryk {0} for at glidesparke","Press {0} to slide kick"
 "DoubleJump",3666134291345408,"Tryk {0} i luften for at <color={characterColor}>Dobbelthoppe</color>","Press {0} while airborne to <color={characterColor}>Double Jump</color>"

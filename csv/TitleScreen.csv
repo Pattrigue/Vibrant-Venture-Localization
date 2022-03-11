@@ -1,13 +1,13 @@
-Key,Id,Danish(da),English(en)
+﻿Key,Id,Danish(da),English(en)
 "PressAnyButton",14816538624,"- Tryk på en vilkårlig tast -","- Press any button -"
 "EmptySaveFile",472389939200,"Tom","Empty"
 "SaveFileTitle",551238660096,"Fil {0} - {1}%","File {0} - {1}%"
-"DeletePrompt",2628513853440,"Er du sikker på
-Den vil forsvinde for evigt!",""
-It will be gone forever!",""
+"DeletePrompt",2628513853440,"Er du sikker på, at du vil slette denne gemte?
+Den vil forsvinde for evigt!","Are you sure you want to delete this save file?
+It will be gone forever!"
 "InsufficientPermissions",2849096495104,"Utilstrækkelige brugertilladelser.
-Kunne ikke slette filen.",""
-Could not erase file.",""
+Kunne ikke slette filen.","Insufficient user permissions.
+Could not erase file."
 "EraseFile",4340830072832,"Slet Gemte","Erase File"
 "Credits1",5361291653120,"LEDENDE UDVIKLER
 <color=#436187>Patrick Frostholm Østergaard</color>
@@ -17,7 +17,7 @@ BANEDESIGN
 <color=#436187>Nicholas White</color>
 
 QA TESTING
-<color=#436187>Antonio Villarreal</color>",""
+<color=#436187>Antonio Villarreal</color>","LEAD DEVELOPER
 <color=#436187>Patrick Frostholm Østergaard</color>
 
 LEVEL DESIGN
@@ -25,7 +25,7 @@ LEVEL DESIGN
 <color=#436187>Nicholas White</color>
 
 QA TESTING
-<color=#436187>Antonio Villarreal</color>",""
+<color=#436187>Antonio Villarreal</color>"
 "Credits2",5378781900800,"TEGNINGER & GRAFIK
 <color=#436187>Jur Loogman</color>
 
@@ -34,7 +34,7 @@ MUSIK AF
 
 YDELIGERE 
 LYDEFFETKER FRA
-<color=#436187>zapsplat.com</color>",""
+<color=#436187>zapsplat.com</color>","ART & GRAPHICS
 <color=#436187>Jur Loogman</color>
 
 MUSIC BY
@@ -42,7 +42,7 @@ MUSIC BY
 
 ADDITIONAL SOUND
 EFFECTS PROVIDED BY
-<color=#436187>zapsplat.com</color>",""
+<color=#436187>zapsplat.com</color>"
 "EarlyAccess1",340457475436544,"Tak for at du støtter vores ydmyge projekt <3
 Vi er et lille team, så din støtte betyder meget!
 
@@ -53,7 +53,7 @@ Alt kan ændres.
 Vi beklager ulejligheden.
 
 Hvis du finder fejl eller ønsker at tale med os,
-kan du tilmelde dig vores Discord-server ved at klikke på linket nedenfor:",""
+kan du tilmelde dig vores Discord-server ved at klikke på linket nedenfor:","Thank you for supporting our humble project <3
 We're a small team, so your support means a lot!
 
 Note that this game is still a work in progress.
@@ -63,5 +63,5 @@ Everything is subject to change.
 We apologize for any inconveniences.
 
 If you find any bugs or want to talk to us,
-join our Discord server by clicking the link below:",""
+join our Discord server by clicking the link below:"
 "EarlyAccess2",340514991927296,"Tryk på en vilkårlig tast for at fortsætte.","Press any button to continue."

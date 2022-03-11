@@ -1,4 +1,4 @@
-Key,Id,Danish(da),English(en)
+﻿Key,Id,Danish(da),English(en)
 "GeneralTab",420791611392,"Generelt","General"
 "AudioTab",572453449728,"Lyd","Audio"
 "ControlsTab",587519389696,"Styring","Controls"
@@ -24,6 +24,6 @@ Key,Id,Danish(da),English(en)
 "Borderless",7217820626944,"Rammeløs","Borderless"
 "Windowed",7227119398912,"Vindue","Windowed"
 "KeepResolutionPrompt",288521413881856,"Ønsker du at beholde denne opløsning?
-({0})",""
-({0})",""
+({0})","Do you want to keep this resolution?
+({0})"
 "NativeResolution",737003354353664,"Indbygget","Native"

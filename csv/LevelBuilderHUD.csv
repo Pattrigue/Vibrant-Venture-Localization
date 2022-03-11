@@ -1,4 +1,4 @@
-Key,Id,Danish(da),English(en)
+﻿Key,Id,Danish(da),English(en)
 "MyLevelsTooltip",190473990144,"Mine baner","My Levels"
 "SaveTooltip",201811193856,"Gem","Save"
 "ItemsTooltip",239568318464,"Genstande","Items"
@@ -11,8 +11,8 @@ Key,Id,Danish(da),English(en)
 "RectangleTooltip",574139559936,"Rektangel","Rectangle"
 "ExitTooltip",1829712850944,"Afslut Banebygger","Exit Level Builder"
 "ExitPromptText",2683480207360,"Vil du afslutte Banebyggeren?
-Ændringer, der ikke er gemt,""
-Unsaved changes will be lost!",""
+Ændringer, der ikke er gemt, vil gå tabt!","Exit the Level Builder?
+Unsaved changes will be lost!"
 "PlaytestTooltip",1831340240896,"Testkør","Playtest"
 "StopPlaytestingTooltip",1869978169344,"Stop testkørsel","Stop playtesting"
 "GroundLayerLabel",1197828370432,"Mellemgrund","Ground"
