@@ -1,0 +1,49 @@
+﻿Key,Id,Shared Comments,Danish(da),Danish(da) Comments,English(en),English(en) Comments
+"SlideKick",6660544425984,"","GLIDESPARK:
+Tryk på angrib mens du er på jorden for at udføre et glidespark, som kan skade fjender og ødelægge sten.","","SLIDE KICK:
+While on the ground, press attack to perform a slide kick which can damage enemies and break rocks.",""
+"Crawl",6661848854528,"","KRAVL:
+Hold ned nede mens du er på jorden for at kravle - så kan du snildt presse dig genenm snævre mellemrum.","","CRAWL:
+While on the ground, hold down to crawl. This allows you to fit through tight gaps.",""
+"Sprint",6662704492544,"","LØB:
+Når du bevæger dig, vil du automatisk begynde at løbe. Du kan slå automatisk løb fra i indstillingsmenuen.","","SPRINT:
+When moving, you will automatically start sprinting. You can turn off auto sprint in the options menu.",""
+"Jump",6663618850816,"","HOP:
+Tryk på hop for at hoppe. Hold den nede for at hoppe højere. Jo hurtigere du bevæger dig, jo højere kan du hoppe.","","JUMP:
+Tap the jump button to jump and hold it to jump higher. The faster you're moving, the higher you can jump. ",""
+"CardinalDescription",74883166208,"","Cardinal er en erfaren eventyrer, der har mestret en fyrig kampstil, som han bruger hensynsløst. Jeg har bemærket, at indbyggerne i Cornucopia Town ser meget op til ham. Det ser ud til at være gået ham til hovedet, da han er ret kæphøj og selvsikker..","","Cardinal is a seasoned adven-
+turer who has honed a fiery fighting style that he uses with reckless abandon. I have noticed that the people of Cornucopia Town really look up to him. This seems to have gone to his head, giving him a cocky and confident attitude.",""
+"CardinalAbility1",113021972480,"","DOBBELTHOP:
+Tryk på hop mens du er i luften for at udføre et fyrigt dobbelthop, som skader fjender i nærheden.","","DOUBLE JUMP:
+You can press jump while airborne to perform a fiery double jump which will damage enemies in range.",""
+"CardinalAbility2",138246516736,"","LUFTSPARK:
+Du kan trykke på angrib, mens du er i luften for at udføre et luftspark, som kan skade fjender og ødelægge sten.","","AIR KICK:
+You can press attack while airborne to perform an airkick which can damage enemies and break rocks.",""
+"AzuraDescription",149692772352,"","Jeg søger at lære om verden og alle dens særheder. Jeg er relativt ny inden for eventyr, men jeg håber at komme videre efter bedste evne. Byens folk fortæller mig, at jeg er flittig og modig af sind. De siger også, at jeg er lidt klodset...?","","I seek to learn about the world and all of its oddities. I am relatively new to adven-
+turing, but I hope to move forward to the best of my ability. The townsfolk tell me that I'm studious and bold in my thinking. They also say I'm a bit of a klutz though...?",""
+"AzuraAbility1",187655417856,"","VANDSPRING:
+Du kan trykke på hop, mens du er i luften for at skyde dig selv fremad med en vandstråle.","","AIR DASH:
+You can press jump while airborne to propel yourself forward with a water dash. ",""
+"AzuraAbility2",193502277632,"","MÅLSØGNINGSANGREB:
+En boble dukker op mens du er i luften, når du låser fast på en fjende. Tryk så på angrib for at målsøgningsangribe.","","HOMING ATTACK:
+While airborne, a bubble will appear when locked onto an enemy. Press attack to then perform a homing attack.",""
+"PistachioDescription",218827485184,"","Pistachio er en kendt eventyrer og bruger sin elegante stil til at slå nye veje for sig selv. Hun ser ud til at have gjort oprør mod sin families fortid som ledere af Cornucopia Town, hvilket har ført hende til at være henrivende, højrøstet og spændt på nye oplevelser","","Pistachio is a known adven-
+turer and uses her elegant style to forge new paths for herself. She seems to have rebelled against her family's past as leaders of Cornucopia Town, which has lead her to be beautifully boisterous and excited for new experiences.",""
+"PistachioAbility1",272258723840,"","PARASOLSVÆVNING:
+Hold hop nede i luften for langsomt at svæve nedad.
+Hold øje med dit udholdenhedshjul.","","PARASOL GLIDE:
+Hold jump while airborne to slowly glide downwards. 
+Keep an eye on your stamina wheel.",""
+"PistachioAbility2Down",5387539607552,"","LIANSTIK:
+Hold ned nede, mens du er i luften, for at udføre et lianstik, som gør dig i stand til at hoppe på spidse overflader.","","VINE STAB:
+Hold down while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.",""
+"PistachioAbility2Attack",280525697024,"","LIANSTIK:
+Hold angrib nede, mens du er i luften, for at udføre et lianstik, som gør dig i stand til at hoppe på spidse overflader.","","VINE STAB:
+Hold attack while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.",""
+"BananaDescription",282807398400,"","Banana vandrer rundt i verden og leder efter mennesker, der har brug for hjælp og er aldrig ét sted længe. Optimismen farver hans verdensbillede, og han virker som limen, der holder folk sammen. Han har altid sådan et sødt smil på læben. Jeg håber, han bliver hængende...","","Banana wanders the world looking for people in need of aid and is never in one place for long. Optimism colors his world view and he seems like the glue that holds people together. He always has such a cute smile on his face. I hope he sticks around...",""
+"BananaAbility1",344090374144,"","JORDSLAG:
+Tryk på angrib, mens du er i luften for at udføre et kraftigt slag, som kan skade fjender i nærheden og ødelægge sten.","","GROUND SLAM:
+Press attack while airborne to perform a powerful slam which can damage enemies in range and break rocks.",""
+"BananaAbility2",344618856448,"","VÆGHOP:
+Du kan klamre dig til vægge og skride langs dem. Mens du skrider, tryk på hop for at udføre et væghop.","","WALL JUMP:
+You can cling onto walls and slide on them. While sliding, press jump to perform a wall jump.",""

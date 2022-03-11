@@ -1,0 +1,17 @@
+﻿Key,Id,Shared Comments,Danish(da),Danish(da) Comments,English(en),English(en) Comments
+"RestoreDefaults",4943147008,"","Gendan Standardindstillinger","","Restore Defaults",""
+"RestoreDefaultsPrompt",429574483968,"","Er du sikker på, at du vil gendanne standardindstillingerne?","","Are you sure you want to reset to default controls?",""
+"Done",68247777280,"","Færdig","","Done",""
+"ControllerLabel",927639695360,"","Controller:","","Controller:",""
+"ModifyBinding",1115280273408,"","Ændr Indstilling","","Modify Binding",""
+"ModifyBindingMessage",1204161769472,"","""{0}"" er i øjeblikket sat til {1}.","","""{0}"" is currently bound to {1}.",""
+"ReplaceBinding",1604650692608,"","Erstat","","Replace",""
+"RemoveBinding",1637072662528,"","Fjern","","Remove",""
+"AssignKey",9970689142784,"","Tryk på en tast for at sætte den til ""{0}"".","","Press a key to assign it to ""{0}"".",""
+"AssignButtonOrAxis",10291524038656,"","Tryk på en knap eller flyt en akse for at sætte den til ""{0}"".","","Press a button or move an axis to assign it to ""{0}"".",""
+"AssignmentConflict",11612415225856,"","{0} er allerede i brug.
+Ønsker du at erstatte den?","","{0} is already in use. 
+Do you want to replace it?",""
+"ActionColumnLabel",22737454264320,"","Handlinger","","Actions",""
+"KeyboardColumnLabel",22006294802432,"","Tastatur","","Keyboard",""
+"ControllerColumnLabel",21984048214016,"","Controller","","Controller",""

@@ -1,0 +1,22 @@
+﻿Key,Id,Shared Comments,Danish(da),Danish(da) Comments,English(en),English(en) Comments
+"MyLevelsTooltip",190473990144,"","Mine baner","","My Levels",""
+"SaveTooltip",201811193856,"","Gem","","Save",""
+"ItemsTooltip",239568318464,"","Genstande","","Items",""
+"ThemeTooltip",317058084864,"","Tema","","Theme",""
+"GridToggleTooltip",335773069312,"","Slå gitter til/fra","","Toggle Grid",""
+"PickerTooltip",425732501504,"","Pipette","","Picker",""
+"EraserTooltip",489859215360,"","Viskelæder","","Eraser",""
+"PencilTooltip",509928960000,"","Blyant","","Pencil",""
+"LineTooltip",547031773184,"","Linje","","Line",""
+"RectangleTooltip",574139559936,"","Rektangel","","Rectangle",""
+"ExitTooltip",1829712850944,"","Afslut Banebygger","","Exit Level Builder",""
+"ExitPromptText",2683480207360,"","Vil du afslutte Banebyggeren?
+Ændringer, der ikke er gemt, vil gå tabt!","","Exit the Level Builder?
+Unsaved changes will be lost!",""
+"PlaytestTooltip",1831340240896,"","Testkør","","Playtest",""
+"StopPlaytestingTooltip",1869978169344,"","Stop testkørsel","","Stop playtesting",""
+"GroundLayerLabel",1197828370432,"","Mellemgrund","","Ground",""
+"BackgroundLayerLabel",1234566279168,"","Baggrund","","Background",""
+"SlopeSelectorRightSlope",2964364357632,"","Højre hældningsflise","","Right slope tile",""
+"SlopeSelectorFullTile",3018915475456,"","Fuld flise","","Full tile",""
+"SlopeSelectorLeftSlope",3063110856704,"","Venstre hældningsflise","","Left slope tile",""
