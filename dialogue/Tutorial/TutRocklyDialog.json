@@ -1,0 +1,14 @@
+{
+  "DialogueId": "TutRocklyDialog",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "MEMO: DEAR SENIOR ROCKLY. PLEASE\nENSURE NOT A <w>SINGLE</w>, <s>DARN</s>, <w><s><c=31, 79, 44>STINKIN'</c></s></w> SOUL\nTOUCHES THIS CRESCENT!",
+      "THANK YOU.\nKIND REGARDS,\nVIOLASTRO :3"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

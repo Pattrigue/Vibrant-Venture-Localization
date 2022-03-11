@@ -1,0 +1,19 @@
+{
+  "DialogueId": "Azura_Scarlet_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Hey, listen, listen, @CharacterName!\nDid you know?",
+      "Says here that your ability that lets you fly\nforwards using... <w>WATER?!</w>...",
+      "...can actually be angled up or down!",
+      "Haa... I'm so jealous!\nYou can practically fly, @CharacterName.\nTell me, tell me! What's it like?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Look!",
+      "Keep reading..."
+    ]
+  }
+}

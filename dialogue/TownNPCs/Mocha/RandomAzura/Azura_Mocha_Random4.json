@@ -1,0 +1,16 @@
+{
+  "DialogueId": "Azura_Mocha_Random4",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "...\n...\n<s>HAHAHA!!!</s> Yeah, I didn't expect that!",
+      "Ahaha, phew...\nYa can put them back on now...",
+      "Honestly, @CharacterName, ya look great regardless\nof whether or not you wear them.",
+      "Ah, gotta take this call.\n-- Cornucopia Inn, Mocha speaking.\nHow may I help you?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

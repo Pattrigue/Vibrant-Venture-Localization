@@ -1,0 +1,16 @@
+{
+  "DialogueId": "CardinalPistachio_Mocha_First2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Yikes, so he got away, huh...\nA town in disarray means bad news for my\nreservations...",
+      "Do your best gettin' those crystals back!\nAm way too busy, after all...",
+      "...",
+      "Ya sure you're not here for a reservation?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

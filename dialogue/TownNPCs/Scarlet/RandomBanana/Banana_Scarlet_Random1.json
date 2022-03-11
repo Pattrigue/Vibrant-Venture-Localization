@@ -1,0 +1,20 @@
+{
+  "DialogueId": "Banana_Scarlet_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Hey, listen, listen, @CharacterName!\nDid you know?",
+      "Apparently, you can perform a long\njump right after you land a ground slam!",
+      "Wouldn't that make you <w>suuuper</w> quick?",
+      "Or, or... listen to this..!",
+      "If you initiate a ground slam while already\nground slamming, you gain upward\nmomentum!",
+      "It's practically, a low budget double jump,\nisn't it?\n<w>Hahahaha!</w>",
+      "*Ahem...*",
+      "Honestly, it could be really useful for when\nyou need just a tiny bit more height!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

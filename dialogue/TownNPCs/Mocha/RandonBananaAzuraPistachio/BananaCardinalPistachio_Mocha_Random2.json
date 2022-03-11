@@ -1,0 +1,19 @@
+{
+  "DialogueId": "BananaCardinalPistachio_Mocha_Random2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Before I inherited this inn from my father,\nHickory...",
+      "I had a lotta trouble speakin' with\ncustomers when I was helpin' him out around\nthe Inn.",
+      "Learnin' to speak politely and without accent\nto new customers was difficult...",
+      "but I got the hang of it after some time!",
+      "It's refreshin' to not have to worry about\nthat around you guys, though.",
+      "You're welcome anytime, @CharacterName.",
+      "Might even give ya a bargain if ya decide to\nrent a room now..."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

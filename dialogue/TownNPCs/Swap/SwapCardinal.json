@@ -1,0 +1,16 @@
+{
+  "DialogueId": "SwapCardinal",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "(Swap to <c=cardinal>Cardinal</c>?)"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Yes",
+      "No"
+    ]
+  }
+}

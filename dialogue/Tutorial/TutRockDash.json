@@ -1,0 +1,13 @@
+{
+  "DialogueId": "TutRockDash",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "TIP: You can break rocks by dashing through\nthem!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "DialogueId": "CardinalPistachio_Mocha_First1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Welcome to Cornucopia's very own inn!",
+      "If you're lookin' for somewhere to stay,\nyou're at the right place!",
+      "...Wait, so you're not here for a\nreservation?",
+      "Hey, aren't ya one of those vibrants that\nwent after <c=violastro>that villain</c>?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Yes, but...",
+      "Vibrants?"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "DialogueId": "TutQuantumHeart",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Subject: Quantum Heart.\nDeveloped by: Awesome & Likely to Break the Fabric of Spacetime Innovations.",
+      "Usage: Entangles the user to a parallel\neigen entity existing on another plane of\nreality.",
+      "This quantum entanglement causes the\nentangled partner to mimic the user's\nmovement, and vice versa.",
+      "The entanglement can be broken by using an\nability, causing the user to quantum tunnel\nto the entangled entity's position.",
+      "<s>USE WITH CAUTION!!</s>\nWe all exist in the same spacetime, so\nplease don't break it, alright?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

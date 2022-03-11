@@ -1,0 +1,16 @@
+{
+  "DialogueId": "Azura_Mocha_First2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Yikes, so he got away, huh...\nA town in disarray means bad news for my\nreservations...",
+      "No need to worry, @CharacterName!\nYa done plenty more daunting tasks before,\nam sure! Like... Uhh... <w>Uhmmm...</w>",
+      "Screw it, I got nothin'.\nAm way too busy!",
+      "I'll just make sure no one takes ya room in\nthe meantime."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

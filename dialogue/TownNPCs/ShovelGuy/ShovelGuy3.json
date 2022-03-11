@@ -1,0 +1,15 @@
+{
+  "DialogueId": "ShovelGuy3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "I wonder, maybe if I do a good job, I'll be\nallowed to work on more town projects in\nthe future.",
+      "This might look pretty boring, but everyone\nhas to start somewhere, don't they?",
+      "I'd like to dig out some space and lay the\nground works for a fountain in the future!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Banana_Mocha_First1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Welcome to Cornucopia's very own inn!",
+      "Oh, where have I seen you before?\n@CharacterName, is it?\nDidn't you also chase after <c=violastro>that villain</c>?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "I did, but...",
+      "I didn't."
+    ]
+  }
+}

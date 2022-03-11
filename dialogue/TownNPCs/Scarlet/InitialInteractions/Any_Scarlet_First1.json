@@ -1,0 +1,23 @@
+{
+  "DialogueId": "Any_Scarlet_First1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "...\n...\nOH, hi!",
+      "Hehe, sorry. I didn't notice you because I've\nbeen reading this new book I got my hands\non recently.",
+      "Have we met before?\nI'm not sure...",
+      "Maybe it's because I'm too busy reading\nbooks all the time to notice, <w>haha...</w>",
+      "What kind of books do you like?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Fiction books.",
+      "Textbooks.",
+      "Comics.",
+      "I don't like reading.",
+      "I love all kinds!"
+    ]
+  }
+}

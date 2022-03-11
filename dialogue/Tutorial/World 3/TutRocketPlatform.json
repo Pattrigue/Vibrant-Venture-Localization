@@ -1,0 +1,14 @@
+{
+  "DialogueId": "TutRocketPlatform",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "NOTICE: <s>Y'ALL STOP CRASHING THE ROCKETS\nINTO THE DARN WALLS!</s>",
+      "<s>PRESS UP OR DOWN TO CONTROL THE\nROCKET'S TRAJECTORY!</s>\n- VIOLASTRO"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

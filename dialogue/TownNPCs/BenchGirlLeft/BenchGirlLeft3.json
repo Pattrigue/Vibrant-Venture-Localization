@@ -1,0 +1,18 @@
+{
+  "DialogueId": "BenchGirlLeft3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "H-Have you heard?\nThey say that the old clock tower is...",
+      "<s>HAUNTED!</s>",
+      "<w>Eeeek!</w>\nI'm never gonna go there, no way!",
+      "And you shouldn't either!",
+      "...",
+      "Not that you can, anyway..."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

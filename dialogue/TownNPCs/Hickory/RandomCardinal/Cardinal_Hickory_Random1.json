@@ -1,0 +1,18 @@
+{
+  "DialogueId": "Cardinal_Hickory_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Were ya out cold again, @CharacterName?\nYou have a habit of bein' late, whatever the\noccassion!",
+      "If ya wanna be as dependable as you said\nya wanted to be...",
+      "oversleepin' on the day the crystals were\nstolen was a bad start!",
+      "Tell ya what, son.\nI got some mighty fine upgrades that'll make\nup for what y'are missin'.",
+      "There's even one that makes up for when ya\nfall asleep out on the field.",
+      "Now that's one I highly recommend to ya!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

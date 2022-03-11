@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Azura_Mocha_Random2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Hmmmm...\n....\nSay, @CharacterName...",
+      "I've been wonderin' for a while now, but what\ndo you look like without ya glasses on, hm?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Um, I...",
+      "L-Like this?"
+    ]
+  }
+}

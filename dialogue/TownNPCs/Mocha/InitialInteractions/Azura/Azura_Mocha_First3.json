@@ -1,0 +1,19 @@
+{
+  "DialogueId": "Azura_Mocha_First3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Really? That's great to hear!\nMeans I don't have to worry 'bout a\ndecrease in reservations.",
+      "You sound a little unsure, though...\nYa sure everything's okay, @CharacterName?",
+      "Yikes... Flat on your face, huh...\nI can definitely see that.\nWell, best to stay optimistic!",
+      "You're all workin' hard to get the crystals\nback, aren't ya?",
+      "You do that, and I'll make sure ya have a\nroom to stay in.",
+      "...First-aid's in the drawer on my left, if ya\nhave any need for that...",
+      "Because, ya know, your face is still a lil' red."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

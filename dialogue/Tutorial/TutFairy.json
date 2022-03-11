@@ -1,0 +1,14 @@
+{
+  "DialogueId": "TutFairy",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Fairies grant you an extra hit!",
+      "Getting an additional fairy will turn the new\nfairy into gems."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

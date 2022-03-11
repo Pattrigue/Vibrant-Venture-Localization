@@ -1,0 +1,19 @@
+{
+  "DialogueId": "Cardinal_Scarlet_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Hey, listen, listen, @CharacterName!\nDid you know?",
+      "It says here that your abilities are pretty\nstraightforward...",
+      "...and I mean, one seems to literally propel\nyou forward, haha!",
+      "*Ahem* Your Fire Kick seems to be\nespecially useful for damaging multiple\nenemies...",
+      "because it lasts until you land!",
+      "Oooh, and your Fiery Double Jump can cover\nyou both to the left and right!",
+      "It's pretty clear you have what it takes to\ncombat multiple enemies at once, @CharacterName!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

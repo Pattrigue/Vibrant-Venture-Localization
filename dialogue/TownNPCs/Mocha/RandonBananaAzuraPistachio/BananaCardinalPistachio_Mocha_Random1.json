@@ -1,0 +1,19 @@
+{
+  "DialogueId": "BananaCardinalPistachio_Mocha_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "...Cornucopia Inn, this is Mocha speaking.\nHow may I help you?",
+      "-- Sorry, @CharacterName, I gotta answer this. --",
+      "O-oh, there is a difference between mice\nand rats?",
+      "I am terribly sorry for mixing up the two,\nsir.",
+      "You would throw what?\nPlease do not talk like that, sir.",
+      "Once again my apologies --\nAh, he hung up.",
+      "Am sorry ya had to listen to that..."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

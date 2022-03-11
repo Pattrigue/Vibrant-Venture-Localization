@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Banana_Hickory_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Ya here for more tools, @CharacterName?",
+      "I swear, ya do carry 'round a lotta things all\nthe time.\nDon't 'cha get tired of that?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Not at all!",
+      "Eh, sometimes..."
+    ]
+  }
+}

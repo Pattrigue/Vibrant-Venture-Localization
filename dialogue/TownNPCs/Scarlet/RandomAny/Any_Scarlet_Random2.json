@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Any_Scarlet_Random2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "...\nWhat I'm reading?",
+      "I'm not reading anything right now...\nI'm just looking at the people, buildings,\ntrees, and the sky.",
+      "This is such a great place to relax.\nThe townspeople are really kind, too!",
+      "If stories have taught me anything, it is to\nmake sure to live in the moment.\nEnjoy things!",
+      "You make sure to do that too, okay?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

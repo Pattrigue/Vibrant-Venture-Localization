@@ -1,0 +1,16 @@
+{
+  "DialogueId": "Any_Scarlet_Random8",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "...\n<w>WOAH!</w> Really?!",
+      "That's great, because I can't choose either!",
+      "You know what you should really try?\nReading underneath the starry sky!\nIt's the most tranquil thing ever...",
+      "Would you like to join me sometime?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

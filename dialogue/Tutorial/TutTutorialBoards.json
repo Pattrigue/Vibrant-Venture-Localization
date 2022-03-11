@@ -1,0 +1,14 @@
+{
+  "DialogueId": "TutTutorialBoards",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "These boards show you your current\ncontrols.",
+      "You can change controls in the options menu\nby pausing the game."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

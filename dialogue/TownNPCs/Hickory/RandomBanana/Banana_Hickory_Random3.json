@@ -1,0 +1,15 @@
+{
+  "DialogueId": "Banana_Hickory_Random3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Yeah, no kiddin'!\nWherever you seem to go, that backpack\nfollows!",
+      "I know ya might not want 'ta add to its\nweight, but I think I might have some stuff\nthat could ease the burden.",
+      "Don't be shy, take a look 'round!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

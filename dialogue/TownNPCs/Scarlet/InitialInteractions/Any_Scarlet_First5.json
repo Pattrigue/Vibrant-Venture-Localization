@@ -1,0 +1,23 @@
+{
+  "DialogueId": "Any_Scarlet_First5",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Interesting!\nNot a lot of people are into these, you know...",
+      "But that doesn't mean we have bad taste!",
+      "I personally enjoy when authors\noccassionally throw in puns and sarcasm\nduring their explanations.",
+      "I think an author's way of conveying\ninformation is what makes people\nunderstand and enjoy their work!",
+      "Every author has their own way of writing,\nso if you don't understand or enjoy a book...",
+      "...you could try to pick up one from another\nauthor!",
+      "Woops... I guess I kinda lost myself there,\ndidn't I?",
+      "You should drop by every once in a while!\nI'll tell you about the things I'm reading."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Sure thing!",
+      "Sorry..."
+    ]
+  }
+}

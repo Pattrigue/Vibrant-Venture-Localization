@@ -1,0 +1,18 @@
+{
+  "DialogueId": "Pistachio_Olive_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Back again for advice on the outside world?",
+      "...Who am I kidding?\nYou're the venturer here, not me!",
+      "Then, perhaps you're here for advice on\n<c=cardinal>that guy</c>, <w>hmmm?</w>"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Olive!!!",
+      "Advice?"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "DialogueId": "Any_Scarlet_First8",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Right?! I gotta be honest...\nSometimes I'm just craving stories that are\ntold alongside works of art!",
+      "Whether they take place in a completely\ndifferent world with all kinds of species...",
+      "or simply twist our own reality...",
+      "<w>AAAAH, there's so many good works out\nthere!</w>",
+      "They may also be what keeps me up at\nnight, <w>haha...</w>",
+      "Hey, hey, you should totally come by every\nonce in a while!",
+      "You know, so I can tell you about what I'm\nreading!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Sounds fun!",
+      "I'll pass."
+    ]
+  }
+}

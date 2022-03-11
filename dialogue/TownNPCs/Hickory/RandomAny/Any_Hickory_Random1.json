@@ -1,0 +1,22 @@
+{
+  "DialogueId": "Any_Hickory_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Have ya paid a visit to my daughter <c=mocha>Mocha</c>\nyet?",
+      "She's takin' care of the inn I used to run till\nrecently.",
+      "Am gettin' too old for such taxin' work!",
+      "Gotta be honest with ya, she's doin' a much\nbetter job than I did when I was 'round her\nage.",
+      "Compared to her am doin' practically\nnothin'!",
+      "<w>*sniff sniff*</w>\nReally somethin' to be proud of...",
+      "If only I could easily visit her, but the inn's\nquite far."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "It's not THAT far away...",
+      "Sounds tough."
+    ]
+  }
+}

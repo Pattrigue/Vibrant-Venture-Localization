@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Any_Scarlet_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "You can learn so much from reading books!",
+      "For instance, they allow you to understand\nthe characters' different points of view in\nstories.",
+      "Learning about why the characters think\nand act the way they do is very fascinating.",
+      "I'd like to write my own story some day!",
+      "You can be the first to read it, @CharacterName!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

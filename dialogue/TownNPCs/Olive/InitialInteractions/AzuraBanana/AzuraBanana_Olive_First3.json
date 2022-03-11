@@ -1,0 +1,17 @@
+{
+  "DialogueId": "AzuraBanana_Olive_First3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Well, I'm glad to know that you're all okay.",
+      "You guys tried to prevent the crystals from\nbeing stolen, but <c=violastro>that thief</c> got away, didn't\nhe?",
+      "I heard about what happened when I ran into\n<c=131,42,13>Hickory</c> on my way to <c=pistachio>my little sister</c>.",
+      "I don't know what I'd do if something were to\nhappen to her...",
+      "Please be careful on your adventures!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

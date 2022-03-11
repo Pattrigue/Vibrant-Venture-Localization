@@ -1,0 +1,19 @@
+{
+  "DialogueId": "Any_Scarlet_First14",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "...\n...\n<s>REALLY?!</s>",
+      "<w>Woooow!</w>\nIt's been, like, like... SO long since I've met\nsomeone with similar interests!",
+      "We should, like, totally read books together\nsometime!",
+      "If you just come visit me every now and then,\nwe can talk about the things we're reading!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "I'd love to!",
+      "I'm busy... but later?"
+    ]
+  }
+}

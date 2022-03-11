@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Banana_Mocha_First3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "What? Why not?\n<c=violastro>Big purple baddie</c> steals the crystals, and\nyou just watched?",
+      "Oh, ya probably just meant he got away,\ndidn't ya?\nWell, I can understand that...",
+      "In any case, ya make sure to find <c=violastro>that thief</c>!\nWe're all countin' on ya.",
+      "Am way too busy, after all...",
+      "You got <c=azura>that bookworm</c> with ya too, so you'll\nbe fine, <w>haha!</w>"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

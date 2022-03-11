@@ -1,0 +1,16 @@
+{
+  "DialogueId": "Cardinal_Olive_First2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Oh, so she's tagging along with you now,\n@CharacterName?",
+      "I'm <w>suuuuure</w> she's comfortable with that!\n...She's not with you now, is she?",
+      "@CharacterName, please tell <c=pistachio>my little sister</c> to come\nby every once in a while, and keep her safe.",
+      "And tell me about your adventures when you\ncan!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

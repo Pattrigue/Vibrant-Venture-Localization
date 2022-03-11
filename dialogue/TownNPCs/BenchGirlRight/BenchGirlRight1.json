@@ -1,0 +1,14 @@
+{
+  "DialogueId": "BenchGirlRight1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "She seems to be pretty upset about the\nfact that I keep rolling six on the die.",
+      "I wonder when she'll realise that there are\nsix dots on each side, <w>hehe!</w>"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

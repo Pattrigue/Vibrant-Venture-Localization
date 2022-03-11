@@ -1,0 +1,17 @@
+{
+  "DialogueId": "BenchGirlLeft1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "I'm <w>REAAALLY</w> busy right now!",
+      "...",
+      "Come on...",
+      "<s>A SIX?!</s>\nShe rolled the die and got a <s>SIX?</s>\n<s>AGAIN?!</s>",
+      "I'm going to keep losing to her, aren't I?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "DialogueId": "TutJump",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "The faster you run, the higher you can\njump.",
+      "Holding the jump button also maximizes your jump height.",
+      "Quickly tapping jump instead results in\nshorter and quicker jumps!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

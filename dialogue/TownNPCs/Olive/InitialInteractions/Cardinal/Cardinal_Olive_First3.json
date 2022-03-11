@@ -1,0 +1,16 @@
+{
+  "DialogueId": "Cardinal_Olive_First3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "<s><c=cardinal>CARDINAL</c>!!!</s>\n<c=pistachio>Pistachio</c>, my little sister!\nDon't mess around...",
+      "Oh, so she's with you now?\nI guess she's comfortable with that...",
+      "Oh, huh? Nothing!\nPlease tell her to come by every once in a\nwhile, okay?",
+      "I'd like to hear about her adventures!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

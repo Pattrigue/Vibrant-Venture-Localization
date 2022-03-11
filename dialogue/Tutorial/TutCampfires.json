@@ -1,0 +1,14 @@
+{
+  "DialogueId": "TutCampfires",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "If you die, you respawn at the most recently\nactivated campfire.",
+      "Touching a campfire also saves your\nprogress in the level."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

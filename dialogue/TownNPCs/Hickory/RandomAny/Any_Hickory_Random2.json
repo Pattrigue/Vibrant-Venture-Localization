@@ -1,0 +1,16 @@
+{
+  "DialogueId": "Any_Hickory_Random2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "<s>WHAT?!\nIt's practically next-door?!</s>",
+      "You're right!\nWe moved to a new buildin' years ago!",
+      "Ya don't needa buy anythin', right?\nGreat! Am gonna wrap up today's work and\ngo see me daughter.",
+      "Outta the way, skittles!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

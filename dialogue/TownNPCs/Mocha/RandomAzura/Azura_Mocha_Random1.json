@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Azura_Mocha_Random1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Ya know, @CharacterName...\nYou shouldn't leave ya door open too much.",
+      "Colourful characters might snoop around\nand take that book full of data ya writin'.",
+      "That's right, I know about ya book.\nAm the inkeeper!",
+      "There's nothin' here that I don't know!",
+      "<w>Whoopsee,</w> gotta get back to work."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

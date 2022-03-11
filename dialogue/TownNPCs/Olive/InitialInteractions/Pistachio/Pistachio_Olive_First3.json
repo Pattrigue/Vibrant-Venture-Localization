@@ -1,0 +1,15 @@
+{
+  "DialogueId": "Pistachio_Olive_First3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "R-Really..?\nI guess there's no stopping you...",
+      "At the very least...\nif you do make it back, let me listen to your\nadventures.",
+      "That way I can make sure you're not doing\nanything too dangerous..!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

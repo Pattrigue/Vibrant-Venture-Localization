@@ -1,0 +1,18 @@
+{
+  "DialogueId": "Any_Hickory_Random5",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Been thinkin' recently...\nCornucopia really needs a restaurant!",
+      "Was wonderin' if it'd be possible to renovate\nthis lil' shop here and turn it into somethin'\nlike that...",
+      "I wanted to do somethin' that might benefit\nmy daughter <c=mocha>Mocha</c> in some way as well.",
+      "Could make for nice chemistry between the\nplaces...",
+      "<s>I'M A GENIUS!!!</s>",
+      "Might go and make a start by sellin' drinks...\nYa got any preferences, spectrum?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

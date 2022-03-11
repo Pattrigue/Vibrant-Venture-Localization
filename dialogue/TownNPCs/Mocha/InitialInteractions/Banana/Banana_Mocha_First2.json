@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Banana_Mocha_First2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Yikes, so he got away, huh...\nA town in disarray means bad news for my\nreservations...",
+      "Turn that frown upside down, @CharacterName!",
+      "Everyone, includin' me, is countin' on ya!",
+      "Am way too busy, after all...",
+      "You got <c=azura>that bookworm</c> with ya too, so you'll\nbe fine, <w>haha!</w>"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

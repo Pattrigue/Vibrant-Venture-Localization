@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Any_Scarlet_First11",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Really? That's a shame...\nBut I guess not everyone can appreciate\nbooks like I do.",
+      "But if you like, I could tell you something\nabout what I'm reading if you stop by every\nonce in a while."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Well, okay.",
+      "I'm good, thanks."
+    ]
+  }
+}

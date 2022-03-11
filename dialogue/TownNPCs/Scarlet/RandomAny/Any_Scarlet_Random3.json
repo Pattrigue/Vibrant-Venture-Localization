@@ -1,0 +1,22 @@
+{
+  "DialogueId": "Any_Scarlet_Random3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Isn't it great how there are so many\ndifferent books, all with different kinds of\nstories?",
+      "Say, say, I'm really curious!",
+      "What's your favourite genre?\nDoesn't have to be for books per-se!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Adventure & Action.",
+      "Drama & Romance.",
+      "Mystery & Horror.",
+      "Slice of Life & Comedy.",
+      "All of the above!",
+      "Don't have one..."
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "DialogueId": "BenchGirlLeft2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Going out of town and exploring the woods\nand beyond sounds like a lot of fun.",
+      "But I think this town in itself is plenty of fun, too!",
+      "I don't think there's anything better than\nbeing able to enjoy talks and games with my\nfriend, while close to home.",
+      "It means we can stay up very late playing\ngames, since we don't have to walk very far\nto get back home!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

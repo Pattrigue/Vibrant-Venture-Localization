@@ -1,0 +1,16 @@
+{
+  "DialogueId": "Banana_Hickory_Random2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Hehe, you're right, it is good excercise.",
+      "Ya know what else may be good excercise\nfor ya?",
+      "<s>Purchasin' my upgrades, that's what!!!</s>",
+      "Never said it'd be good for yer wallet..."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

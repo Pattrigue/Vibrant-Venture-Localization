@@ -1,0 +1,14 @@
+{
+  "DialogueId": "TutPowerFruit",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "<c=163,79,203>Power Fruits</c> recharge your abilities!\nThis allows you to use an ability twice.",
+      "It also allows you to swap character more\nthan once while airborne."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

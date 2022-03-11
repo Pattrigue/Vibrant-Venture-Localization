@@ -1,0 +1,15 @@
+{
+  "DialogueId": "Any_Mocha_StandingOnCounter",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "...\n...\n'Scuse me?",
+      "Could ya, like, not do that?",
+      "Seriously.\nI don't want any customers walking in on\nsomething like this."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

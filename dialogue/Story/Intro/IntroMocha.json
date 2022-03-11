@@ -1,0 +1,13 @@
+{
+  "DialogueId": "IntroMocha",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "THE TEMPLE IS UNDER ATTACK!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

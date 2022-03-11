@@ -1,0 +1,14 @@
+{
+  "DialogueId": "Any_Hickory_StandingOnCounter",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "<s>WHAT ARE YOU DOING?!</s>",
+      "Get off me counter this instant!\n<w>I just had it cleaned...</w>"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

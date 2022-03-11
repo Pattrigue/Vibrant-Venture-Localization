@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Pistachio_Olive_First5",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "That's right!\nI'm so glad you finally understand.",
+      "W-Wait, what?\nSeriously, you only came back for a change\nof pace?",
+      "You've always been like this...",
+      "Will you atleast tell me about your\nadventures every once in a while?",
+      "That way I can make sure you're not doing\nanything too dangerous..!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

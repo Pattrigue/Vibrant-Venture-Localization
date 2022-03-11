@@ -1,0 +1,16 @@
+{
+  "DialogueId": "AzuraBanana_Olive_First1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Oh, hello.\nI'm sure we've met before, haven't we?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Have we?",
+      "We have!"
+    ]
+  }
+}

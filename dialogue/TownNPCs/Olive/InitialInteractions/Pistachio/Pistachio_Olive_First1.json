@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Pistachio_Olive_First1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "See? We told you!",
+      "Venturing out of town is way too dangerous!\nDid you come back after realising that?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Actually...",
+      "Yup!"
+    ]
+  }
+}

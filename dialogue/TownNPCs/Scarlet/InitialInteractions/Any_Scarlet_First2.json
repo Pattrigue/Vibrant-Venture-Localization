@@ -1,0 +1,21 @@
+{
+  "DialogueId": "Any_Scarlet_First2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Yeah, of course!\nThey're usually great for just completely\nimmersing yourself.",
+      "Aah... I always love how I'm able to imagine a\nstory's scenery from just letters alone...",
+      "...then a movie adaption comes along and it\nturns out your vision totally differs from\nthe movie makers'!",
+      "But isn't that what's so great about books?\nEveryone visualises things differently, after\nall!",
+      "S-Sorry... I kinda lost myself there, <w>haha...</w>",
+      "Hey, you should stop by every once in a while!\nI'll tell you about the things I'm reading."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "Sounds good!",
+      "Thanks, but I'll pass."
+    ]
+  }
+}

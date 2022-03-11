@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Cardinal_Olive_First1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Hey, @CharacterName.\nI heard about what happened from <c=hickory>Hickory</c>.",
+      "How are you and <c=pistachio>my little sister</c> doing?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "I'm fine! She's...",
+      "Me and who?"
+    ]
+  }
+}

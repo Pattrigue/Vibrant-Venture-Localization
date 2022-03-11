@@ -1,0 +1,15 @@
+{
+  "DialogueId": "InnGuy2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "I really thought I'd seen everything by now,\nbut man, really?",
+      "<c=violastro>A stylish, purple sorcerer</c> flying around on a\nmagic saucer who likes to steal shiny\nobjects?",
+      "This town never gets old, I swear."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

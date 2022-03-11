@@ -1,0 +1,15 @@
+{
+  "DialogueId": "TutCharWheel",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "You don't have to open the character wheel\nto swap characters.",
+      "Simply press one of the four designated\nbuttons to instantly swap to the\ncorresponding character!",
+      "However, opening the wheel will slow down\ntime for a few seconds!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

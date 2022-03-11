@@ -1,0 +1,14 @@
+{
+  "DialogueId": "TutCrateSensors",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "NOTICE: <s>DO NOT DISABLE THE SUPER ULTRA\nUNPASSABLE STEALTH LASER!</s>",
+      "THIS IS TO KEEP THOSE <w><c=cardinal>D</c><c=azura>A</c><c=banana>R</c><c=pistachio>N</c> ADVENTURERS</w>\nFROM SNOOPIN' AROUND! <s>GOT IT?!</s>"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

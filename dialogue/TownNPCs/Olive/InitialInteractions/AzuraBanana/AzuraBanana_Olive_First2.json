@@ -1,0 +1,18 @@
+{
+  "DialogueId": "AzuraBanana_Olive_First2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "You don't remember?\nWell, I understand since we never directly\nspoke to each other before.",
+      "My name is <c=pistachio>Olive</c>.\nI'm <c=pistachio>Pistachio</c>'s older sister!",
+      "I heard that you guys tried to prevent the\ncrystals from being stolen...\nbut <c=violastro>that thief</c> got away, didn't he?",
+      "I wanted to check up on <c=pistachio>my little sister</c>, but\ninstead I ran into <c=131,42,13>Hickory</c> who told me what\nhad happened.",
+      "I'm glad you are all okay.\nI don't know what I'd do if something were to\nhappen to <c=pistachio>my little sister</c>...",
+      "Please be careful on your adventures!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

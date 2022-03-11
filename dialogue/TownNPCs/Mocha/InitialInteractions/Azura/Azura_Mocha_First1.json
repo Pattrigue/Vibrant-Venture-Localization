@@ -1,0 +1,17 @@
+{
+  "DialogueId": "Azura_Mocha_First1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Welcome to Cornucopia's very own inn!",
+      "Oh, that you, @CharacterName?\nDid ya manage to do somethin' about <c=violastro>that\nvillain</c>?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "He got away...",
+      "Y-Yes, of course!"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "DialogueId": "BenchGirlRight3",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Cornucopia has been around for a really\nlong time now.",
+      "The crystals are pretty much the town's\nicon, and I love to look at their beautiful\nreflections!",
+      "How dare <c=violastro>that villain</c> take them for himself?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

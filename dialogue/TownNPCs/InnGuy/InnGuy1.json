@@ -1,0 +1,15 @@
+{
+  "DialogueId": "InnGuy1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "The inn's owner, <c=mocha>Mocha</c>, is really dedicated\nto her work.",
+      "She's busy all night and day taking care of\nthe place, taking almost all tasks upon\nherself.",
+      "I think she could really use a break."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

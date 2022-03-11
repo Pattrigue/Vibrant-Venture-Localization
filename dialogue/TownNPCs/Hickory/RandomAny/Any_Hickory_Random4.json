@@ -1,0 +1,20 @@
+{
+  "DialogueId": "Any_Hickory_Random4",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "How's that ring holdin' out for ya?\nPretty well so far, huh?",
+      "Don't remember for the life of me where I\ngot that thing from...",
+      "but I could swear the salesman told me it's\nconnected to the crystals in some way.",
+      "Is it made from the same materials as the\ncrystals?",
+      "Or maybe just imbued with their magical\nproperties?",
+      "I have no heckin' clue!\nWhat do ya think?",
+      "In any case, be sure to hold onto that thing.\nY'all seem to be able to make good use of it!",
+      "...When 're you gonna pay for that though?"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

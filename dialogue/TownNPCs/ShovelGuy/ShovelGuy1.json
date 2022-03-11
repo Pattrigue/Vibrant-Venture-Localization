@@ -1,0 +1,16 @@
+{
+  "DialogueId": "ShovelGuy1",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "<c=mocha>Mocha</c> asked me to dig out some space for\na storage unit she's planning on having built.",
+      "We go a long way back, so I had no issue\nwith helping out an old friend!",
+      "Might be developing an issue, though...",
+      "And it involves my back."
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": []
+  }
+}

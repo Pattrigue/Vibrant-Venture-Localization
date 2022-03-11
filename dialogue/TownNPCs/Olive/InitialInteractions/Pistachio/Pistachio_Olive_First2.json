@@ -1,0 +1,19 @@
+{
+  "DialogueId": "Pistachio_Olive_First2",
+  "Dialogue": {
+    "da": [],
+    "en": [
+      "Huuuh, so you're with them now, Stachi?\nAnd you're not here to stay?",
+      "Wow...",
+      "Still! Even if you come back now, there's no\nguarantee you will next time!",
+      "Are you still going despite knowing that?!"
+    ]
+  },
+  "Responses": {
+    "da": [],
+    "en": [
+      "I promise to return!",
+      "I... don't know."
+    ]
+  }
+}
