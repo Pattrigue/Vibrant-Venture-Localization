@@ -1,4 +1,4 @@
-﻿Key,Id,Shared Comments,Danish(da),Danish(da) Comments,English(en),English(en) Comments
+Key,Id,Shared Comments,Danish(da),English(en)
 "NoPetsMessage",694222483456,"","Kæledyr, du laver, vil vises her.
 
 Tryk på ""Ny"" for at lave et nyt kæledyr!","","Any pet you create will show up here.
@@ -65,7 +65,8 @@ Unsaved changes will be lost!",""
 Unsaved changes will be lost!",""
 "PetNameAlreadyExitsPromptText",78185150705664,"","Et kæledyr med dette navn findes allerede.
 Vil du overskrive denne fil?","","A pet with this name already exists.
-Overwrite this file?",""
+Overwrite this file?
+",""
 "WorkshopWindowTitle",1820890868379648,"","Du er ved at indsende et kæledyr til Steam Workshop.","","You are about submit a pet to the Steam Workshop.",""
 "WorkshopVisibilityLabel",1820942441541632,"","Synlighed:","","Visibility:",""
 "WorkshopVisibilityPublic",1821027472666624,"","Offentlig","","Public",""

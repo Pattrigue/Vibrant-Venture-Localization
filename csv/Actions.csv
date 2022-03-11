@@ -1,4 +1,4 @@
-﻿Key,Id,Shared Comments,Danish(da),Danish(da) Comments,English(en),English(en) Comments
+Key,Id,Shared Comments,Danish(da),English(en)
 "Horizontal",4532105216,"","Bevæg horizontalt (Controller Stick)","","Move Horizontally (Control Stick)",""
 "HorizontalPositive",4848735121408,"","Højre","","Right",""
 "HorizontalNegative",4852560326656,"","Venstre","","Left",""
@@ -12,7 +12,8 @@
 "Sprint",5424688558080,"","Løb","","Sprint",""
 "SwapToCardinal",5434536783872,"","Skift til Cardinal","","Swap to Cardinal",""
 "SwapToAzura",5446188560384,"","Skift til Azura","","Swap to Azura",""
-"SwapToPistachio",5458603700224,"","Skift til Pistachio","","Swap to Pistachio",""
+"SwapToPistachio",5458603700224,"","Skift til Pistachio","","Swap to Pistachio
+",""
 "SwapToBanana",5489788350464,"","Skift til Banana","","Swap to Banana",""
 "SwapVertical",5512102047744,"","Skift Vertikalt (Controller)","","Swap Vertical (Controller)",""
 "SwapHorizontal",5558725931008,"","Skift Horisontalt (Controller)","","Swap Horizontal (Controller)",""
