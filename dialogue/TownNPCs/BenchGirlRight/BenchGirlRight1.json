@@ -1,10 +1,13 @@
 {
   "DialogueId": "BenchGirlRight1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hun virker ret træt af, at jeg bliver ved med at slå en sekser med terningen.",
+      "Gad vide, hvornår det går op for hende, at der er seks prikker på hver side, <w>hihi!</w>"
+    ],
     "en": [
-      "She seems to be pretty upset about the\nfact that I keep rolling six on the die.",
-      "I wonder when she'll realise that there are\nsix dots on each side, <w>hehe!</w>"
+      "She seems to be pretty upset about the fact that I keep rolling six on the die.",
+      "I wonder when she'll realise that there are six dots on each side, <w>hehe!</w>"
     ]
   },
   "Responses": {

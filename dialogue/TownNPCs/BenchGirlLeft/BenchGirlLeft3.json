@@ -1,7 +1,14 @@
 {
   "DialogueId": "BenchGirlLeft3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "H-har du hørt det?\nDe siger, at det gamle klokketårn er...",
+      "<s>HJEMSØGT!</s>",
+      "<w>Giiisp!</w>\nDer skal jeg skam aldrig ind, næh nej!",
+      "Og du burde heller aldrig gå derind!",
+      "...",
+      "Ikke fordi du kan alligevel..."
+    ],
     "en": [
       "H-Have you heard?\nThey say that the old clock tower is...",
       "<s>HAUNTED!</s>",

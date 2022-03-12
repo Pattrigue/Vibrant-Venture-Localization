@@ -1,11 +1,15 @@
 {
   "DialogueId": "ShovelGuy3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Mon ikke, hvis jeg gør et godt stykke arbejde, at jeg får lov til at arbejde på flere byprojekter i fremtiden.",
+      "Det ser måske ret kedeligt ud, men man skal vel starte et sted, ikke?",
+      "Jeg gad godt grave lidt plads ud og lægge grunden til et springvand i fremtiden!"
+    ],
     "en": [
-      "I wonder, maybe if I do a good job, I'll be\nallowed to work on more town projects in\nthe future.",
-      "This might look pretty boring, but everyone\nhas to start somewhere, don't they?",
-      "I'd like to dig out some space and lay the\nground works for a fountain in the future!"
+      "I wonder, maybe if I do a good job, I'll be allowed to work on more town projects in the future.",
+      "This might look pretty boring, but everyone has to start somewhere, don't they?",
+      "I'd like to dig out some space and lay the ground works for a fountain in the future!"
     ]
   },
   "Responses": {

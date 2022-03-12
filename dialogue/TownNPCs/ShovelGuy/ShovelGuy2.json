@@ -1,16 +1,22 @@
 {
   "DialogueId": "ShovelGuy2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Jeg har været i gang med det her et stykke tid nu, og det ser ikke ud til, at jeg bliver færdig snart.",
+      "Jeg ser en masse mennesker gå forbi, mens jeg graver.",
+      "Der er dog en ting, jeg ikke forstår...",
+      "Hvorledes kan det være, at folk kalder mig \"Skovlfyren\"?",
+      "Det er kun et par dage siden, jeg startede!"
+    ],
     "en": [
-      "I've been at this for a while now, and it\ndoesn't look like I'll be done any time soon.",
-      "I get to see a lot of people pass by while I'm\nhere digging for days.",
-      "I can't wrap my head around one thing,\nthough..",
+      "I've been at this for a while now, and it doesn't look like I'll be done any time soon.",
+      "I get to see a lot of people pass by while I'm here digging for days.",
+      "I can't wrap my head around one thing, though..",
       "Why is it that people refer to me as \"Shovel Guy\"?",
       "It's only been a few days since I've started!",
-      "The one nickname I REALLY don't understand\nis \"Shovel Night\".",
+      "The one nickname I REALLY don't understand is \"Shovel Night\".",
       "Where do they get that from?!",
-      "Don't tell me...\nIs it because I shovel at night, too?",
+      "Don't tell me... Is it because I shovel at night, too?",
       "<w>Veeery</w> funny..."
     ]
   },

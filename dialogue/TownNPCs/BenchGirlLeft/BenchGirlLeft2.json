@@ -1,12 +1,17 @@
 {
   "DialogueId": "BenchGirlLeft2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "At forlade byen og udforske skoven og landet lyder meget sjovt.",
+      "Men jeg synes også, at denne by i sig selv er meget sjov!",
+      "Jeg synes ikke, der er noget bedre end at kunne hygge med samtaler og spil med min ven tæt på hjemmet.",
+      "Det betyder, at vi kan blive sent oppe og spille spil, da vi ikke behøver at gå ret langt for at komme hjem igen!"
+    ],
     "en": [
-      "Going out of town and exploring the woods\nand beyond sounds like a lot of fun.",
+      "Going out of town and exploring the woods and beyond sounds like a lot of fun.",
       "But I think this town in itself is plenty of fun, too!",
-      "I don't think there's anything better than\nbeing able to enjoy talks and games with my\nfriend, while close to home.",
-      "It means we can stay up very late playing\ngames, since we don't have to walk very far\nto get back home!"
+      "I don't think there's anything better than being able to enjoy talks and games with my friend, while close to home.",
+      "It means we can stay up very late playing games, since we don't have to walk very far to get back home!"
     ]
   },
   "Responses": {

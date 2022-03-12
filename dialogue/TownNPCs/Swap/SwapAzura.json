@@ -1,7 +1,9 @@
 {
   "DialogueId": "SwapAzura",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "(Skift til <c=azura>Azura</c>?)"
+    ],
     "en": [
       "(Swap to <c=azura>Azura</c>?)"
     ]

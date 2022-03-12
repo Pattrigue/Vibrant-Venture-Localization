@@ -1,10 +1,15 @@
 {
   "DialogueId": "ShovelGuy1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "<c=mocha>Mocha</c> bad mig om at udgrave noget plads til et opbevaringsrum, som hun planlægger at få bygget.",
+      "Vi går langt tilbage, så jeg havde ingen problemer med at hjælpe en gammel ven!",
+      "Jeg er dog ved ved at få et problem...",
+      "Og det drejer som min ryg."
+    ],
     "en": [
-      "<c=mocha>Mocha</c> asked me to dig out some space for\na storage unit she's planning on having built.",
-      "We go a long way back, so I had no issue\nwith helping out an old friend!",
+      "<c=mocha>Mocha</c> asked me to dig out some space for a storage unit she's planning on having built.",
+      "We go a long way back, so I had no issue with helping out an old friend!",
       "Might be developing an issue, though...",
       "And it involves my back."
     ]

@@ -1,10 +1,14 @@
 {
   "DialogueId": "BenchGirlRight3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Cornucopia har eksisteret i rigtig lang tid nu.",
+      "Krystallerne er nærmest byens ikon, og jeg elsker at se på deres smukke glitren!",
+      "Hvor vover <c=violastro>den skurk</c> tage dem for sig selv?"
+    ],
     "en": [
-      "Cornucopia has been around for a really\nlong time now.",
-      "The crystals are pretty much the town's\nicon, and I love to look at their beautiful\nreflections!",
+      "Cornucopia has been around for a really long time now.",
+      "The crystals are pretty much the town's icon, and I love to look at their beautiful reflections!",
       "How dare <c=violastro>that villain</c> take them for himself?"
     ]
   },

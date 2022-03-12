@@ -1,7 +1,10 @@
 {
   "DialogueId": "BenchGirlLeft4",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hey, hey, <s>HEEEY!</s>",
+      "<s>Mener du det?!</s>\nJeg var lige ved at vinde den her...\nog du skulle bare lige... <s>ARGH!</s>"
+    ],
     "en": [
       "Hey, hey, <s>HEEEY!</s>",
       "<s>Are you for real?!</s>\nI was about to win that one...\nand you just had to... <s>UGH!</s>"

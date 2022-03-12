@@ -1,11 +1,16 @@
 {
   "DialogueId": "BenchGirlRight2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Jeg elsker at besøge Hickorys butik.",
+      "At tale med ham er udmattende...",
+      "Men efter at have snakket med ham et stykke tid, fandt jeg ud af, at han også sælger spil!",
+      "Gad vide, hvad han ellers sælger..."
+    ],
     "en": [
       "I love to visit Hickory's shop.",
-      "Talking to him is exhausting...\nBut after talking for a while, I found out\nhe also sells games!",
-      "I wonder what other things he might be\nselling..."
+      "Talking to him is exhausting... But after talking for a while, I found out he also sells games!",
+      "I wonder what other things he might be selling..."
     ]
   },
   "Responses": {

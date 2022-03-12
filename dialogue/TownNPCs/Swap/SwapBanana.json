@@ -1,7 +1,9 @@
 {
   "DialogueId": "SwapBanana",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "(Skift til <c=banana>Banana</c>?)"
+    ],
     "en": [
       "(Swap to <c=banana>Banana</c>?)"
     ]
