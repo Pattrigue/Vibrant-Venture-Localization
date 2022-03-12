@@ -1,14 +1,20 @@
 {
   "DialogueId": "Azura_Mocha_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Velkommen til Cornucopias helt egen kro!",
+      "Åh, det er dig, @CharacterName?\nFik du gjort noget ved <c=violastro>den skurk</c>?"
+    ],
     "en": [
       "Welcome to Cornucopia's very own inn!",
       "Oh, that you, @CharacterName?\nDid ya manage to do somethin' about <c=violastro>that\nvillain</c>?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Han slap væk...",
+      "J-Ja, selvfølgelig!"
+    ],
     "en": [
       "He got away...",
       "Y-Yes, of course!"

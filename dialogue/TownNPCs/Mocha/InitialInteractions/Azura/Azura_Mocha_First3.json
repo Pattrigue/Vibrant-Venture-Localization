@@ -1,14 +1,21 @@
 {
   "DialogueId": "Azura_Mocha_First3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Virkelig? Det er dejligt at høre! Det betyder, at jeg ikke behøver at bekymre mig om et fald i reservationer.",
+      "Du lyder dog lidt usikker... Er du sikker på, at alt er okay, @CharacterName?",
+      "Jøses... du bed i græsset, hva'... Det kan jeg bestemt se. Nå, du må hellere være optimistisk!",
+      "I arbejder alle hårdt på at få krystallerne tilbage, ik'?",
+      "...Førstehjælp er i skuffen til venstre for mig, hvis du har brug for det...",
+      "Fordi du ved, dit ansigt er stadig lidt rødt."
+    ],
     "en": [
-      "Really? That's great to hear!\nMeans I don't have to worry 'bout a\ndecrease in reservations.",
-      "You sound a little unsure, though...\nYa sure everything's okay, @CharacterName?",
-      "Yikes... Flat on your face, huh...\nI can definitely see that.\nWell, best to stay optimistic!",
-      "You're all workin' hard to get the crystals\nback, aren't ya?",
-      "You do that, and I'll make sure ya have a\nroom to stay in.",
-      "...First-aid's in the drawer on my left, if ya\nhave any need for that...",
+      "Really? That's great to hear! Means I don't have to worry 'bout a decrease in reservations.",
+      "You sound a little unsure, though... Ya sure everything's okay, @CharacterName?",
+      "Yikes... Flat on your face, huh... I can definitely see that. Well, best to stay optimistic!",
+      "You're all workin' hard to get the crystals back, aren't ya?",
+      "You do that, and I'll make sure ya have a room to stay in.",
+      "...First-aid's in the drawer on my left, if ya have any need for that...",
       "Because, ya know, your face is still a lil' red."
     ]
   },

@@ -1,9 +1,14 @@
 {
   "DialogueId": "CardinalPistachio_Mocha_First2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Jøses, så han slap væk, hva'... En by i uorden er dårlige nyheder for mine reservationer...",
+      "Gør dit bedste for at få de krystaller tilbage!\nJeg har jo alt for travlt selv...",
+      "...",
+      "Sikker på, du ikke er for en reservation?"
+    ],
     "en": [
-      "Yikes, so he got away, huh...\nA town in disarray means bad news for my\nreservations...",
+      "Yikes, so he got away, huh... A town in disarray means bad news for my reservations...",
       "Do your best gettin' those crystals back!\nAm way too busy, after all...",
       "...",
       "Ya sure you're not here for a reservation?"

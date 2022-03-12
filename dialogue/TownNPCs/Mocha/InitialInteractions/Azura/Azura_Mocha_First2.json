@@ -1,12 +1,17 @@
 {
   "DialogueId": "Azura_Mocha_First2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Jøses, så han slap væk, hva'... En by i uorden er dårlige nyheder for mine reservationer...",
+      "Ingen grund til bekymring, @CharacterName! Du har udført mange mere skræmmende opgaver før, det er jeg sikker på! Ligesom... Øhh... <w>Æhmmm...</w>",
+      "Hul i det, jeg er blank.\nJeg har alt for travlt!",
+      "Jeg sørger bare for, at ingen tager dit værelse i mellemtiden."
+    ],
     "en": [
-      "Yikes, so he got away, huh...\nA town in disarray means bad news for my\nreservations...",
-      "No need to worry, @CharacterName!\nYa done plenty more daunting tasks before,\nam sure! Like... Uhh... <w>Uhmmm...</w>",
+      "Yikes, so he got away, huh... A town in disarray means bad news for my reservations...",
+      "No need to worry, @CharacterName! Ya done plenty more daunting tasks before, am sure! Like... Uhh... <w>Uhmmm...</w>",
       "Screw it, I got nothin'.\nAm way too busy!",
-      "I'll just make sure no one takes ya room in\nthe meantime."
+      "I'll just make sure no one takes ya room in the meantime."
     ]
   },
   "Responses": {

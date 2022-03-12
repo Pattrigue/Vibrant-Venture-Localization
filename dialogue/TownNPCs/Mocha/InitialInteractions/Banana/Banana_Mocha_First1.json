@@ -1,14 +1,20 @@
 {
   "DialogueId": "Banana_Mocha_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Velkommen til Cornucopias helt egen kro!",
+      "Åh, hvor har jeg set dig før?\n@CharacterName, er det?\nLøb du ikke også efter <c=violastro>den skurk</c>?"
+    ],
     "en": [
       "Welcome to Cornucopia's very own inn!",
       "Oh, where have I seen you before?\n@CharacterName, is it?\nDidn't you also chase after <c=violastro>that villain</c>?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Det gjorde jeg, men...",
+      "Det gjorde jeg ikke."
+    ],
     "en": [
       "I did, but...",
       "I didn't."

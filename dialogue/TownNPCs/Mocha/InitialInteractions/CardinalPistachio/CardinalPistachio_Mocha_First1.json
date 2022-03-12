@@ -1,19 +1,24 @@
 {
   "DialogueId": "CardinalPistachio_Mocha_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Velkommen til Cornucopias helt egen kro!",
+      "Hvis du leder efter et sted at opholde dig, er du kommet til det rigtige sted!",
+      "...Vent, så du er her ikke for en reservation?",
+      "Hey, er du ikke en af de der favrige der løb efter <c=violastro>den skurk</c>"
+    ],
     "en": [
       "Welcome to Cornucopia's very own inn!",
-      "If you're lookin' for somewhere to stay,\nyou're at the right place!",
-      "...Wait, so you're not here for a\nreservation?",
-      "Hey, aren't ya one of those vibrants that\nwent after <c=violastro>that villain</c>?"
+      "If you're lookin' for somewhere to stay, you're at the right place!",
+      "...Wait, so you're not here for a reservation?",
+      "Hey, aren't ya one of those vibrants that went after <c=violastro>that villain</c>?"
     ]
   },
   "Responses": {
     "da": [],
     "en": [
       "Yes, but...",
-      "Vibrants?"
+      "Favrige?"
     ]
   }
 }

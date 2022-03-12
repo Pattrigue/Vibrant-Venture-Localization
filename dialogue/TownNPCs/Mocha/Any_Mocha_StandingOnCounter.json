@@ -1,11 +1,15 @@
 {
   "DialogueId": "Any_Mocha_StandingOnCounter",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "...\n...\nUndskyld mig?",
+      "Kunne du, ligesom, lade være med det?",
+      "Seriøst.\nJeg vil ikke have, at der kommer kunder ind til sådan noget."
+    ],
     "en": [
       "...\n...\n'Scuse me?",
       "Could ya, like, not do that?",
-      "Seriously.\nI don't want any customers walking in on\nsomething like this."
+      "Seriously.\nI don't want any customers walking in on something like this."
     ]
   },
   "Responses": {

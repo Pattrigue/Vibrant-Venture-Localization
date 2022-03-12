@@ -1,11 +1,17 @@
 {
   "DialogueId": "Azura_Mocha_Random4",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "...\n...\n<s>HAHAHA!!!</s> Ja, det havde jeg ikke forventet!",
+      "Ahaha, hold da op...\nDu kan tage dem på igen nu...",
+      "Helt ærligt, @CharacterName, du ser godt ud, uanset om du har dem på eller ej.",
+      "Hov, jeg bliver nødt til at tage det her opkald.",
+      "-- Cornucopia Kro, du taler med Mocha.\nHvordan kan jeg hjælpe dig?"
+    ],
     "en": [
       "...\n...\n<s>HAHAHA!!!</s> Yeah, I didn't expect that!",
       "Ahaha, phew...\nYa can put them back on now...",
-      "Honestly, @CharacterName, ya look great regardless\nof whether or not you wear them.",
+      "Honestly, @CharacterName, ya look great regardless of whether or not you wear them.",
       "Ah, gotta take this call.\n-- Cornucopia Inn, Mocha speaking.\nHow may I help you?"
     ]
   },

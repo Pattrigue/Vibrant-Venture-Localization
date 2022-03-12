@@ -1,12 +1,20 @@
 {
   "DialogueId": "BananaCardinalPistachio_Mocha_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "...Cornucopia Kro, du taler med Mocha.\nHvordan kan jeg hjælpe dig?",
+      "-- Beklager, @CharacterName, jeg er nødt til at tage den her. --",
+      "N-Nåh, er der forskel på mus og rotter?",
+      "Jeg beklager virkelig, at jeg blandede de to sammen, hr.",
+      "Hvad vil du kaste?\nLad venligst være at tale sådan, hr.",
+      "Endnu en gang undskyld --\nAh, han lagde på.",
+      "Beklager, at du måtte lytte til det..."
+    ],
     "en": [
       "...Cornucopia Inn, this is Mocha speaking.\nHow may I help you?",
       "-- Sorry, @CharacterName, I gotta answer this. --",
-      "O-oh, there is a difference between mice\nand rats?",
-      "I am terribly sorry for mixing up the two,\nsir.",
+      "O-oh, there is a difference between mice and rats?",
+      "I am terribly sorry for mixing up the two, sir.",
       "You would throw what?\nPlease do not talk like that, sir.",
       "Once again my apologies --\nAh, he hung up.",
       "Am sorry ya had to listen to that..."

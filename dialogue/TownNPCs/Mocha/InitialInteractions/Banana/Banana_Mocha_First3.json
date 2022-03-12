@@ -1,13 +1,19 @@
 {
   "DialogueId": "Banana_Mocha_First3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hvad? Hvorfor ikke?\n<c=violastro>Den store lilla skurk</c> stjæler krystallerne, og du så bare på?",
+      "Åh, du mente nok bare, at han slap væk, ikke? Jamen, det kan jeg bedre forstå...",
+      "Under alle omstændigheder, sørg for at finde <c=violastro>den tyv</c>!\nVi regner alle med dig.",
+      "Jeg har jo alt for travlt selv...",
+      "Du har også <c=azura>den bogorm</c> med dig, så du skal nok klare dig, <w>haha!</w>"
+    ],
     "en": [
-      "What? Why not?\n<c=violastro>Big purple baddie</c> steals the crystals, and\nyou just watched?",
-      "Oh, ya probably just meant he got away,\ndidn't ya?\nWell, I can understand that...",
+      "What? Why not?\n<c=violastro>Big purple baddie</c> steals the crystals, and you just watched?",
+      "Oh, ya probably just meant he got away, didn't ya? Well, I can understand that...",
       "In any case, ya make sure to find <c=violastro>that thief</c>!\nWe're all countin' on ya.",
       "Am way too busy, after all...",
-      "You got <c=azura>that bookworm</c> with ya too, so you'll\nbe fine, <w>haha!</w>"
+      "You got <c=azura>that bookworm</c> with ya too, so you'll be fine, <w>haha!</w>"
     ]
   },
   "Responses": {

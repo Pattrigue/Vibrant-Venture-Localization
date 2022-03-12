@@ -1,10 +1,16 @@
 {
   "DialogueId": "Azura_Mocha_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ved du hvad, @CharacterName...\nDu bør ikke lade din dør stå åben for ofte.",
+      "Ubudne gæster kunne snige ind og tage den bog fyldt med data, du er ved at skrive.",
+      "Det er rigtigt, jeg kender til din bog.\nJeg er jo kroejeren!",
+      "Der er ikke noget her, jeg ikke ved!",
+      "<w>Hovsa,</w> jeg må tilbage til arbejdet."
+    ],
     "en": [
       "Ya know, @CharacterName...\nYou shouldn't leave ya door open too much.",
-      "Colourful characters might snoop around\nand take that book full of data ya writin'.",
+      "Colourful characters might snoop around and take that book full of data ya writin'.",
       "That's right, I know about ya book.\nAm the inkeeper!",
       "There's nothin' here that I don't know!",
       "<w>Whoopsee,</w> gotta get back to work."

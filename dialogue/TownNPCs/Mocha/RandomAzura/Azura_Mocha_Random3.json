@@ -1,9 +1,13 @@
 {
   "DialogueId": "Azura_Mocha_Random3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Arh, kom nu! Det betyder ikke så meget. Som om dine øjne er så st-",
+      "Hov, jeg bliver nødt til at tage det her opkald.",
+      "-- Cornucopia Kro, du taler med Mocha.\nHvordan kan jeg hjælpe dig?"
+    ],
     "en": [
-      "Aah, come on!\nIt's not that big a deal.\nAs if your eyes are that hu-",
+      "Aah, come on! It's not that big a deal. As if your eyes are that hu-",
       "Ah, gotta take this call.\n-- Cornucopia Inn, Mocha speaking.\nHow may I help you?"
     ]
   },

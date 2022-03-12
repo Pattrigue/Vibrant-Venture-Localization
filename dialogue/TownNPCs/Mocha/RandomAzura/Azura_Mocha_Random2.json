@@ -1,14 +1,20 @@
 {
   "DialogueId": "Azura_Mocha_Random2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hmmmm...\n....\n@CharacterName...",
+      "Jeg har undret mig over i et stykke tid nu, hvordan du ser ud uden briller?"
+    ],
     "en": [
       "Hmmmm...\n....\nSay, @CharacterName...",
-      "I've been wonderin' for a while now, but what\ndo you look like without ya glasses on, hm?"
+      "I've been wonderin' for a while now, but what do you look like without ya glasses on, hm?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Øhm, jeg...",
+      "S-Sådan her?"
+    ],
     "en": [
       "Um, I...",
       "L-Like this?"

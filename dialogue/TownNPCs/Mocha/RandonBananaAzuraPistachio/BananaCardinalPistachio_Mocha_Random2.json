@@ -1,15 +1,23 @@
 {
   "DialogueId": "BananaCardinalPistachio_Mocha_Random2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Før jeg arvede denne kro fra min far, Hickory...",
+      "havde jeg mange problemer med at tale med kunder, når jeg hjalp ham i Kroen.",
+      "Det var svært at lære at tale høfligt og uden accent til nye kunder...",
+      "men jeg fik styr på det efter noget tid!",
+      "Det er forfriskende ikke at skulle bekymre sig om det omkring jer.",
+      "Du er altid velkommen, @CharacterName.",
+      "Måske giver jeg dig endda et tilbud, hvis du beslutter dig for at leje et værelse nu..."
+    ],
     "en": [
-      "Before I inherited this inn from my father,\nHickory...",
-      "I had a lotta trouble speakin' with\ncustomers when I was helpin' him out around\nthe Inn.",
-      "Learnin' to speak politely and without accent\nto new customers was difficult...",
+      "Before I inherited this inn from my father, Hickory...",
+      "I had a lotta trouble speakin' with customers when I was helpin' him out around the Inn.",
+      "Learnin' to speak politely and without accent to new customers was difficult...",
       "but I got the hang of it after some time!",
-      "It's refreshin' to not have to worry about\nthat around you guys, though.",
+      "It's refreshin' to not have to worry about that around you guys, though.",
       "You're welcome anytime, @CharacterName.",
-      "Might even give ya a bargain if ya decide to\nrent a room now..."
+      "Might even give ya a bargain if ya decide to rent a room now..."
     ]
   },
   "Responses": {
