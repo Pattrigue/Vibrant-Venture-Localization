@@ -1,10 +1,15 @@
 {
   "DialogueId": "Banana_Hickory_Random2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hehe, du har ret, det er god træning.",
+      "Ved du, hvad der ellers vil være god træning?",
+      "<s>At købe mine opgraderinger!!!</s>",
+      "Jeg sagde aldrig, det ville være sundt for din tegnebog..."
+    ],
     "en": [
       "Hehe, you're right, it is good excercise.",
-      "Ya know what else may be good excercise\nfor ya?",
+      "Ya know what else may be good excercise for ya?",
       "<s>Purchasin' my upgrades, that's what!!!</s>",
       "Never said it'd be good for yer wallet..."
     ]

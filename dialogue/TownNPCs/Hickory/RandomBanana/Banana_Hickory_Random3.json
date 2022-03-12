@@ -1,10 +1,14 @@
 {
   "DialogueId": "Banana_Hickory_Random3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ja, det siger du ikke! Hvorend du går hen, følger den rygsæk med!",
+      "Jeg tænker, at du nok ikke ønsker at øge dens vægt, men jeg tror, jeg har nogle ting, der kunne lette byrden.",
+      "Vær ej genert, tag et kig!"
+    ],
     "en": [
-      "Yeah, no kiddin'!\nWherever you seem to go, that backpack\nfollows!",
-      "I know ya might not want 'ta add to its\nweight, but I think I might have some stuff\nthat could ease the burden.",
+      "Yeah, no kiddin'! Wherever you seem to go, that backpack follows!",
+      "I know ya might not want 'ta add to its weight, but I think I might have some stuff that could ease the burden.",
       "Don't be shy, take a look 'round!"
     ]
   },

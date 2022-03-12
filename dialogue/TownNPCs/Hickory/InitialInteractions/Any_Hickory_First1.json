@@ -1,17 +1,27 @@
 {
   "DialogueId": "Any_Hickory_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ah, godt at se at du har det godt, @CharacterName!",
+      "Det er heldigt, at <c=violastro>den tyv</c> kun tog krystallerne og ikke skadede os.",
+      "Jeg kan ikke hjælpe jer med at finde <c=violastro>det lilla fjols</c>.",
+      "Ligesom de andre, der bor her i denne by, har jeg min egen vigtige rolle at spille.",
+      "Min er at passe denne fine butik og sørge for forsyninger til byen...",
+      "og dem, der vil vove sig ud i skoven og videre.",
+      "Smukt, ikke?! <w>HAHAHA!</w>",
+      "Du skal bare sørge for at give <c=violastro>den tyv</c> en lærestreg.",
+      "Jeg er her for at forsyne dig med alle de varer, du måtte have brug for, så besøg mig i Kortet for at handle!"
+    ],
     "en": [
       "Ah, good to see you're doin' fine, @CharacterName!",
-      "We're lucky <c=violastro>that thief</c> only took the\ncrystals and didn't harm us townsfolk.",
+      "We're lucky <c=violastro>that thief</c> only took the crystals and didn't harm us townsfolk.",
       "I can't help y'all find <c=violastro>that purple dork</c>.",
-      "Much like the others livin' here in this town,\nI have my own important role to play.",
-      "Mine is to tend to this fine lookin' shop and\nprovide supplies for the town...",
-      "and those willin' to venture out into the\nforest and beyond.",
-      "Beautiful symphony, ain't it?!\n<w>HAHAHA!</w>",
-      "You just make sure to teach <c=violastro>that thief</c> a\nlesson.",
-      "I'll be here to supply any goods ya might\nneed, so pay me a visit in the World Map\nfor business!"
+      "Much like the others livin' here in this town, I have my own important role to play.",
+      "Mine is to tend to this fine lookin' shop and provide supplies for the town...",
+      "and those willin' to venture out into the forest and beyond.",
+      "Beautiful symphony, ain't it?! <w>HAHAHA!</w>",
+      "You just make sure to teach <c=violastro>that thief</c> a lesson.",
+      "I'll be here to supply any goods ya might need, so pay me a visit in the World Map for business!"
     ]
   },
   "Responses": {

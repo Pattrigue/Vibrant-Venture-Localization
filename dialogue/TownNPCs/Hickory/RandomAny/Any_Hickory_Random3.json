@@ -1,11 +1,15 @@
 {
   "DialogueId": "Any_Hickory_Random3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ah, det vil du forstå, når du selv får unger...",
+      "Jeg skal snart holde lidt fri, så jeg kan besøge hende.",
+      "Vi har alle sammen brug for en pause en gang imellem! Er du ikke enig?"
+    ],
     "en": [
-      "Ah, you'll understand once ya have one of ya\nown...",
-      "Gotta take some time off soon so I can visit\nher.",
-      "We all need a break sometimes anyways!\nDon't 'cha agree?"
+      "Ah, you'll understand once ya have one of ya own...",
+      "Gotta take some time off soon so I can visit her.",
+      "We all need a break sometimes anyways! Don't 'cha agree?"
     ]
   },
   "Responses": {

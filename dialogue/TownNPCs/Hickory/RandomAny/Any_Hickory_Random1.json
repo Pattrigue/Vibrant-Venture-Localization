@@ -1,19 +1,30 @@
 {
   "DialogueId": "Any_Hickory_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Har du besøgt min datter <c=mocha>Mocha</c> endnu?",
+      "Hun tager sig af kroen, jeg drev indtil for nylig.",
+      "Jeg er ved at blive for gammel til et sådant belastende arbejde!",
+      "Jeg skal være ærlig, hun gør et meget bedre stykke arbejde, end jeg gjorde, da jeg var på hendes alder",
+      "Sammenlignet med hende laver jeg praktisk talt ingenting!",
+      "<w>*snøft snøft*</w> Virkelig noget at være stolt af...",
+      "Hvis bare jeg nemt kunne besøge hende, men kroen er ret langt."
+    ],
     "en": [
-      "Have ya paid a visit to my daughter <c=mocha>Mocha</c>\nyet?",
-      "She's takin' care of the inn I used to run till\nrecently.",
+      "Have ya paid a visit to my daughter <c=mocha>Mocha</c> yet?",
+      "She's takin' care of the inn I used to run till recently.",
       "Am gettin' too old for such taxin' work!",
-      "Gotta be honest with ya, she's doin' a much\nbetter job than I did when I was 'round her\nage.",
-      "Compared to her am doin' practically\nnothin'!",
-      "<w>*sniff sniff*</w>\nReally somethin' to be proud of...",
-      "If only I could easily visit her, but the inn's\nquite far."
+      "Gotta be honest with ya, she's doin' a much better job than I did when I was 'round her age.",
+      "Compared to her am doin' practically nothin'!",
+      "<w>*sniff sniff*</w> Really somethin' to be proud of...",
+      "If only I could easily visit her, but the inn's quite far."
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Det er ikke SÅ langt væk...",
+      "Lyder hårdt."
+    ],
     "en": [
       "It's not THAT far away...",
       "Sounds tough."

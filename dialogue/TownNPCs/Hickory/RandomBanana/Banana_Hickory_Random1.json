@@ -1,14 +1,20 @@
 {
   "DialogueId": "Banana_Hickory_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Er du kommet for at købe flere forsyninger, @CharacterName?",
+      "Jeg sværger, du slæber rundt på en masse ting hele tiden. Bliver du ikke træt af det?"
+    ],
     "en": [
       "Ya here for more tools, @CharacterName?",
-      "I swear, ya do carry 'round a lotta things all\nthe time.\nDon't 'cha get tired of that?"
+      "I swear, ya do carry 'round a lotta things all the time. Don't 'cha get tired of that?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Overhovedet ikke!",
+      "Æh, nogle gange..."
+    ],
     "en": [
       "Not at all!",
       "Eh, sometimes..."

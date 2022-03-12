@@ -1,14 +1,21 @@
 {
   "DialogueId": "Any_Hickory_Random5",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Jeg har tænkt for nylig...\nCornucopia har virkelig brug for en restaurant!",
+      "Jeg overvejede, om det ville være muligt at renovere denne lille butik her og lave den om til noget lignende...",
+      "Jeg ville gerne gøre noget', der også kunne gavne min datter <c=mocha>Mocha</c> på en eller anden måde.",
+      "Kunne skabe god kemi mellem stederne...",
+      "<s>JEG ER ET GENI!!!</s>",
+      "Måske jeg starter med at sælge drinks... Har du nogen præferencer, knægt?"
+    ],
     "en": [
       "Been thinkin' recently...\nCornucopia really needs a restaurant!",
-      "Was wonderin' if it'd be possible to renovate\nthis lil' shop here and turn it into somethin'\nlike that...",
-      "I wanted to do somethin' that might benefit\nmy daughter <c=mocha>Mocha</c> in some way as well.",
-      "Could make for nice chemistry between the\nplaces...",
+      "Was wonderin' if it'd be possible to renovate this lil' shop here and turn it into somethin' like that...",
+      "I wanted to do somethin' that might benefit my daughter <c=mocha>Mocha</c> in some way as well.",
+      "Could make for nice chemistry between the places...",
       "<s>I'M A GENIUS!!!</s>",
-      "Might go and make a start by sellin' drinks...\nYa got any preferences, spectrum?"
+      "Might go and make a start by sellin' drinks... Ya got any preferences, spectrum?"
     ]
   },
   "Responses": {

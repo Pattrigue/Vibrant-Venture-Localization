@@ -1,13 +1,20 @@
 {
   "DialogueId": "Cardinal_Hickory_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Var du gået kold igen, @CharacterName? Du har for vane at komme for sent, uanset anledningen!",
+      "Hvis du ønsker at være så pålidelig, som du sagde, du ville være...",
+      "var en dårlig start at sove over dig den dag, krystallerne blev stjålet!",
+      "Hør her, sønnike. Jeg har nogle fine opgraderinger, der vil opveje det, du mangler.",
+      "Der er endda en, der kompenserer for, når du falder i søvn ude i felten.",
+      "Se det er en, jeg varmt kan anbefale dig!"
+    ],
     "en": [
-      "Were ya out cold again, @CharacterName?\nYou have a habit of bein' late, whatever the\noccassion!",
-      "If ya wanna be as dependable as you said\nya wanted to be...",
-      "oversleepin' on the day the crystals were\nstolen was a bad start!",
-      "Tell ya what, son.\nI got some mighty fine upgrades that'll make\nup for what y'are missin'.",
-      "There's even one that makes up for when ya\nfall asleep out on the field.",
+      "Were ya out cold again, @CharacterName? You have a habit of bein' late, whatever the occassion!",
+      "If ya wanna be as dependable as you said ya wanted to be...",
+      "oversleepin' on the day the crystals were stolen was a bad start!",
+      "Tell ya what, son. I got some mighty fine upgrades that'll make up for what y'are missin'.",
+      "There's even one that makes up for when ya fall asleep out on the field.",
       "Now that's one I highly recommend to ya!"
     ]
   },

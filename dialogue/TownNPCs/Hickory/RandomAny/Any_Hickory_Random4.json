@@ -1,15 +1,24 @@
 {
   "DialogueId": "Any_Hickory_Random4",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hvordan virker ringen for dig?\nGodt nok indtil videre, ik'?",
+      "Jeg kan for mit liv ikke huske, hvor jeg fik den ting fra...",
+      "men jeg kunne sværge på, at sælgeren sagde, at den er forbundet med krystallerne på en eller anden måde.",
+      "Er den lavet af de samme materialer som krystallerne?",
+      "Eller måske bare gennemsyret af deres magiske egenskaber?",
+      "Jeg aner det ikke!\nHvad tror du?",
+      "Under alle omstændigheder, sørg for at holde fast i den. Det ser ud til, at I gør god brug af den!",
+      "...Men hvornår har du tænkt dig at betale for det der?"
+    ],
     "en": [
       "How's that ring holdin' out for ya?\nPretty well so far, huh?",
-      "Don't remember for the life of me where I\ngot that thing from...",
-      "but I could swear the salesman told me it's\nconnected to the crystals in some way.",
-      "Is it made from the same materials as the\ncrystals?",
-      "Or maybe just imbued with their magical\nproperties?",
+      "Don't remember for the life of me where I got that thing from...",
+      "but I could swear the salesman told me it's connected to the crystals in some way.",
+      "Is it made from the same materials as the crystals?",
+      "Or maybe just imbued with their magical properties?",
       "I have no heckin' clue!\nWhat do ya think?",
-      "In any case, be sure to hold onto that thing.\nY'all seem to be able to make good use of it!",
+      "In any case, be sure to hold onto that thing. Y'all seem to be able to make good use of it!",
       "...When 're you gonna pay for that though?"
     ]
   },
