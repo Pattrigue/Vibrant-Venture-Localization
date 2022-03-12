@@ -1,10 +1,14 @@
 {
   "DialogueId": "InnGuy2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Jeg troede virkelig, jeg havde set alt, men virkelig?",
+      "<c=violastro>En stilfuld, lilla troldmand</c>, der flyver rundt på en magisk tallerken, som kan lide at stjæle skinnende genstande?",
+      "Jeg sværger, den her by bliver aldrig kedelig."
+    ],
     "en": [
-      "I really thought I'd seen everything by now,\nbut man, really?",
-      "<c=violastro>A stylish, purple sorcerer</c> flying around on a\nmagic saucer who likes to steal shiny\nobjects?",
+      "I really thought I'd seen everything by now, but man, really?",
+      "<c=violastro>A stylish, purple sorcerer</c> flying around on a magic saucer who likes to steal shiny objects?",
       "This town never gets old, I swear."
     ]
   },

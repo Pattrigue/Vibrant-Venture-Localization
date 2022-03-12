@@ -1,10 +1,14 @@
 {
   "DialogueId": "InnGuy1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Kroens ejer, <c=mocha>Mocha</c>, er virkelig dedikeret til hendes arbejde.",
+      "Hun har travlt dag og nat med at passe stedet og løser næsten alle opgaver selv.",
+      "Jeg tror virkelig, hun kunne bruge en pause."
+    ],
     "en": [
-      "The inn's owner, <c=mocha>Mocha</c>, is really dedicated\nto her work.",
-      "She's busy all night and day taking care of\nthe place, taking almost all tasks upon\nherself.",
+      "The inn's owner, <c=mocha>Mocha</c>, is really dedicated to her work.",
+      "She's busy all night and day taking care of the place, taking almost all tasks upon herself.",
       "I think she could really use a break."
     ]
   },
