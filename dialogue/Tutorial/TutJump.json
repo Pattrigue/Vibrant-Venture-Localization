@@ -1,11 +1,15 @@
 {
   "DialogueId": "TutJump",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Jo hurtigere du løber, jo højere kan du hoppe.",
+      "Hvis du holder hoppeknappen nede, maksimeres din hoppehøjde også.",
+      "Ved et hurtigt tryk, vil du i stedet hoppe knap så højt!"
+    ],
     "en": [
-      "The faster you run, the higher you can\njump.",
+      "The faster you run, the higher you can jump.",
       "Holding the jump button also maximizes your jump height.",
-      "Quickly tapping jump instead results in\nshorter and quicker jumps!"
+      "Quickly tapping jump instead results in shorter jumps!"
     ]
   },
   "Responses": {

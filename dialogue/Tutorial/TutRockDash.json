@@ -1,9 +1,11 @@
 {
   "DialogueId": "TutRockDash",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "TIP: Du kan ødelægge sten ved at <c=azura>Vandspringe</c> gennem dem!"
+    ],
     "en": [
-      "TIP: You can break rocks by dashing through\nthem!"
+      "TIP: You can break rocks by <c=azura>Dashing</c> through them!"
     ]
   },
   "Responses": {

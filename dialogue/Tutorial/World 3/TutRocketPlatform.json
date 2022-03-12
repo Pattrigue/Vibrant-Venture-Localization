@@ -1,10 +1,13 @@
 {
   "DialogueId": "TutRocketPlatform",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "BEMÆRK: <s>STOP MED AT STYRTE RAKETTERNE IND I DE HULENS VÆGGE!</s>",
+      "<s>TRYK OP ELLER NED FOR AT STYRE SKIDTET!</s>\n- VIOLASTRO"
+    ],
     "en": [
-      "NOTICE: <s>Y'ALL STOP CRASHING THE ROCKETS\nINTO THE DARN WALLS!</s>",
-      "<s>PRESS UP OR DOWN TO CONTROL THE\nROCKET'S TRAJECTORY!</s>\n- VIOLASTRO"
+      "NOTICE: <s>Y'ALL STOP CRASHING THE ROCKETS INTO THE DARN WALLS!</s>",
+      "<s>PRESS UP OR DOWN TO CONTROL THE ROCKET'S TRAJECTORY!</s>\n- VIOLASTRO"
     ]
   },
   "Responses": {

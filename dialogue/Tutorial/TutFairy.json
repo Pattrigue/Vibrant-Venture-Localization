@@ -1,10 +1,13 @@
 {
   "DialogueId": "TutFairy",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Feer giver dig mulighed for at tage et ekstra slag!",
+      "Hvis du får endnu en fe, vil den nye fe forvandles til ædelstene."
+    ],
     "en": [
-      "Fairies grant you an extra hit!",
-      "Getting an additional fairy will turn the new\nfairy into gems."
+      "Fairies allow you to take an extra hit!",
+      "Getting an additional fairy will turn the new fairy into gems."
     ]
   },
   "Responses": {

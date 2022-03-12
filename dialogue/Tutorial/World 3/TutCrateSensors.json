@@ -1,10 +1,13 @@
 {
   "DialogueId": "TutCrateSensors",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "BEMÆRK: <s>DEAKTIVER IKKE DEN SUPER ULTRA UPASSERBARE SKJULTE LASER!</s>",
+      "DETTE ER FOR AT FORHINDRE DE <w><c=cardinal>L</c><c=azura>E</c><c=banana>D</c><c=pistachio>E</c> EVENTYRERE</w> I AT SNUSE RUNDT! <s>FORSTÅET?!</s>"
+    ],
     "en": [
-      "NOTICE: <s>DO NOT DISABLE THE SUPER ULTRA\nUNPASSABLE STEALTH LASER!</s>",
-      "THIS IS TO KEEP THOSE <w><c=cardinal>D</c><c=azura>A</c><c=banana>R</c><c=pistachio>N</c> ADVENTURERS</w>\nFROM SNOOPIN' AROUND! <s>GOT IT?!</s>"
+      "NOTICE: <s>DO NOT DISABLE THE SUPER ULTRA UNPASSABLE STEALTH LASER!</s>",
+      "THIS IS TO KEEP THOSE <w><c=cardinal>D</c><c=azura>A</c><c=banana>R</c><c=pistachio>N</c> ADVENTURERS</w> FROM SNOOPIN' AROUND! <s>GOT IT?!</s>"
     ]
   },
   "Responses": {

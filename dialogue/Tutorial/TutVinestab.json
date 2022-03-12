@@ -1,9 +1,11 @@
 {
   "DialogueId": "TutVinestab",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "TIP: Hold hop nede mens du bruger <c=pistachio>Lianstik</c> for at hoppe meget højere!"
+    ],
     "en": [
-      "TIP: Holding jump while vine stabbing makes\nyou jump much higher!"
+      "TIP: Holding jump while <c=pistachio>Vine Stabbing</c> makes you jump much higher!"
     ]
   },
   "Responses": {

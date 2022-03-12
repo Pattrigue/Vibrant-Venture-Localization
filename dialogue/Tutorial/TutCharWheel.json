@@ -1,11 +1,15 @@
 {
   "DialogueId": "TutCharWheel",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Du behøver ikke åbne karakterhjulet for at skifte karakterer.",
+      "Bare tryk på en af de fire tildelte knapper for at skifte til den tilsvarende karakter med det samme!",
+      "Men hvis du åbner hjulet, vil tiden løbe langsommere et kort stykke tid!"
+    ],
     "en": [
-      "You don't have to open the character wheel\nto swap characters.",
-      "Simply press one of the four designated\nbuttons to instantly swap to the\ncorresponding character!",
-      "However, opening the wheel will slow down\ntime for a few seconds!"
+      "You don't have to open the character wheel to swap characters.",
+      "Simply press one of the four designated buttons to instantly swap to the corresponding character!",
+      "However, opening the wheel will slow down time for a few seconds!"
     ]
   },
   "Responses": {

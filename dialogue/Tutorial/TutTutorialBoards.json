@@ -1,10 +1,13 @@
 {
   "DialogueId": "TutTutorialBoards",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Disse skærme fortæller dine nuværende styringskonfiguration.",
+      "Du kan ændre disse styringskonfigurationer i indstillingsmenuen ved at pause spillet."
+    ],
     "en": [
-      "These boards show you your current\ncontrols.",
-      "You can change controls in the options menu\nby pausing the game."
+      "These screens tell you your current controls.",
+      "You can change controls in the options menu by pausing the game."
     ]
   },
   "Responses": {

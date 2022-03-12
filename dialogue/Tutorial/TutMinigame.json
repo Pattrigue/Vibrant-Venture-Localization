@@ -1,12 +1,17 @@
 {
   "DialogueId": "TutMinigame",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "<c=minigame_button>M-knapper</c> vil aktivere et minispil!",
+      "Hvis du fejler, kan du prøve igen så mange gange, du vil.",
+      "Du kan prøve minspillet igen ved at trykke på knappen igen.",
+      "Døren ved slutningen føre dig tilbage hertil, hvis du ønsker at prøve igen.\nKom så, makker!"
+    ],
     "en": [
       "<c=minigame_button>M-buttons</c> will activate a minigame!",
-      "If you fail, you can retry as many times as\nyou want.",
-      "You can retry the minigame by hitting the\nbutton again.",
-      "The door at the end will simply take you\nback here if you wish to retry.\nGo for it, champ!"
+      "If you fail, you can retry as many times as you want.",
+      "You can retry the minigame by hitting the button again.",
+      "The door at the end will simply take you back here if you wish to retry.\nGo for it, champ!"
     ]
   },
   "Responses": {

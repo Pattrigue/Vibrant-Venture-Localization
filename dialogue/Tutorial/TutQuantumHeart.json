@@ -1,13 +1,19 @@
 {
   "DialogueId": "TutQuantumHeart",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Subjekt: Kvantehjerte.\nUdviklet af: Seje & Tilbøjelig Til At Bryde Rumtid-Kontinuummet Innovationer.",
+      "Anvendelse: Sammenfiltrer brugeren med en parallel eigenentitet, der eksisterer på et andet virkelighedsplan.",
+      "Denne kvantemekaniske sammenfiltring får den sammenfiltrede partner til at efterligne brugerens bevægelse og omvendt.",
+      "Sammenfiltringen kan brydes ved at bruge en evne, hvilket får brugeren til at kvantetunnelere til den sammenfiltrede entitets position.",
+      "<s>BRUG MED FORSIGTIGHED!!</s>\nVi eksisterer alle i samme rumtid, så lad venligst være med at ødelægge det, okay?"
+    ],
     "en": [
       "Subject: Quantum Heart.\nDeveloped by: Awesome & Likely to Break the Fabric of Spacetime Innovations.",
-      "Usage: Entangles the user to a parallel\neigen entity existing on another plane of\nreality.",
-      "This quantum entanglement causes the\nentangled partner to mimic the user's\nmovement, and vice versa.",
-      "The entanglement can be broken by using an\nability, causing the user to quantum tunnel\nto the entangled entity's position.",
-      "<s>USE WITH CAUTION!!</s>\nWe all exist in the same spacetime, so\nplease don't break it, alright?"
+      "Usage: Entangles the user to a parallel eigen entity existing on another plane of reality.",
+      "This quantum entanglement causes the entangled partner to mimic the user's movement and vice versa.",
+      "The entanglement can be broken by using an ability, causing the user to quantum tunnel to the entangled entity's position.",
+      "<s>USE WITH CAUTION!!</s>\nWe all exist in the same spacetime, so please don't break it, alright?"
     ]
   },
   "Responses": {

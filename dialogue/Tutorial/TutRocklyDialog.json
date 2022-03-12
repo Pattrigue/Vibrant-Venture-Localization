@@ -1,9 +1,12 @@
 {
   "DialogueId": "TutRocklyDialog",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "MEMO: KÆRE SENIOR ROCKLY. SØRG VENLIGST FOR, AT IKKE EN <w>ENESTE</w>, <s>POKKERS</s>, <w><s><c=31, 79, 44>KLAM</c></s></w> SJÆL RØRER DENNE HALVMÅNE!",
+      "TAK.\nKÆRLIG HILSEN,\nVIOLASTRO :3"
+    ],
     "en": [
-      "MEMO: DEAR SENIOR ROCKLY. PLEASE\nENSURE NOT A <w>SINGLE</w>, <s>DARN</s>, <w><s><c=31, 79, 44>STINKIN'</c></s></w> SOUL\nTOUCHES THIS CRESCENT!",
+      "MEMO: DEAR SENIOR ROCKLY. PLEASE ENSURE NOT A <w>SINGLE</w>, <s>DARN</s>, <w><s><c=31, 79, 44>STINKIN'</c></s></w> SOUL TOUCHES THIS CRESCENT!",
       "THANK YOU.\nKIND REGARDS,\nVIOLASTRO :3"
     ]
   },

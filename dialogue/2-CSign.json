@@ -1,7 +1,9 @@
 {
   "DialogueId": "2-CSign",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "HVORDAN"
+    ],
     "en": [
       "HOW"
     ]
