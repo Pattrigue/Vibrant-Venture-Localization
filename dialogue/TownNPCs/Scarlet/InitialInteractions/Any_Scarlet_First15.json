@@ -1,12 +1,17 @@
 {
   "DialogueId": "Any_Scarlet_First15",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "<w>Juhuuu!</w>\nJeg er sikker på, at vi bliver gode venner, øhm... jeg kender ikke dit navn endnu...",
+      "@CharacterName, hva'?",
+      "Det er sådan et smukt navn!\nDet passer perfekt til dig!",
+      "Mit navn er <c=scarlet>Scarlet</v>...\nRart at møde dig!"
+    ],
     "en": [
-      "<w>Yahaaay!</w>\nI'm sure we'll become great friends, uhm...\nI don't know your name yet...",
+      "<w>Yahaaay!</w>\nI'm sure we'll become great friends, uhm... I don't know your name yet...",
       "@CharacterName, huh?",
       "That's such a pretty name!\nIt totally fits you!",
-      "My name is <c=255,36,0>Scarlet</c>...\nNice to meet you!"
+      "My name is <c=scarlet>Scarlet</c>...\nNice to meet you!"
     ]
   },
   "Responses": {

@@ -1,16 +1,25 @@
 {
   "DialogueId": "Banana_Scarlet_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hey, hør, hør, @CharacterName!\nVidste du det her?",
+      "Du kan åbenbart udføre et langt hop lige efter, du har udført et <c=banana>Jordslag</c>!",
+      "Ville det ikke gøre dig <w>suuuper</w> hurtig?",
+      "Eller, eller... hør her..!",
+      "Hvis du initierer et <c=banana>Jordslag</c> midt i et <c=banana>Jordslag</c>, vil du få et lille skub opad!",
+      "Det er praktisk talt et lavbudget dobbelthop, ikke?\n<w>Hahahaha!</w>",
+      "*Ahem...*",
+      "Ærligt talt kunne det være rigtig nyttigt, hvis du bare har brug for en lille smule mere højde!"
+    ],
     "en": [
       "Hey, listen, listen, @CharacterName!\nDid you know?",
-      "Apparently, you can perform a long\njump right after you land a ground slam!",
+      "Apparently, you can perform a long jump right after you land a <c=banana>Ground Slam!</c>",
       "Wouldn't that make you <w>suuuper</w> quick?",
       "Or, or... listen to this..!",
-      "If you initiate a ground slam while already\nground slamming, you gain upward\nmomentum!",
-      "It's practically, a low budget double jump,\nisn't it?\n<w>Hahahaha!</w>",
+      "If you initiate a <c=banana>Ground Slam</c> while already slamming, you gain upward momentum!",
+      "It's practically, a low budget double jump, isn't it?\n<w>Hahahaha!</w>",
       "*Ahem...*",
-      "Honestly, it could be really useful for when\nyou need just a tiny bit more height!"
+      "Honestly, it could be really useful for when you need just a tiny bit more height!"
     ]
   },
   "Responses": {

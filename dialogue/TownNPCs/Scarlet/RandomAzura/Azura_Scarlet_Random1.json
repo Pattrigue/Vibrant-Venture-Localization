@@ -1,16 +1,24 @@
 {
   "DialogueId": "Azura_Scarlet_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hey, hør, hør, @CharacterName!\nVidste du det her?",
+      "Der står her, at din evne, der lader dig flyve fremad ved hjælp af... <w>VAND?!</w>...",
+      "...kan faktisk vinkles op eller ned!",
+      "Ååh... jeg er så jaloux! Du kan næsten flyve, @CharacterName. Sig mig, sig mig! Hvordan er det?"
+    ],
     "en": [
       "Hey, listen, listen, @CharacterName!\nDid you know?",
-      "Says here that your ability that lets you fly\nforwards using... <w>WATER?!</w>...",
+      "Says here that your ability that lets you fly forwards using... <w>WATER?!</w>...",
       "...can actually be angled up or down!",
-      "Haa... I'm so jealous!\nYou can practically fly, @CharacterName.\nTell me, tell me! What's it like?"
+      "Haa... I'm so jealous! You can practically fly, @CharacterName. Tell me, tell me! What's it like?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Se her!",
+      "Læs videre..."
+    ],
     "en": [
       "Look!",
       "Keep reading..."

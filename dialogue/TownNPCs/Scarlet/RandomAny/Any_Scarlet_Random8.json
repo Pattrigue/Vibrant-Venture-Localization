@@ -1,11 +1,16 @@
 {
   "DialogueId": "Any_Scarlet_Random8",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "...\n<w>WOW!</w> VIRKELG?!",
+      "Det er fantastisk, for jeg kan heller ikke vælge!",
+      "Ved du, hvad du virkelig burde prøve? At læse under stjernehimlen! Det er det mest fredfyldte nogensinde...",
+      "Vil du være med en gang?"
+    ],
     "en": [
       "...\n<w>WOAH!</w> Really?!",
       "That's great, because I can't choose either!",
-      "You know what you should really try?\nReading underneath the starry sky!\nIt's the most tranquil thing ever...",
+      "You know what you should really try? Reading underneath the starry sky! It's the most tranquil thing ever...",
       "Would you like to join me sometime?"
     ]
   },

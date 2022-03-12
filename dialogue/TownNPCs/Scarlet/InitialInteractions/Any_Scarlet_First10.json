@@ -1,10 +1,13 @@
 {
   "DialogueId": "Any_Scarlet_First10",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Åh, okay...",
+      "Nåh, det betyder bare, at jeg har mere tid til at læse de 18 tegneserier, jeg bestilte for nyligt!"
+    ],
     "en": [
       "Oh, okay...",
-      "Well, that just means I have more time to\nread the 18 comics I ordered a while ago!"
+      "Well, that just means I have more time to read the 18 comics I ordered a while ago!"
     ]
   },
   "Responses": {

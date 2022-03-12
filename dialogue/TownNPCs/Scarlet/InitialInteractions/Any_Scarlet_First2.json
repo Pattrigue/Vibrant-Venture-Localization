@@ -1,18 +1,28 @@
 {
   "DialogueId": "Any_Scarlet_First2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ja, selvfølgelig! De er virkelig gode til bare at fuldstændigt fordybe sig i.",
+      "Aah... jeg elsker, hvordan man kan forestille sig en histories landskab kun ud fra bogstaver...",
+      "...så kommer der en filmatisering, og det viser sig, at din forestilling er fuldstændig anderledes end filmskabernes!",
+      "Men er det ikke det, der er så fantastisk ved bøger? Alle visualiserer jo tingene forskelligt!",
+      "U-Undskyld... jeg vrøvler vist lidt, <w>haha...</w>",
+      "Hey, du burde kigge forbi en gang i mellem! Så kan jeg fortælle dig om de ting, jeg læser."
+    ],
     "en": [
-      "Yeah, of course!\nThey're usually great for just completely\nimmersing yourself.",
-      "Aah... I always love how I'm able to imagine a\nstory's scenery from just letters alone...",
-      "...then a movie adaption comes along and it\nturns out your vision totally differs from\nthe movie makers'!",
-      "But isn't that what's so great about books?\nEveryone visualises things differently, after\nall!",
+      "Yeah, of course! They're usually great for just completely immersing yourself.",
+      "Aah... I always love how I'm able to imagine a story's scenery from just letters alone...",
+      "...then a movie adaptation comes along and it turns out your vision totally differs from the movie makers'!",
+      "But isn't that what's so great about books? Everyone visualises things differently, after all!",
       "S-Sorry... I kinda lost myself there, <w>haha...</w>",
-      "Hey, you should stop by every once in a while!\nI'll tell you about the things I'm reading."
+      "Hey, you should stop by every once in a while! I'll tell you about the things I'm reading."
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Lyder godt!",
+      "Tak, men ellers tak."
+    ],
     "en": [
       "Sounds good!",
       "Thanks, but I'll pass."

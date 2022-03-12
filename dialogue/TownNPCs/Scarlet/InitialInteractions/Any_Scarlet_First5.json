@@ -1,20 +1,32 @@
 {
   "DialogueId": "Any_Scarlet_First5",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Interessant!\nDem er der ikke mange, der er til...",
+      "Men det betyder ikke, at vi har dårlig smag!",
+      "Jeg kan personligt godt lide, når forfattere indarbejder ordspil og sarkasme i deres forklaringer.",
+      "Jeg tror, at en forfatters måde at formidle information på er det, der får folk til at forstå og værdsætte deres værker!",
+      "Hver forfatter har deres egen måde at skrive på, så hvis du ikke forstår eller nyder en bog...",
+      "...kunne du prøve at finde en fra en anden forfatter!",
+      "Ups... jeg vrøvler vist lidt, gør jeg ikke?",
+      "Du burde kigge forbi en gang i mellem! Så kan jeg fortælle dig om de ting, jeg læser."
+    ],
     "en": [
       "Interesting!\nNot a lot of people are into these, you know...",
       "But that doesn't mean we have bad taste!",
-      "I personally enjoy when authors\noccassionally throw in puns and sarcasm\nduring their explanations.",
-      "I think an author's way of conveying\ninformation is what makes people\nunderstand and enjoy their work!",
-      "Every author has their own way of writing,\nso if you don't understand or enjoy a book...",
-      "...you could try to pick up one from another\nauthor!",
-      "Woops... I guess I kinda lost myself there,\ndidn't I?",
-      "You should drop by every once in a while!\nI'll tell you about the things I'm reading."
+      "I personally enjoy when authors occasionally throw in puns and sarcasm during their explanations.",
+      "I think an author's way of conveying information is what makes people understand and enjoy their work!",
+      "Every author has their own way of writing, so if you don't understand or enjoy a book...",
+      "...you could try to pick up one from another author!",
+      "Woops... I guess I kinda lost myself there, didn't I?",
+      "You should drop by every once in a while! I'll tell you about the things I'm reading."
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Helt sikkert!",
+      "Beklager..."
+    ],
     "en": [
       "Sure thing!",
       "Sorry..."

@@ -1,10 +1,14 @@
 {
   "DialogueId": "Azura_Scarlet_Random2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hva'?\nDet står på næste side?",
+      "ÅH, du har ret! Hvordan vidste du det? Har du skrevet bogen eller hva'? <w>Hahaha!</w>",
+      "...\n...\nHar du?"
+    ],
     "en": [
       "Huh?\nThat's documented on the next page?",
-      "OH, you're right! How did you know?\nDid you write this or something?\n<w>Hahaha!</w>",
+      "OH, you're right! How did you know? Did you write this or something? <w>Hahaha!</w>",
       "...\n...\nDid you?"
     ]
   },

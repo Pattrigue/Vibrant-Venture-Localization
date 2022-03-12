@@ -1,7 +1,10 @@
 {
   "DialogueId": "Any_Scarlet_First4",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Åh, det er en skam...",
+      "Nå, vi snakkes ved en anden gang så!"
+    ],
     "en": [
       "Oh, that's a shame...",
       "Well, talk to you again sometime!"

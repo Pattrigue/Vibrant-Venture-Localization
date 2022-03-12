@@ -1,14 +1,21 @@
 {
   "DialogueId": "Any_Scarlet_Random5",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ja!\nHelt sikkert i min top tre!",
+      "Du aner ikke, hvor mange følelsesmæssige rutsjebaner jeg har været på med den slags bøger.",
+      "Fortryder jeg det?\n<s>Overhovedet ikke, naturligvis!!!</s>",
+      "Det er altid meget interessant at se, hvordan forskellige karakterer håndterer forskellige situationer.",
+      "Når alt kommer til alt, lærer disse genrer os mest om folks mange følelser og perspektiver.",
+      "Det er derfor, disse genrer er min anden favorit!"
+    ],
     "en": [
       "Yes!\nDefinitely in my top three for sure!",
-      "You have NO idea how many emotional\nrollercoasters I've been on with those kinds\nof books.",
+      "You have NO idea how many emotional rollercoasters I've been on with those kinds of books.",
       "Do I regret it?\n<s>Not one bit of course!!!</s>",
-      "It's always very interesting to see how\ndifferent characters handle different\nsituations.",
-      "After all, these genres teach us about\npeoples' many emotions and perspectives\nthe most.",
-      "That's why these genres are my second\nfavorite!"
+      "It's always very interesting to see how different characters handle different situations.",
+      "After all, these genres teach us about peoples' many emotions and perspectives the most.",
+      "That's why these genres are my second favorite!"
     ]
   },
   "Responses": {

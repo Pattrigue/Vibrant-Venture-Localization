@@ -1,12 +1,18 @@
 {
   "DialogueId": "Any_Scarlet_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Man kan lære så meget af at læse bøger!",
+      "For eksempel giver de dig mulighed for at forstå karakterernes forskellige synspunkter i historier.",
+      "At lære om, hvorfor karaktererne tænker og handler, som de gør, er meget fascinerende.",
+      "Jeg vil gerne skrive min egen historie engang!",
+      "Du kan være den første til at læse den, @CharacterName!"
+    ],
     "en": [
       "You can learn so much from reading books!",
-      "For instance, they allow you to understand\nthe characters' different points of view in\nstories.",
-      "Learning about why the characters think\nand act the way they do is very fascinating.",
-      "I'd like to write my own story some day!",
+      "For instance, they allow you to understand the characters' different points of view in stories.",
+      "Learning about why the characters think and act the way they do is very fascinating.",
+      "I'd like to write my own story someday!",
       "You can be the first to read it, @CharacterName!"
     ]
   },

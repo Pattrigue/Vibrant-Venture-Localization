@@ -1,12 +1,20 @@
 {
   "DialogueId": "Any_Scarlet_Random6",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "<w>Ihihi!</w>\nDe er altid så spændende at følge.",
+      "Jeg er dog ikke til grafiske billeder...",
+      "Med serier som disse slukker jeg normalt alt lys og bruger en enkelt svag lyskilde til at læse!",
+      "Disse genrer starter ofte som om alt er normalt...",
+      "Så pludselig...",
+      "<s>BAAAHH!!!</s>",
+      "<w>Hiihii~</w>\nSkræmte jeg dig der?\n<w>Muahaha,</w> det håber jeg, jeg gjorde..!"
+    ],
     "en": [
       "<w>Eeheehee!</w>\nThese are always so tense to follow.",
       "I'm not one for graphic imagery though...",
-      "With series like these I usually turn off all\nthe lights and use a single dim light source\nto read!",
-      "These genres often start off like\neverything's normal...",
+      "With series like these I usually turn off all the lights and use a single dim light source to read!",
+      "These genres often start off like everything's normal...",
       "Then, suddenly...",
       "<s>BAAAHH!!!</s>",
       "<w>Heehee~</w>\nDid I scare you there?\n<w>Muahaha,</w> I better have..!"

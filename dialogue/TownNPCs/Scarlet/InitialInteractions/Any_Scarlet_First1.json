@@ -1,17 +1,29 @@
 {
   "DialogueId": "Any_Scarlet_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "...\n...\nÅH, hej!",
+      "Hehe, undskyld. Jeg lagde ikke mærke til dig, fordi jeg læste denne nye bog, jeg lige har fået fingrene i.",
+      "Har vi mødt hinanden før?\nJeg er i tvivl...",
+      "Måske er det fordi jeg har for travlt med at læse bøger hele tiden til at lægge mærke til, <w>haha...</w>",
+      "Hvilke slags bøger kan du lide?"
+    ],
     "en": [
       "...\n...\nOH, hi!",
-      "Hehe, sorry. I didn't notice you because I've\nbeen reading this new book I got my hands\non recently.",
+      "Hehe, sorry. I didn't notice you because I've been reading this new book I got my hands on recently.",
       "Have we met before?\nI'm not sure...",
-      "Maybe it's because I'm too busy reading\nbooks all the time to notice, <w>haha...</w>",
+      "Maybe it's because I'm too busy reading books all the time to notice, <w>haha...</w>",
       "What kind of books do you like?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Fiktionsbøger",
+      "Fagbøger",
+      "Tegneserier",
+      "Jeg kan ikke lide at læse.",
+      "Jeg elsker alle slags bøger!"
+    ],
     "en": [
       "Fiction books.",
       "Textbooks.",

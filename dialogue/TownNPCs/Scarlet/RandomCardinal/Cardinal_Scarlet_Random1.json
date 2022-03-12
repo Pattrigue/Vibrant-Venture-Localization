@@ -1,15 +1,23 @@
 {
   "DialogueId": "Cardinal_Scarlet_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hey, hør, hør, @CharacterName!\nVidste du det her?",
+      "Der står her, at dine evner er ret ligefrem...",
+      "...og altså, en af dem ser ud til at bogstaveligt talt drive dig lige frem, haha!",
+      "*Ahem* Dit <c=cardinal>Luftspark<c/> ser ud til at være særlig nyttigt til at skade flere fjender...",
+      "fordi det varer indtil du lander!",
+      "Uuuh, og dit fyrige c=cardinal>Dobbelthop<c/> kan dække dig både til venstre og højre!",
+      "Det er ret tydeligt, at du har det, der skal til for at bekæmpe flere fjender på én gang, @CharacterName!"
+    ],
     "en": [
       "Hey, listen, listen, @CharacterName!\nDid you know?",
-      "It says here that your abilities are pretty\nstraightforward...",
-      "...and I mean, one seems to literally propel\nyou forward, haha!",
-      "*Ahem* Your Fire Kick seems to be\nespecially useful for damaging multiple\nenemies...",
+      "It says here that your abilities are pretty straightforward...",
+      "...and I mean, one seems to literally propel you forward, haha!",
+      "*Ahem* Your <c=cardinal>Air Kick<c/> seems to be especially useful for damaging multiple enemies...",
       "because it lasts until you land!",
-      "Oooh, and your Fiery Double Jump can cover\nyou both to the left and right!",
-      "It's pretty clear you have what it takes to\ncombat multiple enemies at once, @CharacterName!"
+      "Oooh, and your fiery <c=cardinal>Double Jump<c/> can cover you both to the left and right!",
+      "It's pretty clear you have what it takes to combat multiple enemies at once, @CharacterName!"
     ]
   },
   "Responses": {

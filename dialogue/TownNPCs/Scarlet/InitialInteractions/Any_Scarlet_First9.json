@@ -1,7 +1,10 @@
 {
   "DialogueId": "Any_Scarlet_First9",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Juhu! Jeg kan ikke vente.",
+      "Jeg ser frem til at se dig igen snart!"
+    ],
     "en": [
       "Yay! I can't wait.",
       "Looking forward to seeing you again soon!"

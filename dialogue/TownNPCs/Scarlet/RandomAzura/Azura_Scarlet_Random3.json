@@ -1,10 +1,13 @@
 {
   "DialogueId": "Azura_Scarlet_Random3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Åh, det har jeg helt sikkert tænkt mig at gøre! Denne bog er et fantastisk fund. <w>En skat...</w>",
+      "Hey, hey... Hvad med at vi læser den sammen? Sig til engang, 'kay?"
+    ],
     "en": [
-      "Oh, I absolutely will!\nThis book is an amazing find.\n<w>A treasure...</w>",
-      "Hey, hey...\nHow about we read it together?\nLet me know sometime, 'kay?"
+      "Oh, I absolutely will! This book is an amazing find. <w>A treasure...</w>",
+      "Hey, hey... How about we read it together? Let me know sometime, 'kay?"
     ]
   },
   "Responses": {

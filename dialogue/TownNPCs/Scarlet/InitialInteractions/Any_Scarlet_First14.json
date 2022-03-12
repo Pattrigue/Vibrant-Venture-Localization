@@ -1,16 +1,24 @@
 {
   "DialogueId": "Any_Scarlet_First14",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "...\n...\n<s>VIRKELIG?!</s>",
+      "<w>Wooow!</w>\nDet er, ligesom, ligesom... SÅ længe siden, jeg har mødt nogen med lignende interesser!",
+      "Vi burde, ligesom, læse bøger sammen engang!",
+      "Hvis du kommer forbi og besøger mig nu og da, kan vi snakke om de ting, vi læser!"
+    ],
     "en": [
       "...\n...\n<s>REALLY?!</s>",
-      "<w>Woooow!</w>\nIt's been, like, like... SO long since I've met\nsomeone with similar interests!",
-      "We should, like, totally read books together\nsometime!",
-      "If you just come visit me every now and then,\nwe can talk about the things we're reading!"
+      "<w>Woooow!</w>\nIt's been, like, like... SO long since I've met someone with similar interests!",
+      "We should, like, totally read books together sometime!",
+      "If you just come visit me every now and then, we can talk about the things we're reading!"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Det vil jeg meget gerne!",
+      "Jeg har travlt... men senere?"
+    ],
     "en": [
       "I'd love to!",
       "I'm busy... but later?"

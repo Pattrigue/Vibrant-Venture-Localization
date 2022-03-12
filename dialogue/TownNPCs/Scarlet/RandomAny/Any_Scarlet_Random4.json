@@ -1,13 +1,19 @@
 {
   "DialogueId": "Any_Scarlet_Random4",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Uuuuh.\nGod smag, god smag!",
+      "Den slags historier er altid så spændende!",
+      "Elsker du ikke bare at udforske alt, hvad der er at vide om den verden, forfatteren har skabt?",
+      "Og, og jeg elsker at se de onde få tæsk af de gode! <w>Aahaha...</w>",
+      "Overraskende nok er det også meget morsomt når det er omvendt."
+    ],
     "en": [
       "Ooooh.\nGood tastes, good tastes!",
-      "Series with these genres are always so very\nexciting!",
-      "Don't you just love to explore all there is to\nknow about the world the author of such\nseries created?",
-      "And, and, I love watching the bad guys get\npummeled by the good guys!\n<w>Aahaha...</w>",
-      "Surprisingly, it being the other way around\nis plenty amusing as well."
+      "Series with these genres are always so very exciting!",
+      "Don't you just love to explore all there is to know about the world the author of such series created?",
+      "And, and, I love watching the bad guys get pummeled by the good guys! <w>Aahaha...</w>",
+      "Surprisingly, it being the other way around is plenty amusing as well."
     ]
   },
   "Responses": {

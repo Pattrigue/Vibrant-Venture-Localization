@@ -1,7 +1,9 @@
 {
   "DialogueId": "Any_Scarlet_First13",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Nåh... okay!"
+    ],
     "en": [
       "Oh... okay!"
     ]

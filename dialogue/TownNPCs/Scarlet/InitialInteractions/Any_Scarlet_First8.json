@@ -1,19 +1,30 @@
 {
   "DialogueId": "Any_Scarlet_First8",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ikke også?! For at være ærlig... Nogle gange har jeg bare lyst til historier, der fortælles sammen med tegninger!",
+      "Om de foregår i en helt anden verden med alle slags arter...",
+      "eller bare fordrejer vores egen virkelighed...",
+      "<w>AAAAH, der er så mange gode værker derude!</w>",
+      "Det er vistnok også dem, der holder mig vågen om natten, <w>haha...</w>",
+      "Hey, hey, du burde helt klart komme forbi en gang imellem!",
+      "Du ved, så jeg kan fortælle dig om, hvad jeg læser!"
+    ],
     "en": [
-      "Right?! I gotta be honest...\nSometimes I'm just craving stories that are\ntold alongside works of art!",
-      "Whether they take place in a completely\ndifferent world with all kinds of species...",
+      "Right?! I gotta be honest... Sometimes I'm just craving stories that are told alongside works of art!",
+      "Whether they take place in a completely different world with all kinds of species...",
       "or simply twist our own reality...",
-      "<w>AAAAH, there's so many good works out\nthere!</w>",
-      "They may also be what keeps me up at\nnight, <w>haha...</w>",
-      "Hey, hey, you should totally come by every\nonce in a while!",
-      "You know, so I can tell you about what I'm\nreading!"
+      "<w>AAAAH, there's so many good works out there!</w>",
+      "They may also be what keeps me up at night, <w>haha...</w>",
+      "Hey, hey, you should totally come by every once in a while!",
+      "You know, so I can tell you about what I'm reading!"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Lyder sjovt!",
+      "Ellers tak."
+    ],
     "en": [
       "Sounds fun!",
       "I'll pass."

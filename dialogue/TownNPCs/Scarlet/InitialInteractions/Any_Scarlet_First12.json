@@ -1,7 +1,10 @@
 {
   "DialogueId": "Any_Scarlet_First12",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Vil du? Det er jeg så glad for!",
+      "Så ses vi forhåbentlig snart!"
+    ],
     "en": [
       "You will? I'm so happy!",
       "I'll see you very soon then, hopefully!"

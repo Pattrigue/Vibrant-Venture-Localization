@@ -1,7 +1,9 @@
 {
   "DialogueId": "Any_Scarlet_First7",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Det er okay, det går nok!\nVi ses."
+    ],
     "en": [
       "It's okay, I understand!\nBe seeing you."
     ]

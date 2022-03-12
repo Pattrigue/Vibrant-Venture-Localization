@@ -1,14 +1,20 @@
 {
   "DialogueId": "Any_Scarlet_First11",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Virkelig? Det er en skam... Men det er vel ikke alle, der værdsætter bøger, som jeg gør.",
+      "Men hvis du har lyst, kan jeg fortælle dig noget om, hvad jeg læser, hvis du kigger forbi en gang i mellem."
+    ],
     "en": [
-      "Really? That's a shame...\nBut I guess not everyone can appreciate\nbooks like I do.",
-      "But if you like, I could tell you something\nabout what I'm reading if you stop by every\nonce in a while."
+      "Really? That's a shame... But I guess not everyone can appreciate books like I do.",
+      "But if you like, I could tell you something about what I'm reading if you stop by every once in a while."
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Tja, okay.",
+      "Nej tak."
+    ],
     "en": [
       "Well, okay.",
       "I'm good, thanks."

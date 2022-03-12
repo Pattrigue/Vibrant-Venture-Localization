@@ -1,13 +1,20 @@
 {
   "DialogueId": "Any_Scarlet_Random7",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "De er så afslappende, ikke? Selvom de får din mave til at gøre ondt af grin!",
+      "Denne slags serier giver den perfekte afveskling...",
+      "Og jeg er ikke engang begyndt at tale om Slice of Life endnu!",
+      "De føles som oceaner fulde af sindsro... Jeg kan slet ikke få nok af dem!",
+      "På den anden side, at se en rektor bryde med en hjort er noget, jeg bare...",
+      "ikke kan LADE VÆRE med at grine af, <w>ahaha!</w>"
+    ],
     "en": [
-      "They're so relaxing, aren't they?\nEven if they make your stomach hurt from\nlaughter!",
-      "These kind of series offer a perfect change\nof pace...",
-      "And I haven't even started talking about\nSlice of Life yet!",
-      "They feel like oceans full of serenity...\nI absolutely can't get enough of them!",
-      "On the other hand, watching a principal\nwrestle a deer is something I just...",
+      "They're so relaxing, aren't they? Even if they make your stomach hurt from laughter!",
+      "These kind of series offer a perfect change of pace...",
+      "And I haven't even started talking about Slice of Life yet!",
+      "They feel like oceans full of serenity... I absolutely can't get enough of them!",
+      "On the other hand, watching a principal wrestle a deer is something I just...",
       "can't NOT laugh about, <w>ahaha!</w>"
     ]
   },
