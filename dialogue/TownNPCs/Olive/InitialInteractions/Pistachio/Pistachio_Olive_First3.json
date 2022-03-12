@@ -1,11 +1,15 @@
 {
   "DialogueId": "Pistachio_Olive_First3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "V-Virkelig..?\nJeg kan vel ikke stoppe dig...",
+      "I det mindste...\nhvis du vender tilbage, så lad mig høre om dine eventyr.",
+      "Dermed kan jeg sikre mig, at du ikke gør noget alt for farligt..!"
+    ],
     "en": [
       "R-Really..?\nI guess there's no stopping you...",
-      "At the very least...\nif you do make it back, let me listen to your\nadventures.",
-      "That way I can make sure you're not doing\nanything too dangerous..!"
+      "At the very least...\nif you do make it back, let me listen to your adventures.",
+      "That way I can make sure you're not doing anything too dangerous..!"
     ]
   },
   "Responses": {

@@ -1,14 +1,20 @@
 {
   "DialogueId": "Pistachio_Olive_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Se selv! Vi sagde det jo!",
+      "At vove sig ud af byen er alt for farligt!\nKom du tilbage efter at have indset det?"
+    ],
     "en": [
       "See? We told you!",
       "Venturing out of town is way too dangerous!\nDid you come back after realising that?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Faktisk...",
+      "Jeps!"
+    ],
     "en": [
       "Actually...",
       "Yup!"

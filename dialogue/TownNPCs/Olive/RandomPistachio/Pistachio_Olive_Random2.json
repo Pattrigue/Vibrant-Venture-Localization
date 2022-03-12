@@ -1,7 +1,9 @@
 {
   "DialogueId": "Pistachio_Olive_Random2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Okay, okay, det er modtaget."
+    ],
     "en": [
       "Okay, okay, I get it."
     ]

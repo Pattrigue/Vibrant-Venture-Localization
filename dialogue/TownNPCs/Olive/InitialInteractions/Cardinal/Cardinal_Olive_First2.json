@@ -1,12 +1,17 @@
 {
   "DialogueId": "Cardinal_Olive_First2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Åh, så hun følges med dig nu, @CharacterName?",
+      "Jeg er <w>siiiiikker</w> på, at hun har det godt med det!\n...Hun er ikke sammen med dig nu, vel?",
+      "@CharacterName, bed venligst <c=pistachio>min lillesøster</c> om at komme forbi en gang imellem og pas på hende.",
+      "Og fortæl mig om jeres eventyr, når du kan!"
+    ],
     "en": [
-      "Oh, so she's tagging along with you now,\n@CharacterName?",
+      "Oh, so she's tagging along with you now, @CharacterName?",
       "I'm <w>suuuuure</w> she's comfortable with that!\n...She's not with you now, is she?",
-      "@CharacterName, please tell <c=pistachio>my little sister</c> to come\nby every once in a while, and keep her safe.",
-      "And tell me about your adventures when you\ncan!"
+      "@CharacterName, please tell <c=pistachio>my little sister</c> to come by every once in a while, and keep her safe.",
+      "And tell me about your adventures when you can!"
     ]
   },
   "Responses": {

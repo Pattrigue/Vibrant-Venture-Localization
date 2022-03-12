@@ -1,17 +1,24 @@
 {
   "DialogueId": "Pistachio_Olive_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Er du tilbage igen for at få råd om omverdenen?",
+      "...Hvem narer jeg?\nDu er eventyreren her, ikke mig!",
+      "Så du er måske her for at få råd om <c=cardinal>den fyr</c>, <w>hmmm?</w>"
+    ],
     "en": [
       "Back again for advice on the outside world?",
       "...Who am I kidding?\nYou're the venturer here, not me!",
-      "Then, perhaps you're here for advice on\n<c=cardinal>that guy</c>, <w>hmmm?</w>"
+      "Then, perhaps you're here for advice on <c=cardinal>that guy</c>, <w>hmmm?</w>"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "OLIVE!!!",
+      "Råd?"
+    ],
     "en": [
-      "Olive!!!",
+      "OLIVE!!!",
       "Advice?"
     ]
   }

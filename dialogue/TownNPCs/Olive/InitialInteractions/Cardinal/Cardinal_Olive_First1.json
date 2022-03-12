@@ -1,14 +1,20 @@
 {
   "DialogueId": "Cardinal_Olive_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hej, @CharacterName.\nJeg hørte, hvad der skete fra <c=hickory>Hickory</c>.",
+      "Hvordan har dig og <c=pistachio>min lillesøster</c> det?"
+    ],
     "en": [
       "Hey, @CharacterName.\nI heard about what happened from <c=hickory>Hickory</c>.",
       "How are you and <c=pistachio>my little sister</c> doing?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Jeg har det fint! Hun er...",
+      "Mig og hvem?"
+    ],
     "en": [
       "I'm fine! She's...",
       "Me and who?"

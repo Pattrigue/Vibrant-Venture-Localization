@@ -1,13 +1,19 @@
 {
   "DialogueId": "Pistachio_Olive_First5",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Det er nemlig rigtigt!\nJeg er så glad for, at du endelig forstår det.",
+      "V-Vent, hvad?\nSeriøst, du kom kun tilbage for afvekslingens skyld?",
+      "Sådan har du altid været...",
+      "Vil du i det mindste fortælle mig om dine eventyr en gang imellem?",
+      "Dermed kan jeg sikre mig, at du ikke gør noget alt for farligt..!"
+    ],
     "en": [
       "That's right!\nI'm so glad you finally understand.",
-      "W-Wait, what?\nSeriously, you only came back for a change\nof pace?",
+      "W-Wait, what?\nSeriously, you only came back for a change of pace?",
       "You've always been like this...",
-      "Will you atleast tell me about your\nadventures every once in a while?",
-      "That way I can make sure you're not doing\nanything too dangerous..!"
+      "Will you atleast tell me about your adventures every once in a while?",
+      "That way I can make sure you're not doing anything too dangerous..!"
     ]
   },
   "Responses": {

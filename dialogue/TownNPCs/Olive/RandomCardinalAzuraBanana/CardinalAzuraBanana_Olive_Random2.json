@@ -1,11 +1,15 @@
 {
   "DialogueId": "CardinalAzuraBanana_Olive_Random2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Skoven er et farligt sted... Da vi var små, fortalte min søster mig nogle gange ting om det.",
+      "For eksempel, dyrelivet virker meget sødt i starten, men er faktisk ret farligt!",
+      "Jeg aner dog ikke, hvordan hun vidste det... Måske studerede hun om omverdenen, og jeg lagde bare aldrig mærke til det?"
+    ],
     "en": [
-      "The forest is a dangerous place...\nWhen we were little, my sister sometimes\ntold me things about it.",
-      "Things like its wildlife seeming very cute at\nfirst, but actually being quite dangerous!",
-      "I have no idea how she knew, though...\nMaybe she was studying the outside world\nand I just never noticed?"
+      "The forest is a dangerous place... When we were little, my sister sometimes told me things about it.",
+      "Things like its wildlife seeming very cute at first, but actually being quite dangerous!",
+      "I have no idea how she knew, though... Maybe she was studying the outside world and I just never noticed?"
     ]
   },
   "Responses": {

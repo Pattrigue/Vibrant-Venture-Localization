@@ -1,12 +1,18 @@
 {
   "DialogueId": "AzuraBanana_Olive_First3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Nå, jeg er glad for at vide, at I alle er okay.",
+      "I forsøgte at forhindre krystallerne i at blive stjålet, men <c=violastro>den tyv</c> slap væk, ikke?",
+      "Jeg hørte, hvad der var sket, da jeg løb ind i <c=131,42,13>Hickory</c> på vej til <c=pistachio>min lillesøster</c>.",
+      "Jeg ved ikke, hvad jeg ville gøre, hvis noget skulle ske med hende...",
+      "Vær venligst forsigtig på jeres eventyr!"
+    ],
     "en": [
       "Well, I'm glad to know that you're all okay.",
-      "You guys tried to prevent the crystals from\nbeing stolen, but <c=violastro>that thief</c> got away, didn't\nhe?",
-      "I heard about what happened when I ran into\n<c=131,42,13>Hickory</c> on my way to <c=pistachio>my little sister</c>.",
-      "I don't know what I'd do if something were to\nhappen to her...",
+      "You guys tried to prevent the crystals from being stolen, but <c=violastro>that thief</c> got away, didn't he?",
+      "I heard about what happened when I ran into <c=131,42,13>Hickory</c> on my way to <c=pistachio>my little sister</c>.",
+      "I don't know what I'd do if something were to happen to her...",
       "Please be careful on your adventures!"
     ]
   },

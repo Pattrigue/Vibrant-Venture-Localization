@@ -1,11 +1,15 @@
 {
   "DialogueId": "Pistachio_Olive_Random4",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Uuh... Hver gang du kommer tilbage, hører jeg mere og mere om omverdenen.",
+      "Det er så interessant!",
+      "Jeg synes, det er en kæmpe forbedring i forhold til, da man hele tiden tegnede på mit yndlingstøj som små."
+    ],
     "en": [
-      "Huuuh... Every time you come back, I get to\nhear more and more things about the\noutside world.",
+      "Huuuh... Every time you come back, I get to hear more and more things about the outside world.",
       "It's so interesting!",
-      "I think it's a huge improvement from when\nyou would constantly draw on my favourite\nclothes when we were little."
+      "I think it's a huge improvement from when you would constantly draw on my favourite clothes when we were little."
     ]
   },
   "Responses": {

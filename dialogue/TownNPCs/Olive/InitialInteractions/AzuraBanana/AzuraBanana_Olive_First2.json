@@ -1,13 +1,20 @@
 {
   "DialogueId": "AzuraBanana_Olive_First2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Husker du det ikke? Det giver vel mening, da vi aldrig har talt direkte med hinanden før.",
+      "Mit navn er <c=pistachio>Olive</c>. Jeg er <c=pistachio>Pistachio</c>s storesøster!",
+      "Jeg hørte, at I forsøgte at forhindre krystallerne i at blive stjålet... men <c=violastro>den tyv</c> slap væk, ikke?",
+      "Jeg ville se til <c=pistachio>min lillesøster</c>, men i stedet løb jeg ind i <c=131,42,13>Hickory</c>, som fortalte mig, hvad der var sket.",
+      "Jeg er glad for, at I alle er okay. Jeg ved ikke, hvad jeg ville have gjort, hvis der var sket noget med <c=pistachio>min lillesøster</c>...",
+      "Vær venligst forsigtig på jeres eventyr!"
+    ],
     "en": [
-      "You don't remember?\nWell, I understand since we never directly\nspoke to each other before.",
-      "My name is <c=pistachio>Olive</c>.\nI'm <c=pistachio>Pistachio</c>'s older sister!",
-      "I heard that you guys tried to prevent the\ncrystals from being stolen...\nbut <c=violastro>that thief</c> got away, didn't he?",
-      "I wanted to check up on <c=pistachio>my little sister</c>, but\ninstead I ran into <c=131,42,13>Hickory</c> who told me what\nhad happened.",
-      "I'm glad you are all okay.\nI don't know what I'd do if something were to\nhappen to <c=pistachio>my little sister</c>...",
+      "You don't remember? Well, I understand since we never directly spoke to each other before.",
+      "My name is <c=pistachio>Olive</c>. I'm <c=pistachio>Pistachio</c>'s older sister!",
+      "I heard that you guys tried to prevent the crystals from being stolen... but <c=violastro>that thief</c> got away, didn't he?",
+      "I wanted to check up on <c=pistachio>my little sister</c>, but instead I ran into <c=131,42,13>Hickory</c> who told me what had happened.",
+      "I'm glad you are all okay. I don't know what I'd do if something were to happen to <c=pistachio>my little sister</c>...",
       "Please be careful on your adventures!"
     ]
   },

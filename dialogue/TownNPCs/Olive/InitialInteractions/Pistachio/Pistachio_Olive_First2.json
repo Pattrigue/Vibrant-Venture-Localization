@@ -1,16 +1,24 @@
 {
   "DialogueId": "Pistachio_Olive_First2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ser man det, så du følges med dem nu, Stachi?\nOg du er ikke kommet for at blive?",
+      "Wauw...",
+      "Men stadig! Selvom du kom tilbage denne gang, er der ingen garanti for, at du vil gøre det næste gang!",
+      "Tager du stadig af sted igen, på trods af dette?!"
+    ],
     "en": [
       "Huuuh, so you're with them now, Stachi?\nAnd you're not here to stay?",
       "Wow...",
-      "Still! Even if you come back now, there's no\nguarantee you will next time!",
+      "Still! Even if you come back now, there's no guarantee you will next time!",
       "Are you still going despite knowing that?!"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Jeg lover, at vende tilbage!",
+      "Det... ved jeg ikke."
+    ],
     "en": [
       "I promise to return!",
       "I... don't know."

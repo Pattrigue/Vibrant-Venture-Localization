@@ -1,13 +1,18 @@
 {
   "DialogueId": "AzuraBanana_Olive_First1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Åh, hej.\nJeg er sikker på, vi har mødt hinanden før, har vi ikke?"
+    ],
     "en": [
       "Oh, hello.\nI'm sure we've met before, haven't we?"
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Har vi?",
+      "Det har vi!"
+    ],
     "en": [
       "Have we?",
       "We have!"

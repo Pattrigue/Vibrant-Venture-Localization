@@ -1,11 +1,16 @@
 {
   "DialogueId": "Cardinal_Olive_First3",
   "Dialogue": {
-    "da": [],
+    "da": [ 
+      "<s><c=cardinal>CARDINAL</c>!!!</s>\n<c=pistachio>Pistachio</c>, min lillesøster!\nStop med at drille mig...",
+      "Åh, så hun følges med dig nu?\nDet tænker jeg, hun har det godt med...",
+      "Åh, hvabehar? Ikke noget!\nBed hende venligst om at komme forbi en gang imellem, okay?",
+      "Jeg vil gerne høre om hendes eventyr!"
+    ],
     "en": [
       "<s><c=cardinal>CARDINAL</c>!!!</s>\n<c=pistachio>Pistachio</c>, my little sister!\nDon't mess around...",
       "Oh, so she's with you now?\nI guess she's comfortable with that...",
-      "Oh, huh? Nothing!\nPlease tell her to come by every once in a\nwhile, okay?",
+      "Oh, huh? Nothing!\nPlease tell her to come by every once in a while, okay?",
       "I'd like to hear about her adventures!"
     ]
   },

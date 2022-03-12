@@ -1,7 +1,9 @@
 {
   "DialogueId": "Pistachio_Olive_Random3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Haha, jeg vidste det.\nOkay, sæt dig ned og lyt efter!"
+    ],
     "en": [
       "Haha, knew it.\nAlright, sit down and listen up!"
     ]

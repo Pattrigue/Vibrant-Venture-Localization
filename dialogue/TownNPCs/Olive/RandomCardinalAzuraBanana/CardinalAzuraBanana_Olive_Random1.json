@@ -1,11 +1,15 @@
 {
   "DialogueId": "CardinalAzuraBanana_Olive_Random1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Førhen, længe før <c=pistachio>min lillesøster</c> forlod Cornucopia på jagt efter eventyr, legede vi jævnligt rundt omkring i byen.",
+      "Jeg var ofte nødt til at forhindre hende i at gå ud af byen, da vores forældre sagde, at skoven ikke er sikker...",
+      "Men hvis hun kan klare det, kan jeg bestemt også, ikke?"
+    ],
     "en": [
-      "In the past, way before <c=pistachio>my little sister</c> left\nCornucopia in search of adventure, we\nregularly played around town.",
-      "I'd often have to stop her from going out of\ntown, as our parents told us the forest isn't\nsafe...",
-      "But if she can handle it, I definitely could as\nwell, right?"
+      "In the past, way before <c=pistachio>my little sister</c> left Cornucopia in search of adventure, we regularly played around town.",
+      "I'd often have to stop her from going out of town, as our parents told us the forest isn't safe...",
+      "But if she can handle it, I definitely could as well, right?"
     ]
   },
   "Responses": {
