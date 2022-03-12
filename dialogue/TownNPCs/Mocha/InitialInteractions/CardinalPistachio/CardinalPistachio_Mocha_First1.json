@@ -5,7 +5,7 @@
       "Velkommen til Cornucopias helt egen kro!",
       "Hvis du leder efter et sted at opholde dig, er du kommet til det rigtige sted!",
       "...Vent, så du er her ikke for en reservation?",
-      "Hey, er du ikke en af de der favrige der løb efter <c=violastro>den skurk</c>"
+      "Hey, er du ikke en af de der farverige, der løb efter <c=violastro>den skurk</c>?"
     ],
     "en": [
       "Welcome to Cornucopia's very own inn!",
@@ -15,10 +15,13 @@
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Ja, men...",
+      "Farverige?"
+    ],
     "en": [
       "Yes, but...",
-      "Favrige?"
+      "Vibrants?"
     ]
   }
 }
