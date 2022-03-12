@@ -2,8 +2,8 @@
   "DialogueId": "TutPowerFruit",
   "Dialogue": {
     "da": [
-      "<c=163,79,203>Kraftfrugter</c> regenerere dine evner!\nDette gør dig i stand til at bruge evner endnu en gang.",
-      "Det gør det også muligt at skifte karakterer more end en gang i luften."
+      "<c=163,79,203>Kraftfrugter</c> regenererer dine evner!\nDette gør dig i stand til at bruge evner endnu en gang.",
+      "Det gør det også muligt at skifte karakterer mere end en gang i luften."
     ],
     "en": [
       "<c=163,79,203>Power Fruits</c> recharge your abilities!\nThis allows you to use abilities once more.",
