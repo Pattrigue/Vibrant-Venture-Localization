@@ -1,7 +1,9 @@
 {
   "DialogueId": "IntroMocha",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "TEMPLET ER UNDER ANGREB!"
+    ],
     "en": [
       "THE TEMPLE IS UNDER ATTACK!"
     ]

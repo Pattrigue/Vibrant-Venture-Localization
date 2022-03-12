@@ -1,10 +1,14 @@
 {
   "DialogueId": "IntroViolastro1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ser man det, eventyrere, hva'!",
+      "Jeg har tænkt mig at gøre tilværelsen en smule mere underholdende for os alle!\nJeres virkelighed trænger til en ommøblering!"
+      
+    ],
     "en": [
       "Well would you look at that, Adventurers!",
-      "I'm fixin' to make things a lot more\nentertaining for all of us!\nY'all's reality needs some shakin' up!"
+      "I'm fixin' to make things a lot more entertaining for all of us!\nY'all's reality needs some shakin' up!"
     ]
   },
   "Responses": {

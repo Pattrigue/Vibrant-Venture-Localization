@@ -1,10 +1,13 @@
 {
   "DialogueId": "Madeline1",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ypperligt!\nI nåede det lige i tide til showet...",
+      "Her er en smagsprøve på krystallernes kraft!"
+    ],
     "en": [
       "Spectacular!\nY'all made it just in time for the show...",
-      "Here's a taste of the power of the\ncrystals!"
+      "Here's a taste of the power of the crystals!"
     ]
   },
   "Responses": {

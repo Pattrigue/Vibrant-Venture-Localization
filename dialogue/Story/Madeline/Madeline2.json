@@ -1,7 +1,9 @@
 {
   "DialogueId": "Madeline2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "<w>Bwøhøhø!</w>\nJeg tror, dette er jeres lukkeakt!"
+    ],
     "en": [
       "<w>Bwahaha!</w>\nI think this is your closing act!"
     ]

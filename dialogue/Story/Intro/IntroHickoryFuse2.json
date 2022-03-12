@@ -1,7 +1,9 @@
 {
   "DialogueId": "IntroHickoryFuse2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Men vær forsigtig med den!\nDen er ældgammel!\nAf sted mig jer!"
+    ],
     "en": [
       "Be careful with it though!\nThat thing's a fossil!\nNow get goin'!"
     ]

@@ -1,11 +1,15 @@
 {
   "DialogueId": "IntroOlive",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hørte du den kæmple eksplosion?\nDet kom fra templet!",
+      "<c=pistachio>Min søster</c> er derinede!\nHvad har hun nu rodet sig ud i?!",
+      "Vi har altid fortalt hende, at eventyr var en dårlig idé..."
+    ],
     "en": [
       "Did you hear that massive explosion?\nIt came from the temple!",
       "<c=pistachio>My sister</c> is in there!\nWhat has she gotten herself into?!",
-      "We always told her adventuring was a bad\nidea..."
+      "We always told her adventuring was a bad idea..."
     ]
   },
   "Responses": {

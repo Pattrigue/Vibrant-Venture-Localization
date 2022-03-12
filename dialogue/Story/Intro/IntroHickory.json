@@ -1,9 +1,11 @@
 {
   "DialogueId": "IntroHickory",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Hvad laver du, knejt? Hvorfor står du og snakker til mig?\nSmut ind og hjælp de andre!"
+    ],
     "en": [
-      "What are you doing standin' around talkin'\nto me?\nGet in there and help the others!"
+      "What are you doing standin' around talkin' to me?\nGet in there and help the others!"
     ]
   },
   "Responses": {

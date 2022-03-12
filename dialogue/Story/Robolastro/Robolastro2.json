@@ -1,7 +1,9 @@
 {
   "DialogueId": "Robolastro2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "<w>*SYNTETISK BWÆHÆHÆHÆ!*</w>"
+    ],
     "en": [
       "<w>*SYNTHETIC BWEHEHEHE!*</w>"
     ]

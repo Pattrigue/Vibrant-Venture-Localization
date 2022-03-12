@@ -1,7 +1,9 @@
 {
   "DialogueId": "IntroViolastro4",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Ses aldrig, tabere!"
+    ],
     "en": [
       "See y'all never, low lives!"
     ]

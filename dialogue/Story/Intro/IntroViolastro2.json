@@ -1,7 +1,9 @@
 {
   "DialogueId": "IntroViolastro2",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "Bare prøv at stoppe mig!"
+    ],
     "en": [
       "Just try and stop me!"
     ]

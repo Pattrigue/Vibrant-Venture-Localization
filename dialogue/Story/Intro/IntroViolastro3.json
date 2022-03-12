@@ -1,7 +1,9 @@
 {
   "DialogueId": "IntroViolastro3",
   "Dialogue": {
-    "da": [],
+    "da": [
+      "<w>Bwhæhæhæ!</w>"
+    ],
     "en": [
       "<w>Bwhehehe!</w>"
     ]
