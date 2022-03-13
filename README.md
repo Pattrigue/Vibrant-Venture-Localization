@@ -7,11 +7,11 @@ This is a public repository for localization of Semag Games' video game [Vibrant
 The `dialogue` directory contains all the files for the in-game dialogue and responses. Dialogue is stored in the `.json` format.
 Forced line-breaks are included in some dialogue for comedic effect or to convey a specific tone. These are denoted using the special character `\n`.
 Dialogue also includes special tags with a syntax similar to common markup languages:
-- `<c>` for colored text
+- `<c>` for colored text.
   - Color tags have a number of presets - for example, to color the text `Hello!` with Violastro's color, you would write `<c=violastro>Hello!</c>`.
   - Color tags also allow RGB codes - for example, to color the text `Hello!` with in yellow, you would write `<c=255,255,0>Hello!</c>`.
-- `<s>` for shakey text
-- `<w>` for wavey text
+- `<s>` for shakey text.
+- `<w>` for wavey text.
 
 When working with dialogue, please **make sure to also include these tags in the localized dialogue whenever they are used.**
 In addition, **make sure to use the correct locale code (`en` for English, for example) and ensure that locales are listed alphabetically**.
