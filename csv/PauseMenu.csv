@@ -1,10 +1,10 @@
-﻿Key,Id,Danish(da),English(en)
-"Resume",19715485696,"Tilbage","Resume"
-"Pets",334271508480,"Kæledyr","Pets"
-"Options",352109883392,"Indstillinger","Options"
-"Help",373186260992,"Hjælp","Help"
-"Totals",384666071040,"Fremskridt","Totals"
-"RestartLevel",415699726336,"Genstart Bane","Restart Level"
-"ReturnToMap",434506985472,"Tilbage til Kort","Return to Map"
-"ReturnToEditor",6257312428032,"Tilbage til Editor","Return to Editor"
-"QuitToTitle",6677619437568,"Tilbage til Hovedmenu","Quit to Title"
+Key,Id,Danish(da),English(en),Portuguese (Brazil)(pt-BR)
+Resume,19715485696,Tilbage,Resume,Resumir
+Pets,334271508480,Kæledyr,Pets,Mascotes
+Options,352109883392,Indstillinger,Options,Opções
+Help,373186260992,Hjælp,Help,Ajuda
+Totals,384666071040,Fremskridt,Totals,Totais
+RestartLevel,415699726336,Genstart Bane,Restart Level,Reiniciar o Nível
+ReturnToMap,434506985472,Tilbage til Kort,Return to Map,Retornar ao Mapa
+ReturnToEditor,6257312428032,Tilbage til Editor,Return to Editor,Retornar ao Editor
+QuitToTitle,6677619437568,Tilbage til Hovedmenu,Quit to Title,Sair para o Título
