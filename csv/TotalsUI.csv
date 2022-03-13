@@ -1,5 +1,5 @@
-﻿Key,Id,Danish(da),English(en)
-"PlayLevel",12249624576,"Spil denne bane?","Play this level?"
-"PlayOrTravelToLevel",31891550208,"Spil denne bane eller rejs til dens placering på kortet?","Play the level or travel to the location on the map?"
-"Play",696000868352,"Spil","Play"
-"Travel",809087692800,"Rejs","Travel"
+﻿"Key","Id","Danish(da)","English(en)","Portuguese (Brazil)(pt-br)"
+"PlayLevel","12249624576","Spil denne bane?","Play this level?","Jogar este nível?"
+"PlayOrTravelToLevel","31891550208","Spil denne bane eller rejs til dens placering på kortet?","Play the level or travel to the location on the map?","Jogar este nível ou navegar até sua localização no mapa?"
+"Play","696000868352","Spil","Play","Jogar"
+"Travel","809087692800","Rejs","Travel","Navegar"
