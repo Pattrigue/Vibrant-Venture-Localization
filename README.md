@@ -26,7 +26,7 @@ For example, in `Tutorials.csv`, one of the English columns include a tag for co
 **Do not translate variables like `characterColor`.**
 Make sure that the double quotation mark comma separation style is followed when making changes. 
 
-I recommend using Visual Studio Code with the "Edit csv" extension [which can be found here](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv.).
+I recommend using Visual Studio Code with the "Edit csv" extension [which can be found here](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv).
 
 If you decide to use VSCode with this extension for editing, make sure to enable the "Quote all fields" setting: 
 ![image](https://user-images.githubusercontent.com/57709490/158064363-2a040cce-c538-4e46-b61e-056da04d7991.png)
