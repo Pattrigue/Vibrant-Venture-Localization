@@ -24,8 +24,10 @@ For example, in `Tutorials.csv`, one of the English columns include a tag for co
 `Press {0} while airborne to <color={characterColor}>Double Jump</color>`
 
 **Do not translate variables like `characterColor`.**
-Make sure that the double quotation mark comma separation style is followed when making changes. 
 
+Do not translate `Steam Workshop` - Valve themselves do not translate the name of the Steam Workshop so we don't either.
+
+Make sure that the double quotation mark comma separation style is followed when making changes. 
 I recommend using Visual Studio Code with the "Edit csv" extension [which can be found here](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv).
 
 If you decide to use VSCode with this extension for editing, make sure to enable the "Quote all fields" setting: 
