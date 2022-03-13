@@ -9,7 +9,10 @@
     ]
   },
   "Responses": {
-    "da": [],
+    "da": [
+      "Ja",
+      "Nej"
+    ],
     "en": [
       "Yes",
       "No"
