@@ -1,5 +1,5 @@
-﻿"Key","Id","Danish(da)","English(en)","Portuguese (Brazil)(pt-BR)"
-"LongerSlowMo","8663494656","Længere Slow Mo\title
+﻿Key,Id,Danish(da),English(en),Portuguese (Brazil)(pt-BR)
+"LongerSlowMo",8663494656,"Længere Slow Mo\title
 - Karakterhjulet kan være åbent meget længere!
 
 - Nyttigt til at lære at skifte karakterer!","Longer Slow Mo\title
@@ -9,7 +9,7 @@
 - A roda de personagens pode ser aberta por uma duração muito maior!
 
 - Útil para aprender a troca de personagens!"
-"RiskAndReward","139630637056","Risiko og Belønning\title
+"RiskAndReward",139630637056,"Risiko og Belønning\title
 - Fe-flasker indeholder altid ædelstene i stedet for feer!
 
 - Fe-flasker indeholder flere ædelstene end normalt!","Risk & Reward\title
@@ -19,7 +19,7 @@
 - Garrafas de fada sempre derrubam gemas ao invés de fadas!
 
 - Garrafas de fada derrubam mais gemas que o normal!"
-"StrongFairies","317276188672","Stærke Feer\title
+"StrongFairies",317276188672,"Stærke Feer\title
 - Feer kan tage to slag, før de dør!
 
 - En livredder for nogle af de vanskeligere missioner forude!","Strong Fairies\title
@@ -29,7 +29,7 @@
 - Fadas suportam dois ataques antes de morrerem!
 
 - Um salva-vidas para algumas de suas aventuras à frente!"
-"GemMagnet","448293662720","Ædelstens-
+"GemMagnet",448293662720,"Ædelstens-
 magnet\title
 - Trækker ædelstene i nærheden mod dig!
 
@@ -40,7 +40,7 @@ magnet\title
 - Atraí gemas próximas até você!
 
 - Útil para os que focam em completar níveis rapidamente!"
-"GemExtractor","515406721024","Ædelstens-
+"GemExtractor",515406721024,"Ædelstens-
 udvinder\title
 - Besejrede fjender dropper ædelstene!
 
@@ -52,7 +52,7 @@ stene? Perfekt!","Gem Extractor\title
 - Inimigos derrotados derrubam gemas!
 
 - Gosta de derrotar inimigos? Gosta de coletar gemas? Perfeito!"
-"DoubleGems","601268318208","Dobbelt Ædelsten\title
+"DoubleGems",601268318208,"Dobbelt Ædelsten\title
 - Indsamlede ædelstene har en chance for at blive fordoblet!
 
 - Perfekt til hurtigt at samle store mængder ædelstene!","Double Gems\title
@@ -62,7 +62,7 @@ stene? Perfekt!","Gem Extractor\title
 - Gemas coletadas possuem uma chance de vir em dobro!
 
 - Perfeito para coletar um grande número de gemas rapidamente!"
-"LongerInvincibility","544332211974144","Longer Invincibility\title
+"LongerInvincibility",544332211974144,"Longer Invincibility\title
 - Når du tager skade, vil du forblive udødelig i længere tid!
 
 - Nyttigt til at komme ind i kampen igen efter skader!","Longer Invincibility\title
@@ -73,7 +73,7 @@ stene? Perfekt!","Gem Extractor\title
 - Quando tomar dano, você ficará invencível por uma duração maior!
 
 - Útil para os que possuem dificuldades em se re-estabelecer após sofrer um ataque!"
-"SpawnWithFairy","548808612278272","Loyal Fairies\title
+"SpawnWithFairy",548808612278272,"Loyal Fairies\title
 - Når du starter en bane eller genopliver efter at dø, vil du starte med en fe!
 
 - Nyttig, hvis fejagt ikke lige er dig!","Loyal Fairies\title
@@ -83,7 +83,7 @@ stene? Perfekt!","Gem Extractor\title
 - Comece sempre com uma fada, onde quer que você esteja!
 
 - Útil quando caçar fadas apenas não é o seu negócio!"
-"FairyBargain","1154551858229248","Fehandel\title
+"FairyBargain",1154551858229248,"Fehandel\title
 - Giver dig en fe for hver 40 ædelsten!
 
 - Jo flere du samler, jo større er dine chancer for at overleve!","Fairy Bargain\title
@@ -93,12 +93,12 @@ stene? Perfekt!","Gem Extractor\title
 - Lhe garante uma fada a cada 40 gemas!
 
 - Quanto mais você coletar, maior serão suas chances de sobreviver!"
-"PurchasePrompt","11695592468480","Vil du købe genstanden ""{0}"" for {1}?","Do you want to purchase the item ""{0}"" for {1}?","Deseja comprar o item ""0"" por {1}?"
-"MissingGemsPrompt","13645193048064","{0}
+"PurchasePrompt",11695592468480,"Vil du købe genstanden ""{0}"" for {1}?","Do you want to purchase the item ""{0}"" for {1}?","Deseja comprar o item ""0"" por {1}?"
+"MissingGemsPrompt",13645193048064,"{0}
 Du mangler {1} for at kunne købe denne genstand!","{0}
 You need {1} more to purchase this item!","{0}
 Você precisa de mais {1} para comprar este item!"
-"NotEnoughGems","14050232791040","Øv!
+"NotEnoughGems",14050232791040,"Øv!
 Pokkers!
 Sørens også!
 Æv!
@@ -116,4 +116,6 @@ Desculpa!
 Oops!
 Ei!
 Argh...
-Oof!"
+Oof!hoot!"
+"Argh...",5524067060969472,,,"ba!"
+"Desculpa!",5524323064508416,,,
