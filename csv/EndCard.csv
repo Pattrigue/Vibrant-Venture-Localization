@@ -1,6 +1,6 @@
-﻿Key,Id,Danish(da),English(en)
-"BestGemScore",8684466176,"Bedste ædelstensscore!","Best gem score! "
-"NewHighScore",47674716160,"Ny højeste score!","New high score!"
-"NewPB",81992511488,"Personligt bedste!","Personal best!"
-"NoHitFailed",114016022528,"Ingen-skade fejlet!","No-hit failed!"
-"ContinueLabel",1492416664334336,"Tryk på en vilkårlig knap for at fortsætte","Press any button to continue"
+﻿"Key","Id","Danish(da)","English(en)","Portuguese (Brazil)(pt-BR)"
+"BestGemScore","8684466176","Bedste ædelstensscore!","Best gem score! ","Novo recorde de gemas!"
+"NewHighScore","47674716160","Ny højeste score!","New high score!","Novo recorde!"
+"NewPB","81992511488","Personligt bedste!","Personal best!","Melhor pontuação pessoal!"
+"NoHitFailed","114016022528","Ingen-skade fejlet!","No-hit failed!","Sem dano falho!"
+"ContinueLabel","1492416664334336","Tryk på en vilkårlig knap for at fortsætte","Press any button to continue","Pressione qualquer tecla para continuar"
