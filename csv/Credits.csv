@@ -1,5 +1,5 @@
-﻿Key,Id,Danish(da),English(en)
-"CreditsMainText",14808150016,"Det var alt for nu - tak fordi du spillede! Vi håber, du synes om spillet.
+﻿"Key","Id","Danish(da)","English(en)","Portuguese (Brazil)(pt-BR)"
+"CreditsMainText","14808150016","Det var alt for nu - tak fordi du spillede! Vi håber, du synes om spillet.
 Vi arbejder hårdt på nye opdateringer, så hold øjnene åbne!
 
 Vi vil sætte pris på, hvis du vil skrive en anmeldelse på Steam og fortæller os, hvad du synes om spillet!
@@ -19,9 +19,19 @@ If you have any suggestions, bug reports or just want to talk to us, you can joi
 In addition, you can follow @Pattrigue on Twitter for future updates.
 
 Best regards from Semag Games,
-Patrick Østergaard & Jur Loogman"
-"DiscordLabel",61381701632,"Klik her for at tilslutte dig vores Discord server!","Click here to join our Discord server!"
-"TwitterLabel",181082943488,"Følg @Pattrigue på Twitter!","Follow @Pattrigue on Twitter!
-"
-"YouTubeLabel",133490176000,"Abonnér på vores YouTube-kanal!","Subscribe to our YouTube channel!"
-"ReturnToMapLabel",206198435840,"Klik her for at vende tilbage til Kortet.","Click here to return to the world map."
+Patrick Østergaard & Jur Loogman","Isso é tudo por agora - Obrigado por jogar! Esperamos que tenha gostado.
+Estamos trabalhando em novas atualizações, então se mantenha atento!
+
+Por favor deixe uma análise na Steam e nos conte o que você acha sobre o jogo!
+
+Se você possui qualquer sugestão, reportes de falhas ou somente deseja conversar com a gente, você pode entrar no nosso servidor do Discord.
+
+Além disso, você pode seguir @Pattrigue no Twitter para ficar alerta sobre atualizações futuras.
+
+Maiores abraços de Semag Games,
+Patrick Østergaard e Jur Loogman"
+"DiscordLabel","61381701632","Klik her for at tilslutte dig vores Discord server!","Click here to join our Discord server!","Entre em nosso servidor do Discord!"
+"TwitterLabel","181082943488","Følg @Pattrigue på Twitter!","Follow @Pattrigue on Twitter!
+","Siga @Pattrigue no Twitter!"
+"YouTubeLabel","133490176000","Abonnér på vores YouTube-kanal!","Subscribe to our YouTube channel!","Inscreva-se em nosso canal do YouTube!"
+"ReturnToMapLabel","206198435840","Klik her for at vende tilbage til Kortet.","Click here to return to the world map.","Aperte aqui para retornar ao mapa."
