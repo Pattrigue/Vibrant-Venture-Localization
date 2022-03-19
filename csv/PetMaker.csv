@@ -3,6 +3,7 @@
 
 Tryk på ""Ny"" for at lave et nyt kæledyr!","Any pet you create will show up here.
 
+
 Press ""New"" to create a new pet!","Qualquer mascote que você criar irá aparecer aqui.
 
 Aperte ""Novo"" para criar um novo mascote!"
@@ -72,10 +73,21 @@ Vil du overskrive denne fil?","A pet with this name already exists.
 Overwrite this file?
 ","Um mascote com o mesmo nome já existe.
 Substituir este arquivo?"
-"WorkshopWindowTitle","1820890868379648","Du er ved at indsende et kæledyr til Steam Workshop.","You are about submit a pet to the Steam Workshop.","Você está prestes a enviar um mascote para a Steam Workshop."
+"WorkshopSubmitWindowTitle","1820890868379648","Du er ved at indsende dit kæledyr ""{0}"" til Steam Workshop.","You are about submit your pet ""{0}"" to the Steam Workshop.","Você está prestes a enviar um mascote para a Steam Workshop."
+"WorkshopUpdateWindowTitle","4320367118282752","Du er ved at opdatere dit kæledyr ""{0}"" på Steam Workshop!","You are about to update your pet ""{0}"" on the Steam Workshop!",
 "WorkshopVisibilityLabel","1820942441541632","Synlighed:","Visibility:","Visibilidade:"
 "WorkshopVisibilityPublic","1821027472666624","Offentlig","Public","Público"
 "WorkshopVisibilityFriendsOnly","1821096850649088","Kun venner","Friends-only","Somente amigos"
 "WorkshopVisibilityHidden","1821114043101184","Skjult","Hidden","Não visível"
 "WorkshopDescriptionLabel","1821149162008576","Beskrivelse:","Description:","Descrição:"
 "WorkshopSubmit","1821181177131008","Indsend","Submit","Enviar"
+"WorkshopUploadingPromptText","4321364414722048","Uploader til Steam...
+{0}%","Uploading to Steam...
+{0}%","Enviando ao Steam...
+{0}%"
+"WorkshopUploadCompletePromptText","4321366763532288","Upload fuldført!","Upload completed!","Envio completo!"
+"WorkshopUploadFailedPromptText","4321426280706048","FEJL - Upload mislykkedes:
+{0}","ERROR - Upload failed:
+{0}","ERRO - Envio falhou:
+{0}"
+"WorkshopConnectingPromptText","4321993879089152","Opretter forbindelse til Steam Workshop...","Connecting to the Steam Workshop...","Conectando ao Steam Workshop..."
