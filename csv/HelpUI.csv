@@ -2,7 +2,7 @@
 "SlideKick","6660544425984","GLIDESPARK:
 Tryk på angrib mens du er på jorden for at udføre et glidespark, som kan skade fjender og ødelægge sten.","SLIDE KICK:
 While on the ground, press attack to perform a slide kick which can damage enemies and break rocks.","DESLIZAR:
-Enquanto estiver no chão, pressione ataque para deslizar, esse ataque consegue danificar inimigos e quebrar rochas."
+Enquanto estiver no chão, pressione ataque para deslizar, podendo danificar inimigos e quebrar rochas."
 "Crawl","6661848854528","KRAVL:
 Hold ned nede mens du er på jorden for at kravle - så kan du snildt presse dig genenm snævre mellemrum.","CRAWL:
 While on the ground, hold down to crawl. This allows you to fit through tight gaps.","ENGATINHAR:
@@ -14,19 +14,19 @@ Enquanto estiver andando, você automaticamente começa a correr. Você pode des
 "Jump","6663618850816","HOP:
 Tryk på hop for at hoppe. Hold den nede for at hoppe højere. Jo hurtigere du bevæger dig, jo højere kan du hoppe.","JUMP:
 Tap the jump button to jump and hold it to jump higher. The faster you're moving, the higher you can jump. ","PULAR:
-Pressione ou segure a tecla de pulo para pular. Quanto mais rápido estiver se movimentando, maior será seu pulo. "
+Pressione ou segure a tecla de pulo para pular. Quanto mais rápido estiver se movimentando, maior é seu pulo. "
 "CardinalDescription","74883166208","Cardinal er en erfaren eventyrer, der har mestret en fyrig kampstil, som han bruger hensynsløst. Jeg har bemærket, at indbyggerne i Cornucopia Town ser meget op til ham. Det ser ud til at være gået ham til hovedet, da han er ret kæphøj og selvsikker..","Cardinal is a seasoned adven-
 turer who has honed a fiery fighting style that he uses with reckless abandon. I have noticed that the people of Cornucopia Town really look up to him. This seems to have gone to his head, giving him a cocky and confident attitude.","Cardinal é um aventureiro temperamental e inventor de um estilo de luta poderoso que utiliza de maneira irresponsavél. Eu percebi que os cidadãos de Cornucopia realmente gostam dele. Parece que isso subiu à sua cabeça, dando a ele uma atitude confiante e egoísta."
 "CardinalAbility1","113021972480","DOBBELTHOP:
 Tryk på hop mens du er i luften for at udføre et fyrigt dobbelthop, som skader fjender i nærheden.","DOUBLE JUMP:
 You can press jump while airborne to perform a fiery double jump which will damage enemies in range.","PULO DUPLO:
-Você pode pressionar a tecla de pulo enquanto estiver no ar para realizar um salto duplo que danifica inimigos em área."
+Pressione a tecla de pulo enquanto estiver no ar para realizar um salto duplo que danifica inimigos em área."
 "CardinalAbility2","138246516736","LUFTSPARK:
 Du kan trykke på angrib, mens du er i luften for at udføre et luftspark, som kan skade fjender og ødelægge sten.","AIR KICK:
 You can press attack while airborne to perform an airkick which can damage enemies and break rocks.","CHUTE NO AR:
-Você pode pressionar a tecla de ataque enquanto estiver no ar para realizer um chute aéreo que danifica inimigos e quebra rochas."
+Pressione a tecla de ataque enquanto estiver no ar para realizar uma voadora que danifica inimigos e quebra rochas."
 "AzuraDescription","149692772352","Jeg søger at lære om verden og alle dens særheder. Jeg er relativt ny inden for eventyr, men jeg håber at komme videre efter bedste evne. Byens folk fortæller mig, at jeg er flittig og modig af sind. De siger også, at jeg er lidt klodset...?","I seek to learn about the world and all of its oddities. I am relatively new to adven-
-turing, but I hope to move forward to the best of my ability. The townsfolk tell me that I'm studious and bold in my thinking. They also say I'm a bit of a klutz though...?","Eu procuro desvendar o mundo e suas características estranhas. Eu sou relativamente nova no rumo de aventura, mas pretendo melhorar minhas habilidades. Os habitantes da cidade me contam que sou estudiosa e esperta. Eles também dizem que sou um pouco azarada...?"
+turing, but I hope to move forward to the best of my ability. The townsfolk tell me that I'm studious and bold in my thinking. They also say I'm a bit of a klutz though...?","Eu procuro desvendar o mundo e suas características. Eu sou relativamente nova no rumo de aventura, mas pretendo melhorar minhas habilidades. Os habitantes da cidade me falam que sou estudiosa e esperta. Dizem também que sou um pouco azarada...?"
 "AzuraAbility1","187655417856","VANDSPRING:
 Du kan trykke på hop, mens du er i luften for at skyde dig selv fremad med en vandstråle.","AIR DASH:
 You can press jump while airborne to propel yourself forward with a water dash. ","IMPULSO AÉREO:
@@ -34,9 +34,9 @@ Você pode pressionar a tecla de pulo enquanto estiver no ar para realizar um im
 "AzuraAbility2","193502277632","MÅLSØGNINGSANGREB:
 En boble dukker op mens du er i luften, når du låser fast på en fjende. Tryk så på angrib for at målsøgningsangribe.","HOMING ATTACK:
 While airborne, a bubble will appear when locked onto an enemy. Press attack to then perform a homing attack.","ATAQUE TELEGUIADO:
-Enquanto estiver no ar e possuir um inimigo em mira. Pressione a tecla de ataque para realizar um ataque teleguiado."
+Enquanto estiver no ar e possuir um inimigo em mira. Pressione a tecla de ataque."
 "PistachioDescription","218827485184","Pistachio er en kendt eventyrer og bruger sin elegante stil til at slå nye veje for sig selv. Hun ser ud til at have gjort oprør mod sin families fortid som ledere af Cornucopia Town, hvilket har ført hende til at være henrivende, højrøstet og spændt på nye oplevelser","Pistachio is a known adven-
-turer and uses her elegant style to forge new paths for herself. She seems to have rebelled against her family's past as leaders of Cornucopia Town, which has lead her to be beautifully boisterous and excited for new experiences.","Pistachio é uma aventureira conhecida e utiliza seu estilo elegante para criar novos caminhos para ela mesma. Ela se rebelou contra os antigos líderes da Cidade de Cornucopia. Após isso, seu instinto de natureza e beleza fez dela uma aventureira animada para novas experiências."
+turer and uses her elegant style to forge new paths for herself. She seems to have rebelled against her family's past as leaders of Cornucopia Town, which has lead her to be beautifully boisterous and excited for new experiences.","Pistachio é uma aventureira conhecida e utiliza seu estilo elegante para criar novos caminhos para ela mesma. Ela se rebelou contra os antigos líderes da Cidade de Cornucopia. Após isso, seu instinto pela natureza e beleza fizeram dela uma aventureira entusiasmada."
 "PistachioAbility1","272258723840","PARASOLSVÆVNING:
 Hold hop nede i luften for langsomt at svæve nedad.
 Hold øje med dit udholdenhedshjul.","PARASOL GLIDE:
