@@ -1,5 +1,5 @@
-﻿Key,Id,Danish(da),English(en),Portuguese (Brazil)(pt-BR)
-"NoPetsMessage",694222483456,"Kæledyr, du laver, vil vises her.
+﻿"Key","Id","Danish(da)","English(en)","Portuguese (Brazil)(pt-BR)"
+"NoPetsMessage","694222483456","Kæledyr, du laver, vil vises her.
 
 Tryk på ""Ny"" for at lave et nyt kæledyr!","Any pet you create will show up here.
 
@@ -7,85 +7,87 @@ Tryk på ""Ny"" for at lave et nyt kæledyr!","Any pet you create will show up h
 Press ""New"" to create a new pet!","Qualquer mascote que você criar irá aparecer aqui.
 
 Aperte ""Novo"" para criar um novo mascote!"
-"NewPet",277660987392,"Ny","New","Novo"
-"ShowInExplorer",400436654080,"Vis i Stifinder","Show in Explorer","Mostrar nos Arquivos"
-"ExitPetMaker",421068435456,"Tilbage til Kort","Return to World Map","Retornar ao Mapa"
-"Edit",875353501696,"Rediger","Edit","Editar"
-"Rename",887739281408,"Omdøb","Rename","Renomear"
-"Copy",895712653312,"Kopier","Copy","Copiar"
-"Delete",911902666752,"Slet","Delete","Deletar"
-"Brightness",2179643633664,"Lysstyrke: {0}","Brightness: {0}","Luminosidade: {0}"
-"Saturation",2196433432576,"Mæthed: {0}","Saturation: {0}","Saturação: {0}"
-"BrushSize",2208013905920,"Penselstørrelse: {0}","Brush size: {0}","Tamanho do Pincel: {0}"
-"PetTypeLabel",7696365547520,"Kæledyrstype","Pet Type","Mascote"
-"AnimationLabel",7775642087424,"Animation","Animation","Animação"
-"SpeedLabel",7793878921216,"Hastighed: {0}","Speed: {0}","Velocidade: {0}"
-"MoveImageMessageKeyboard",7858685112320,"Brug piletasterne til at flytte hele billedet","Use Arrow Keys to move the entire image","Utilize as Setas para mover a imagem"
-"MoveImageMessageGamepad",1190477372223488,"Brug {0} til at flytte hele billedet","Use {0} to move the entire image","Utilize {0} para mover a imagem inteira"
-"Shortcut",12996590071808,"Genvej: {0}","Shortcut: {0}","Atalho: {0}"
-"Shortcuts",83329963683840,"Genveje: {0}","Shortcuts: {0}","Atalhos: {0}"
-"PetMenuTooltip",9581357068288,"Kæledyrsmenu","Pet Menu","Menu dos Mascotes"
-"ExitTooltip",12003047534592,"Afslut","Exit","Sair"
-"SaveTooltip",9927810772992,"Gem","Save","Salvar"
-"ImportTooltip",9666077814784,"Importér billede","Import Image","Importar Imagem"
-"UndoTooltip",9997532688384,"Fortryd","Undo","Desfazer"
-"RedoTooltip",10056080977920,"Annuller Fortrydelse","Redo","Refazer"
-"PencilTooltip",10117674332160,"Blyant","Pencil","Lápis"
-"EraserTooltip",10163006369792,"Viskelæder","Eraser","Borracha"
-"FloodFillTooltip",10178080698368,"Malerspand","Paint Bucket","Balde de Tinta"
-"LineToolTooltip",10196841820160,"Linjeredskab","Line Tool","Ferramenta de Linha"
-"ColorPickerTooltip",10215502278656,"Pipette","Color Picker","Pinga Gotas"
-"GridToggleTooltip",10234506670080,"Slå Gitter Til/Fra","Toggle Grid","Alternar Grade"
-"IncreaseSpeedTooltip",19725168046080,"Øg Hastigheden","Increase Speed","Aumentar Velocidade"
-"DecreaseSpeedTooltip",19826070417408,"Sænk Hastighed","Decrease Speed","Diminuir Velocidade"
-"PreviousFrameTooltip",19882701910016,"Sidste Frame","Previous Frame","Frame Anterior"
-"NextFrameTooltip",19899198107648,"Næste Frame","Next Frame","Frame Posterior"
-"PlayPauseTooltip",19920794578944,"Afspil/Pause","Play/Pause","Tocar/Parar"
-"NewFrameTooltip",20037614333952,"Ny Frame","New Frame","Novo Frame"
-"DeleteFrameTooltip",20137367465984,"Slet Frame","Delete Frame","Deletar Frame"
-"CopyFrameTooltip",20170116591616,"Kopier Frame","Copy Frame","Copiar Frame"
-"PasteFrameTooltip",20190194724864,"Indsæt Frame","Paste Frame","Colar Frame"
-"FlipVerticalTooltip",20216878886912,"Vend Lodret","Flip Vertical","Espelhar Verticalmente"
-"FlipHorizontalTooltip",20236147519488,"Vend Vandret","Flip Horizontal","Espelhar Horizontalmente"
-"WalkingPet",43392417558528,"Gående","Walking","Que Anda"
-"FlyingPet",43408964087808,"Flyvende","Flying","Que Voa"
-"WalkAnimationLabel",43487464681472,"Gå","Walk","Andando"
-"IdleAnimationLabel",43522130604032,"Idle","Idle","Parado"
-"JumpAnimationLabel",43548265312256,"Hop","Jump","Pulando"
-"FallAnimationLabel",43560042917888,"Fald","Fall","Caindo"
-"SwimAnimationLabel",43568016289792,"Svøm","Swim","Nadando"
-"SwimIdleAnimationLabel",43580892803072,"Svøm Idle","Swim Idle","Nadando Parado"
-"SavedPromptText",76321491415040,"Gemt!","Saved!","Salvo!"
-"ExitPromptText",76547694424064,"Ønsker du at vende tilbage til Kortet?
+"NewPet","277660987392","Ny","New","Novo"
+"ShowInExplorer","400436654080","Vis i Stifinder","Show in Explorer","Mostrar nos Arquivos"
+"ExitPetMaker","421068435456","Tilbage til Kort","Return to World Map","Retornar ao Mapa"
+"Edit","875353501696","Rediger","Edit","Editar"
+"Rename","887739281408","Omdøb","Rename","Renomear"
+"Copy","895712653312","Kopier","Copy","Copiar"
+"Delete","911902666752","Slet","Delete","Deletar"
+"Brightness","2179643633664","Lysstyrke: {0}","Brightness: {0}","Luminosidade: {0}"
+"Saturation","2196433432576","Mæthed: {0}","Saturation: {0}","Saturação: {0}"
+"BrushSize","2208013905920","Penselstørrelse: {0}","Brush size: {0}","Tamanho do Pincel: {0}"
+"PetTypeLabel","7696365547520","Kæledyrstype","Pet Type","Mascote"
+"AnimationLabel","7775642087424","Animation","Animation","Animação"
+"SpeedLabel","7793878921216","Hastighed: {0}","Speed: {0}","Velocidade: {0}"
+"MoveImageMessageKeyboard","7858685112320","Brug piletasterne til at flytte hele billedet","Use Arrow Keys to move the entire image","Utilize as Setas para mover a imagem"
+"MoveImageMessageGamepad","1190477372223488","Brug {0} til at flytte hele billedet","Use {0} to move the entire image","Utilize {0} para mover a imagem inteira"
+"Shortcut","12996590071808","Genvej: {0}","Shortcut: {0}","Atalho: {0}"
+"Shortcuts","83329963683840","Genveje: {0}","Shortcuts: {0}","Atalhos: {0}"
+"PetMenuTooltip","9581357068288","Kæledyrsmenu","Pet Menu","Menu dos Mascotes"
+"ExitTooltip","12003047534592","Afslut","Exit","Sair"
+"SaveTooltip","9927810772992","Gem","Save","Salvar"
+"ImportTooltip","9666077814784","Importér billede","Import Image","Importar Imagem"
+"UndoTooltip","9997532688384","Fortryd","Undo","Desfazer"
+"RedoTooltip","10056080977920","Annuller Fortrydelse","Redo","Refazer"
+"PencilTooltip","10117674332160","Blyant","Pencil","Lápis"
+"EraserTooltip","10163006369792","Viskelæder","Eraser","Borracha"
+"FloodFillTooltip","10178080698368","Malerspand","Paint Bucket","Balde de Tinta"
+"LineToolTooltip","10196841820160","Linjeredskab","Line Tool","Ferramenta de Linha"
+"ColorPickerTooltip","10215502278656","Pipette","Color Picker","Pinga Gotas"
+"GridToggleTooltip","10234506670080","Slå Gitter Til/Fra","Toggle Grid","Alternar Grade"
+"IncreaseSpeedTooltip","19725168046080","Øg Hastigheden","Increase Speed","Aumentar Velocidade"
+"DecreaseSpeedTooltip","19826070417408","Sænk Hastighed","Decrease Speed","Diminuir Velocidade"
+"PreviousFrameTooltip","19882701910016","Sidste Frame","Previous Frame","Frame Anterior"
+"NextFrameTooltip","19899198107648","Næste Frame","Next Frame","Frame Posterior"
+"PlayPauseTooltip","19920794578944","Afspil/Pause","Play/Pause","Tocar/Parar"
+"NewFrameTooltip","20037614333952","Ny Frame","New Frame","Novo Frame"
+"DeleteFrameTooltip","20137367465984","Slet Frame","Delete Frame","Deletar Frame"
+"CopyFrameTooltip","20170116591616","Kopier Frame","Copy Frame","Copiar Frame"
+"PasteFrameTooltip","20190194724864","Indsæt Frame","Paste Frame","Colar Frame"
+"FlipVerticalTooltip","20216878886912","Vend Lodret","Flip Vertical","Espelhar Verticalmente"
+"FlipHorizontalTooltip","20236147519488","Vend Vandret","Flip Horizontal","Espelhar Horizontalmente"
+"WalkingPet","43392417558528","Gående","Walking","Que Anda"
+"FlyingPet","43408964087808","Flyvende","Flying","Que Voa"
+"WalkAnimationLabel","43487464681472","Gå","Walk","Andando"
+"IdleAnimationLabel","43522130604032","Idle","Idle","Parado"
+"JumpAnimationLabel","43548265312256","Hop","Jump","Pulando"
+"FallAnimationLabel","43560042917888","Fald","Fall","Caindo"
+"SwimAnimationLabel","43568016289792","Svøm","Swim","Nadando"
+"SwimIdleAnimationLabel","43580892803072","Svøm Idle","Swim Idle","Nadando Parado"
+"SavedPromptText","76321491415040","Gemt!","Saved!","Salvo!"
+"ExitPromptText","76547694424064","Ønsker du at vende tilbage til Kortet?
 Ændringer, der ikke er gemt, vil gå tabt!","Return to the World Map?
 Unsaved changes will be lost!","Retornar ao Mapa?
 Alterações não salvas serão perdidas!"
-"DeletePetPromptText",76902268301312,"Er du sikker på, du vil slette dette kæledyr?","Are you sure you want to delete this pet?","Tem certeza que deseja deletar este mascote?"
-"EnterPetNamePromptText",77045885464576,"Indtast kæledyrets navn:","Enter the pet's name:","Nomeie o seu mascote:"
-"ImportErrorPromptText",77133303148544,"Du kan kun importere {0}x{1} png filer!","You can only import {0}x{1} png files!","Você só pode importar arquivos png que seguem a proporção {0}x{1}!"
-"ImportUnsupportedPromptText",77284264538112,"Beklager, dit operativsystem understøtter ikke denne funktion.","Sorry, your operating system does not support this feature.","Desculpe, seu sistema operacional não suporta esta ferramenta."
-"CreateNewPetPromptText",77474371366912,"Lav et nyt kæledyr?
+"DeletePetPromptText","76902268301312","Er du sikker på, du vil slette dette kæledyr?","Are you sure you want to delete this pet?","Tem certeza que deseja deletar este mascote?"
+"EnterPetNamePromptText","77045885464576","Indtast kæledyrets navn:","Enter the pet's name:","Nomeie o seu mascote:"
+"ImportErrorPromptText","77133303148544","Du kan kun importere {0}x{1} png filer!","You can only import {0}x{1} png files!","Você só pode importar arquivos png que seguem a proporção {0}x{1}!"
+"ImportUnsupportedPromptText","77284264538112","Beklager, dit operativsystem understøtter ikke denne funktion.","Sorry, your operating system does not support this feature.","Desculpe, seu sistema operacional não suporta esta ferramenta."
+"CreateNewPetPromptText","77474371366912","Lav et nyt kæledyr?
 Ændringer, der ikke er gemt, vil gå tabt!","Create a new pet?
 Unsaved changes will be lost!","Criar um novo mascote?
 Alterações não salvas serão perdidas!"
-"PetNameAlreadyExitsPromptText",78185150705664,"Et kæledyr med dette navn findes allerede.
+"PetNameAlreadyExitsPromptText","78185150705664","Et kæledyr med dette navn findes allerede.
 Vil du overskrive denne fil?","A pet with this name already exists.
 Overwrite this file?
 ","Um mascote com o mesmo nome já existe.
 Substituir este arquivo?"
-"WorkshopSubmitWindowTitle",1820890868379648,"Du er ved at indsende dit kæledyr ""{0}"" til Steam Workshop.","You are about submit your pet ""{0}"" to the Steam Workshop.","Você está prestes a enviar um mascote para a Steam Workshop."
-"WorkshopUpdateWindowTitle",4320367118282752,"Du er ved at opdatere dit kæledyr ""{0}"" på Steam Workshop!","You are about to update your pet ""{0}"" on the Steam Workshop!",""
-"WorkshopVisibilityLabel",1820942441541632,"Synlighed:","Visibility:","Visibilidade:"
-"WorkshopVisibilityPublic",1821027472666624,"Offentlig","Public","Público"
-"WorkshopVisibilityFriendsOnly",1821096850649088,"Kun venner","Friends-only","Somente amigos"
-"WorkshopVisibilityHidden",1821114043101184,"Skjult","Hidden","Não visível"
-"WorkshopDescriptionLabel",1821149162008576,"Beskrivelse:","Description:","Descrição:"
-"WorkshopSubmit",1821181177131008,"Indsend","Submit","Enviar"
-"WorkshopUploadingPromptText",4321364414722048,"Uploader til Steam...
+"WorkshopSubmitWindowTitle","1820890868379648","Du er ved at indsende dit kæledyr ""{0}"" til Steam Workshop.","You are about submit your pet ""{0}"" to the Steam Workshop.","Você está prestes a enviar o mascote ""{0}"" para a Steam Workshop."
+"WorkshopUpdateWindowTitle","4320367118282752","Du er ved at opdatere dit kæledyr ""{0}"" på Steam Workshop!","You are about to update your pet ""{0}"" on the Steam Workshop!","Você está prestes a atualizar seu mascote ""{0}"" para a Steam Workshop."
+"WorkshopVisibilityLabel","1820942441541632","Synlighed:","Visibility:","Visibilidade:"
+"WorkshopVisibilityPublic","1821027472666624","Offentlig","Public","Público"
+"WorkshopVisibilityFriendsOnly","1821096850649088","Kun venner","Friends-only","Somente amigos"
+"WorkshopVisibilityHidden","1821114043101184","Skjult","Hidden","Não visível"
+"WorkshopDescriptionLabel","1821149162008576","Beskrivelse:","Description:","Descrição:"
+"WorkshopSubmit","1821181177131008","Indsend","Submit","Enviar"
+"WorkshopUploadingPromptText","4321364414722048","Uploader til Steam...
 {0}%","Uploading to Steam...
-{0}%",""
-"WorkshopUploadCompletePromptText",4321366763532288,"Upload fuldført!","Upload completed!",
-"WorkshopUploadFailedPromptText",4321426280706048,"FEJL - Upload mislykkedes:
+{0}%","Enviando ao Steam...
+{0}%"
+"WorkshopUploadCompletePromptText","4321366763532288","Upload fuldført!","Upload completed!","Envio completo!"
+"WorkshopUploadFailedPromptText","4321426280706048","FEJL - Upload mislykkedes:
 {0}","ERROR - Upload failed:
-{0}",""
-"WorkshopConnectingPromptText",4321993879089152,"Opretter forbindelse til Steam Workshop...","Connecting to the Steam Workshop...",
+{0}","ERRO - Envio falhou:
+{0}"
+"WorkshopConnectingPromptText","4321993879089152","Opretter forbindelse til Steam Workshop...","Connecting to the Steam Workshop...","Conectando ao Steam Workshop..."
