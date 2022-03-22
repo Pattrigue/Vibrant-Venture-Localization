@@ -29,4 +29,4 @@ Do not translate `Steam Workshop` - Valve themselves do not translate the name o
 
 Make sure that the double quotation mark comma separation style is followed when making changes. 
 I recommend using the free and open source editor Poedit for working with the XLIFF files.
-[You can find it here.](https://poedit.net/).
+[You can find it here](https://poedit.net/).
