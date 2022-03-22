@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="e81dbea0fb6c5c44d8fe36d6468eb280" original="Assets/Localization/Tables/Shop/Shop_da.asset">
+    <group id="98892f48649259c4eb6d238e1d914edb" name="Shop">
+      <unit id="8663494656" name="LongerSlowMo" xml:space="preserve">
+        <segment>
+          <source>Longer Slow Mo\title
+- The character wheel can be open for much longer!
+
+- Useful for learning swapping!</source>
+          <target>Længere Slow Mo\title
+- Karakterhjulet kan være åbent meget længere!
+
+- Nyttigt til at lære at skifte karakterer!</target>
+        </segment>
+      </unit>
+      <unit id="139630637056" name="RiskAndReward" xml:space="preserve">
+        <segment>
+          <source>Risk &amp; Reward\title
+- Fairy bottles always drop gems instead of fairies!
+
+- Fairy bottles drop more gems than usual!</source>
+          <target>Risiko og Belønning\title
+- Fe-flasker indeholder altid ædelstene i stedet for feer!
+
+- Fe-flasker indeholder flere ædelstene end normalt!</target>
+        </segment>
+      </unit>
+      <unit id="317276188672" name="StrongFairies" xml:space="preserve">
+        <segment>
+          <source>Strong Fairies\title
+- Fairies take two hits before dying!
+
+- A lifesaver for some of the trickier quests ahead!</source>
+          <target>Stærke Feer\title
+- Feer kan tage to slag, før de dør!
+
+- En livredder for nogle af de vanskeligere missioner forude!</target>
+        </segment>
+      </unit>
+      <unit id="448293662720" name="GemMagnet" xml:space="preserve">
+        <segment>
+          <source>Gem Magnet\title
+- Pulls nearby gems towards you!
+
+- Helpful for those more focused on completing levels fast!</source>
+          <target>Ædelstens-
+magnet\title
+- Trækker ædelstene i nærheden mod dig!
+
+- Nyttigt for dem, der er mere fokuserede på at klare baner hurtigt!</target>
+        </segment>
+      </unit>
+      <unit id="515406721024" name="GemExtractor" xml:space="preserve">
+        <segment>
+          <source>Gem Extractor\title
+- Defeated enemies drop gems!
+
+- Like defeating enemies? Like hoarding gems? Perfect!</source>
+          <target>Ædelstens-
+udvinder\title
+- Besejrede fjender dropper ædelstene!
+
+- Kan du lide at besejre fjender? Kan du lide du at hamstre ædel-
+stene? Perfekt!</target>
+        </segment>
+      </unit>
+      <unit id="601268318208" name="DoubleGems" xml:space="preserve">
+        <segment>
+          <source>Double Gems\title
+- Collected gems have a chance of being doubled!
+
+- Perfect for collecting large amounts of gems quickly!</source>
+          <target>Dobbelt Ædelsten\title
+- Indsamlede ædelstene har en chance for at blive fordoblet!
+
+- Perfekt til hurtigt at samle store mængder ædelstene!</target>
+        </segment>
+      </unit>
+      <unit id="11695592468480" name="PurchasePrompt" xml:space="preserve">
+        <segment>
+          <source>Do you want to purchase the item "{0}" for {1}?</source>
+          <target>Vil du købe genstanden "{0}" for {1}?</target>
+        </segment>
+      </unit>
+      <unit id="13645193048064" name="MissingGemsPrompt" xml:space="preserve">
+        <segment>
+          <source>{0}
+You need {1} more to purchase this item!</source>
+          <target>{0}
+Du mangler {1} for at kunne købe denne genstand!</target>
+        </segment>
+      </unit>
+      <unit id="14050232791040" name="NotEnoughGems" xml:space="preserve">
+        <segment>
+          <source>Aww...
+Yikes!
+Sorry!
+Whoops!
+Shoot!
+Argh...
+Oof!</source>
+          <target>Øv!
+Pokkers!
+Sørens også!
+Æv!
+Træls...
+Beklager sønnike!
+For dælen...</target>
+        </segment>
+      </unit>
+      <unit id="544332211974144" name="LongerInvincibility" xml:space="preserve">
+        <segment>
+          <source>Longer Invincibility\title
+- When taking damage, you will remain invincible for longer!
+
+- Useful for those struggling to recover from damage!
+</source>
+          <target>Longer Invincibility\title
+- Når du tager skade, vil du forblive udødelig i længere tid!
+
+- Nyttigt til at komme ind i kampen igen efter skader!</target>
+        </segment>
+      </unit>
+      <unit id="548808612278272" name="SpawnWithFairy" xml:space="preserve">
+        <segment>
+          <source>Loyal Fairies\title
+- Start off with a fairy whenever you spawn!
+
+- Useful for when fairy hunting just isn't your thing!</source>
+          <target>Loyal Fairies\title
+- Når du starter en bane eller genopliver efter at dø, vil du starte med en fe!
+
+- Nyttig, hvis fejagt ikke lige er dig!</target>
+        </segment>
+      </unit>
+      <unit id="1154551858229248" name="FairyBargain" xml:space="preserve">
+        <segment>
+          <source>Fairy Bargain\title
+- Grants you a fairy every 40 gems!
+
+- The more you collect, the greater your odds of surviving!</source>
+          <target>Fehandel\title
+- Giver dig en fe for hver 40 ædelsten!
+
+- Jo flere du samler, jo større er dine chancer for at overleve!</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

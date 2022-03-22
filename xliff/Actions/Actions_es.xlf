@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="54c0f1c5adc72d94788a92aec7c6a7e1" original="Assets/Localization/Tables/Actions/Actions_es.asset">
+    <group id="9e5443f047cfedf40b6d1b5e55305dfb" name="Actions">
+      <unit id="4532105216" name="Horizontal" xml:space="preserve">
+        <segment>
+          <source>Move Horizontally (Control Stick)</source>
+        </segment>
+      </unit>
+      <unit id="217166540800" name="Vertical" xml:space="preserve">
+        <segment>
+          <source>Move Vertically (Control Stick)</source>
+        </segment>
+      </unit>
+      <unit id="4848735121408" name="HorizontalPositive" xml:space="preserve">
+        <segment>
+          <source>Right</source>
+        </segment>
+      </unit>
+      <unit id="4852560326656" name="HorizontalNegative" xml:space="preserve">
+        <segment>
+          <source>Left</source>
+        </segment>
+      </unit>
+      <unit id="4934743519232" name="VerticalPositive" xml:space="preserve">
+        <segment>
+          <source>Up</source>
+        </segment>
+      </unit>
+      <unit id="4939634077696" name="VerticalNegative" xml:space="preserve">
+        <segment>
+          <source>Down</source>
+        </segment>
+      </unit>
+      <unit id="5363741126656" name="Jump" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+        </segment>
+      </unit>
+      <unit id="5375397097472" name="Attack" xml:space="preserve">
+        <segment>
+          <source>Attack</source>
+        </segment>
+      </unit>
+      <unit id="5393067700224" name="Interact" xml:space="preserve">
+        <segment>
+          <source>Interact</source>
+        </segment>
+      </unit>
+      <unit id="5407298973696" name="ActivateSlowmo" xml:space="preserve">
+        <segment>
+          <source>Open Character Wheel</source>
+        </segment>
+      </unit>
+      <unit id="5424688558080" name="Sprint" xml:space="preserve">
+        <segment>
+          <source>Sprint</source>
+        </segment>
+      </unit>
+      <unit id="5434536783872" name="SwapToCardinal" xml:space="preserve">
+        <segment>
+          <source>Swap to Cardinal</source>
+        </segment>
+      </unit>
+      <unit id="5446188560384" name="SwapToAzura" xml:space="preserve">
+        <segment>
+          <source>Swap to Azura</source>
+        </segment>
+      </unit>
+      <unit id="5458603700224" name="SwapToPistachio" xml:space="preserve">
+        <segment>
+          <source>Swap to Pistachio
+</source>
+        </segment>
+      </unit>
+      <unit id="5489788350464" name="SwapToBanana" xml:space="preserve">
+        <segment>
+          <source>Swap to Banana</source>
+        </segment>
+      </unit>
+      <unit id="5512102047744" name="SwapVertical" xml:space="preserve">
+        <segment>
+          <source>Swap Vertical (Controller)</source>
+        </segment>
+      </unit>
+      <unit id="5558725931008" name="SwapHorizontal" xml:space="preserve">
+        <segment>
+          <source>Swap Horizontal (Controller)</source>
+        </segment>
+      </unit>
+      <unit id="5571279482880" name="OpenLevelSelect" xml:space="preserve">
+        <segment>
+          <source>Open Level Select (World Map)</source>
+        </segment>
+      </unit>
+      <unit id="5624597475328" name="QuickRestart" xml:space="preserve">
+        <segment>
+          <source>Quick Restart Level</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

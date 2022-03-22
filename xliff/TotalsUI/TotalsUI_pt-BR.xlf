@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-BR" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="022f8fb16971139479fed6b1934c2e0f" original="Assets/Localization/Tables/TotalsUI/TotalsUI_pt-BR.asset">
+    <group id="c65c29c31738268469819b53eccf4d6a" name="TotalsUI">
+      <unit id="12249624576" name="PlayLevel" xml:space="preserve">
+        <segment>
+          <source>Play this level?</source>
+          <target>Jogar este nível?</target>
+        </segment>
+      </unit>
+      <unit id="31891550208" name="PlayOrTravelToLevel" xml:space="preserve">
+        <segment>
+          <source>Play the level or travel to the location on the map?</source>
+          <target>Jogar este nível ou navegar até sua localização no mapa?</target>
+        </segment>
+      </unit>
+      <unit id="696000868352" name="Play" xml:space="preserve">
+        <segment>
+          <source>Play</source>
+          <target>Jogar</target>
+        </segment>
+      </unit>
+      <unit id="809087692800" name="Travel" xml:space="preserve">
+        <segment>
+          <source>Travel</source>
+          <target>Navegar</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

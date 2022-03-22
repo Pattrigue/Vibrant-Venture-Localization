@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="57e8e19a30b51f146b5a260f52577869" original="Assets/Localization/Tables/IntroCutscene/IntroCutscene_en.asset">
+    <group id="c3482425432205944ad12dce0ab46447" name="IntroCutscene">
+      <unit id="12274790400" name="Pattrigue" xml:space="preserve">
+        <segment>
+          <source>A game by Pattrigue</source>
+          <target>A game by Pattrigue</target>
+        </segment>
+      </unit>
+      <unit id="735835706257408" name="MovePrompt" xml:space="preserve">
+        <segment>
+          <source>Use {0:list:{}|, |, and } to move.</source>
+          <target>Use {0:list:{}|, |, and } to move.</target>
+        </segment>
+      </unit>
+      <unit id="2895838600916992" name="Jurl" xml:space="preserve">
+        <segment>
+          <source>Art &amp; Graphics by Jur Loogman</source>
+          <target>Art &amp; Graphics by Jur Loogman</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

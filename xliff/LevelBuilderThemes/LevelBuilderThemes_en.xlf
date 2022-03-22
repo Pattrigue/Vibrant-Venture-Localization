@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="9265305b497bb83499023ebdd7673a22" original="Assets/Localization/Tables/LevelBuilder/Themes/LevelBuilderThemes_en.asset">
+    <group id="8b079e4ae95155d4a9164937a3a4c787" name="LevelBuilderThemes">
+      <unit id="11142328320" name="Forest" xml:space="preserve">
+        <segment>
+          <source>Forest</source>
+          <target>Forest</target>
+        </segment>
+      </unit>
+      <unit id="29765038080" name="Treetops" xml:space="preserve">
+        <segment>
+          <source>Treetops</source>
+          <target>Treetops</target>
+        </segment>
+      </unit>
+      <unit id="42117263360" name="Night" xml:space="preserve">
+        <segment>
+          <source>Night</source>
+          <target>Night</target>
+        </segment>
+      </unit>
+      <unit id="53655793664" name="Dawn" xml:space="preserve">
+        <segment>
+          <source>Dawn</source>
+          <target>Dawn</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

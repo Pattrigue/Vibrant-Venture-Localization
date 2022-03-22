@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-BR" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="a4aa61cdcad857e4385d10dfd4ce50df" original="Assets/Localization/Tables/LevelBuilder/Categories/LevelBuilderCategories_pt-BR.asset">
+    <group id="82f0a7cbef96c4649bb9d17b35c5622e" name="LevelBuilderCategories">
+      <unit id="64753922048" name="AllCategory" xml:space="preserve">
+        <segment>
+          <source>All</source>
+        </segment>
+      </unit>
+      <unit id="608054702080" name="TilesCategory" xml:space="preserve">
+        <segment>
+          <source>Tiles</source>
+        </segment>
+      </unit>
+      <unit id="650119376896" name="ObjectsCategory" xml:space="preserve">
+        <segment>
+          <source>Objects</source>
+        </segment>
+      </unit>
+      <unit id="671409664000" name="EnemiesCategory" xml:space="preserve">
+        <segment>
+          <source>Enemies</source>
+        </segment>
+      </unit>
+      <unit id="697322074112" name="BackgroundCategory" xml:space="preserve">
+        <segment>
+          <source>Background</source>
+        </segment>
+      </unit>
+      <unit id="726623481856" name="DecorationCategory" xml:space="preserve">
+        <segment>
+          <source>Decoration</source>
+        </segment>
+      </unit>
+      <unit id="8292199985152" name="TilesCategorySearchKeywords" xml:space="preserve">
+        <segment>
+          <source>Tile</source>
+        </segment>
+      </unit>
+      <unit id="8540053991424" name="ObjectsCategorySearchKeywords" xml:space="preserve">
+        <segment>
+          <source>Object</source>
+        </segment>
+      </unit>
+      <unit id="8576242446336" name="EnemiesCategorySearchKeywords" xml:space="preserve">
+        <segment>
+          <source>Enemy</source>
+        </segment>
+      </unit>
+      <unit id="8624611160064" name="BackgroundCategorySearchKeywords" xml:space="preserve">
+        <segment>
+          <source>Backgrounds</source>
+        </segment>
+      </unit>
+      <unit id="8664746455040" name="DecorationCategorySearchKeywords" xml:space="preserve">
+        <segment>
+          <source>Decorations
+Foliage</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

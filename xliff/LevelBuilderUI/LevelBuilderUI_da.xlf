@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="48b1a3d4688c4014098f535543dfe672" original="Assets/Localization/Tables/LevelBuilder/UI/LevelBuilderUI_da.asset">
+    <group id="4b25e88485330e745ae04686fdccfc74" name="LevelBuilderUI">
+      <unit id="5287079936" name="CreateNewLevel" xml:space="preserve">
+        <segment>
+          <source>Create New Level</source>
+          <target>Lav Ny Bane</target>
+        </segment>
+      </unit>
+      <unit id="61272649728" name="DeleteLevel" xml:space="preserve">
+        <segment>
+          <source>Delete</source>
+          <target>Slet</target>
+        </segment>
+      </unit>
+      <unit id="121997783040" name="EditLevel" xml:space="preserve">
+        <segment>
+          <source>Edit</source>
+          <target>Rediger</target>
+        </segment>
+      </unit>
+      <unit id="143506173952" name="PlayLevel" xml:space="preserve">
+        <segment>
+          <source>Play</source>
+          <target>Spil</target>
+        </segment>
+      </unit>
+      <unit id="208547246080" name="RefreshLevels" xml:space="preserve">
+        <segment>
+          <source>Refresh</source>
+          <target>Genopfrisk</target>
+        </segment>
+      </unit>
+      <unit id="1572224528384" name="RenameLevel" xml:space="preserve">
+        <segment>
+          <source>Rename</source>
+          <target>Omdøb</target>
+        </segment>
+      </unit>
+      <unit id="1589756719104" name="UploadLevel" xml:space="preserve">
+        <segment>
+          <source>Upload</source>
+          <target>Upload</target>
+        </segment>
+      </unit>
+      <unit id="2179488444416" name="LevelThemeTitle" xml:space="preserve">
+        <segment>
+          <source>Level Theme</source>
+          <target>Banetema</target>
+        </segment>
+      </unit>
+      <unit id="14355729117184" name="WorldLabel" xml:space="preserve">
+        <segment>
+          <source>World {0}</source>
+          <target>Verden {0}</target>
+        </segment>
+      </unit>
+      <unit id="1066280792780800" name="DeleteLevelPromptText" xml:space="preserve">
+        <segment>
+          <source>Are you sure you want to delete "{0}"?</source>
+          <target>Er du sikker på, du ønsker at slette "{0}"?</target>
+        </segment>
+      </unit>
+      <unit id="1066330126184448" name="RenameLevelPromptText" xml:space="preserve">
+        <segment>
+          <source>Enter the new name:</source>
+          <target>Indtast det nye navn:</target>
+        </segment>
+      </unit>
+      <unit id="1066360367116288" name="LevelAlreadyExistsReplacePromptText" xml:space="preserve">
+        <segment>
+          <source>A level with that name already exists.
+Overwrite?</source>
+          <target>En bane med dette navn findes allerede.
+Overskriv?</target>
+        </segment>
+      </unit>
+      <unit id="1066386631847936" name="SaveChangesPromptText" xml:space="preserve">
+        <segment>
+          <source>Save changes made to the current level?</source>
+          <target>Gem ændringer på den nuværende bane?</target>
+        </segment>
+      </unit>
+      <unit id="1068651023331328" name="EnterLevelNamePromptText" xml:space="preserve">
+        <segment>
+          <source>Enter the level name:</source>
+          <target>Indtast banens navn:</target>
+        </segment>
+      </unit>
+      <unit id="1068685802500096" name="LevelSavedPromptText" xml:space="preserve">
+        <segment>
+          <source>Saved level:
+"{0}"!</source>
+          <target>Bane gemt:
+"{0}"!</target>
+        </segment>
+      </unit>
+      <unit id="1070630109868032" name="ExitLevelBuilderPromptText" xml:space="preserve">
+        <segment>
+          <source>Exit the Level Builder?
+Unsaved changes will be lost!</source>
+          <target>Afslut Banebyggeren?
+Ugemte ændringer vil gå tabt!</target>
+        </segment>
+      </unit>
+      <unit id="1077353931501568" name="MadeBy" xml:space="preserve">
+        <segment>
+          <source>by {0}</source>
+          <target>af {0}</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

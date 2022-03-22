@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-BR" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="94056ae2c729e5f4b99aeb3fed3bc82f" original="Assets/Localization/Tables/Actions/Actions_pt-BR.asset">
+    <group id="9e5443f047cfedf40b6d1b5e55305dfb" name="Actions">
+      <unit id="4532105216" name="Horizontal" xml:space="preserve">
+        <segment>
+          <source>Move Horizontally (Control Stick)</source>
+          <target>Mover Horizontalmente (Joystick do Controle)</target>
+        </segment>
+      </unit>
+      <unit id="217166540800" name="Vertical" xml:space="preserve">
+        <segment>
+          <source>Move Vertically (Control Stick)</source>
+          <target>Mover Verticalmente (Joystick do Controle)</target>
+        </segment>
+      </unit>
+      <unit id="4848735121408" name="HorizontalPositive" xml:space="preserve">
+        <segment>
+          <source>Right</source>
+          <target>Direita</target>
+        </segment>
+      </unit>
+      <unit id="4852560326656" name="HorizontalNegative" xml:space="preserve">
+        <segment>
+          <source>Left</source>
+          <target>Esquerda</target>
+        </segment>
+      </unit>
+      <unit id="4934743519232" name="VerticalPositive" xml:space="preserve">
+        <segment>
+          <source>Up</source>
+          <target>Cima</target>
+        </segment>
+      </unit>
+      <unit id="4939634077696" name="VerticalNegative" xml:space="preserve">
+        <segment>
+          <source>Down</source>
+          <target>Baixo</target>
+        </segment>
+      </unit>
+      <unit id="5363741126656" name="Jump" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+          <target>Pular</target>
+        </segment>
+      </unit>
+      <unit id="5375397097472" name="Attack" xml:space="preserve">
+        <segment>
+          <source>Attack</source>
+          <target>Atacar</target>
+        </segment>
+      </unit>
+      <unit id="5393067700224" name="Interact" xml:space="preserve">
+        <segment>
+          <source>Interact</source>
+          <target>Interagir</target>
+        </segment>
+      </unit>
+      <unit id="5407298973696" name="ActivateSlowmo" xml:space="preserve">
+        <segment>
+          <source>Open Character Wheel</source>
+          <target>Abrir Roda de Seleção de Personagens</target>
+        </segment>
+      </unit>
+      <unit id="5424688558080" name="Sprint" xml:space="preserve">
+        <segment>
+          <source>Sprint</source>
+          <target>Correr</target>
+        </segment>
+      </unit>
+      <unit id="5434536783872" name="SwapToCardinal" xml:space="preserve">
+        <segment>
+          <source>Swap to Cardinal</source>
+          <target>Trocar para Cardinal</target>
+        </segment>
+      </unit>
+      <unit id="5446188560384" name="SwapToAzura" xml:space="preserve">
+        <segment>
+          <source>Swap to Azura</source>
+          <target>Trocar para Azura</target>
+        </segment>
+      </unit>
+      <unit id="5458603700224" name="SwapToPistachio" xml:space="preserve">
+        <segment>
+          <source>Swap to Pistachio
+</source>
+          <target>Trocar para Pistachio</target>
+        </segment>
+      </unit>
+      <unit id="5489788350464" name="SwapToBanana" xml:space="preserve">
+        <segment>
+          <source>Swap to Banana</source>
+          <target>Trocar para Banana</target>
+        </segment>
+      </unit>
+      <unit id="5512102047744" name="SwapVertical" xml:space="preserve">
+        <segment>
+          <source>Swap Vertical (Controller)</source>
+          <target>Trocar Verticalmente (Controle)</target>
+        </segment>
+      </unit>
+      <unit id="5558725931008" name="SwapHorizontal" xml:space="preserve">
+        <segment>
+          <source>Swap Horizontal (Controller)</source>
+          <target>Trocar Horizontalmente (Controle)</target>
+        </segment>
+      </unit>
+      <unit id="5571279482880" name="OpenLevelSelect" xml:space="preserve">
+        <segment>
+          <source>Open Level Select (World Map)</source>
+          <target>Abrir Seleção de Níveis (Mapa)</target>
+        </segment>
+      </unit>
+      <unit id="5624597475328" name="QuickRestart" xml:space="preserve">
+        <segment>
+          <source>Quick Restart Level</source>
+          <target>Atalho para Reiniciar Níveis</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

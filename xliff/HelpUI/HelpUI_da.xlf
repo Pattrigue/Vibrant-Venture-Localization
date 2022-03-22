@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="86f95d922688d9a49958c09728d888b4" original="Assets/Localization/Tables/HelpUI/HelpUI_da.asset">
+    <group id="8b7ac23c76f18634380093a92bacd730" name="HelpUI">
+      <unit id="74883166208" name="CardinalDescription" xml:space="preserve">
+        <segment>
+          <source>Cardinal is a seasoned adven-
+turer who has honed a fiery fighting style that he uses with reckless abandon. I have noticed that the people of Cornucopia Town really look up to him. This seems to have gone to his head, giving him a cocky and confident attitude.</source>
+          <target>Cardinal er en erfaren eventyrer, der har mestret en fyrig kampstil, som han bruger hensynsløst. Jeg har bemærket, at indbyggerne i Cornucopia Town ser meget op til ham. Det ser ud til at være gået ham til hovedet, da han er ret kæphøj og selvsikker.</target>
+        </segment>
+      </unit>
+      <unit id="113021972480" name="CardinalAbility1" xml:space="preserve">
+        <segment>
+          <source>DOUBLE JUMP:
+You can press jump while airborne to perform a fiery double jump which will damage enemies in range.</source>
+          <target>DOBBELTHOP:
+Tryk på hop mens du er i luften for at udføre et fyrigt dobbelthop, som skader fjender i nærheden.</target>
+        </segment>
+      </unit>
+      <unit id="138246516736" name="CardinalAbility2" xml:space="preserve">
+        <segment>
+          <source>AIR KICK:
+You can press attack while airborne to perform an airkick which can damage enemies and break rocks.</source>
+          <target>LUFTSPARK:
+Du kan trykke på angrib, mens du er i luften for at udføre et luftspark, som kan skade fjender og ødelægge sten.</target>
+        </segment>
+      </unit>
+      <unit id="149692772352" name="AzuraDescription" xml:space="preserve">
+        <segment>
+          <source>I seek to learn about the world and all of its oddities. I am relatively new to adventuring, but I hope to move forward to the best of my ability. The townsfolk tell me that I'm studious and bold in my thinking. They also say I'm a bit of a klutz though...?</source>
+          <target>Jeg søger at lære om verden og alle dens særheder. Jeg er relativt ny inden for eventyr, men jeg håber at komme videre efter bedste evne. Byens folk fortæller mig, at jeg er flittig og modig af sind. De siger også, at jeg er lidt klodset...?</target>
+        </segment>
+      </unit>
+      <unit id="187655417856" name="AzuraAbility1" xml:space="preserve">
+        <segment>
+          <source>AIR DASH:
+You can press jump while airborne to propel yourself forward with a water dash. </source>
+          <target>VANDSPRING:
+Du kan trykke på hop, mens du er i luften for at skyde dig selv fremad med en vandstråle.</target>
+        </segment>
+      </unit>
+      <unit id="193502277632" name="AzuraAbility2" xml:space="preserve">
+        <segment>
+          <source>HOMING ATTACK:
+While airborne, a bubble will appear when locked onto an enemy. Press attack to then perform a homing attack.</source>
+          <target>MÅLSØGNINGSANGREB:
+En boble dukker op mens du er i luften, når du låser fast på en fjende. Tryk så på angrib for at målsøgningsangribe.</target>
+        </segment>
+      </unit>
+      <unit id="218827485184" name="PistachioDescription" xml:space="preserve">
+        <segment>
+          <source>Pistachio is a known adven-
+turer and uses her elegant style to forge new paths for herself. She seems to have rebelled against her family's past as leaders of Cornucopia Town, which has lead her to be beautifully boisterous and excited for new experiences.</source>
+          <target>Pistachio er en kendt eventyrer og bruger sin elegante stil til at slå nye veje for sig selv. Hun ser ud til at have gjort oprør mod sin families fortid som ledere af Cornucopia Town, hvilket har ført hende til at være henrivende, højrøstet og spændt på nye oplevelser.</target>
+        </segment>
+      </unit>
+      <unit id="272258723840" name="PistachioAbility1" xml:space="preserve">
+        <segment>
+          <source>PARASOL GLIDE:
+Hold jump while airborne to slowly glide downwards. 
+Keep an eye on your stamina wheel.</source>
+          <target>PARASOLSVÆVNING:
+Hold hop nede i luften for langsomt at svæve nedad.
+Hold øje med dit udholdenhedshjul.</target>
+        </segment>
+      </unit>
+      <unit id="280525697024" name="PistachioAbility2Attack" xml:space="preserve">
+        <segment>
+          <source>VINE STAB:
+Hold attack while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.</source>
+          <target>LIANSTIK:
+Hold angrib nede, mens du er i luften, for at udføre et lianstik, som gør dig i stand til at hoppe på spidse overflader.</target>
+        </segment>
+      </unit>
+      <unit id="282807398400" name="BananaDescription" xml:space="preserve">
+        <segment>
+          <source>Banana wanders the world looking for people in need of aid and is never in one place for long. Optimism colors his world view and he seems like the glue that holds people together. He always has such a cute smile on his face. I hope he sticks around...</source>
+          <target>Banana vandrer rundt i verden og leder efter mennesker, der har brug for hjælp og er aldrig ét sted længe. Optimismen farver hans verdensbillede, og han virker som limen, der holder folk sammen. Han har altid sådan et sødt smil på læben. Jeg håber, han bliver hængende...</target>
+        </segment>
+      </unit>
+      <unit id="344090374144" name="BananaAbility1" xml:space="preserve">
+        <segment>
+          <source>GROUND SLAM:
+Press attack while airborne to perform a powerful slam which can damage enemies in range and break rocks.</source>
+          <target>JORDSLAG:
+Tryk på angrib, mens du er i luften for at udføre et kraftigt slag, som kan skade fjender i nærheden og ødelægge sten.</target>
+        </segment>
+      </unit>
+      <unit id="344618856448" name="BananaAbility2" xml:space="preserve">
+        <segment>
+          <source>WALL JUMP:
+You can cling onto walls and slide on them. While sliding, press jump to perform a wall jump.</source>
+          <target>VÆGHOP:
+Du kan klamre dig til vægge og skride langs dem. Mens du skrider, tryk på hop for at udføre et væghop.</target>
+        </segment>
+      </unit>
+      <unit id="5387539607552" name="PistachioAbility2Down" xml:space="preserve">
+        <segment>
+          <source>VINE STAB:
+Hold down while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.</source>
+          <target>LIANSTIK:
+Hold ned nede, mens du er i luften, for at udføre et lianstik, som gør dig i stand til at hoppe på spidse overflader.</target>
+        </segment>
+      </unit>
+      <unit id="6660544425984" name="SlideKick" xml:space="preserve">
+        <segment>
+          <source>SLIDE KICK:
+While on the ground, press attack to perform a slide kick which can damage enemies and break rocks.</source>
+          <target>GLIDESPARK:
+Tryk på angrib mens du er på jorden for at udføre et glidespark, som kan skade fjender og ødelægge sten.</target>
+        </segment>
+      </unit>
+      <unit id="6661848854528" name="Crawl" xml:space="preserve">
+        <segment>
+          <source>CRAWL:
+While on the ground, hold down to crawl. This allows you to fit through tight gaps.</source>
+          <target>KRAVL:
+Hold ned nede mens du er på jorden for at kravle - så kan du snildt presse dig genenm snævre mellemrum.</target>
+        </segment>
+      </unit>
+      <unit id="6662704492544" name="Sprint" xml:space="preserve">
+        <segment>
+          <source>SPRINT:
+When moving, you will automatically start sprinting. You can turn off auto sprint in the options menu.</source>
+          <target>LØB:
+Når du bevæger dig, vil du automatisk begynde at løbe. Du kan slå automatisk løb fra i indstillingsmenuen.</target>
+        </segment>
+      </unit>
+      <unit id="6663618850816" name="Jump" xml:space="preserve">
+        <segment>
+          <source>JUMP:
+Tap the jump button to jump and hold it to jump higher. The faster you're moving, the higher you can jump. </source>
+          <target>HOP:
+Tryk på hop for at hoppe. Hold den nede for at hoppe højere. Jo hurtigere du bevæger dig, jo højere kan du hoppe.</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

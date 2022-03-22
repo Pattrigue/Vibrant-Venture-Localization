@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="d57890c9a4cba9d44bfc16afba50bb03" original="Assets/Localization/Tables/EndCard/EndCard_da.asset">
+    <group id="f178e83885fa0fb41b5d367f8459e0ae" name="EndCard">
+      <unit id="8684466176" name="BestGemScore" xml:space="preserve">
+        <segment>
+          <source>Best gem score! </source>
+          <target>Bedste ædelstensscore!</target>
+        </segment>
+      </unit>
+      <unit id="47674716160" name="NewHighScore" xml:space="preserve">
+        <segment>
+          <source>New high score!</source>
+          <target>Ny højeste score!</target>
+        </segment>
+      </unit>
+      <unit id="81992511488" name="NewPB" xml:space="preserve">
+        <segment>
+          <source>Personal best!</source>
+          <target>Personligt bedste
+!</target>
+        </segment>
+      </unit>
+      <unit id="114016022528" name="NoHitFailed" xml:space="preserve">
+        <segment>
+          <source>No-hit failed!</source>
+          <target>Ingen-skade fejlet!</target>
+        </segment>
+      </unit>
+      <unit id="1492416664334336" name="ContinueLabel" xml:space="preserve">
+        <segment>
+          <source>Press any button to continue</source>
+          <target>Tryk på en vilkårlig knap for at fortsætte</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

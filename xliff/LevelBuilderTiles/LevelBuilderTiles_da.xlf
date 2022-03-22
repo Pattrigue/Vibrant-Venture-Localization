@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="fe995b7f439ce144290a9668bbdc2d2f" original="Assets/Localization/Tables/LevelBuilder/Tiles/LevelBuilderTiles_da.asset">
+    <group id="b2d8553c66f1300409d25553d10a29e2" name="LevelBuilderTiles">
+      <unit id="8457973760" name="BrachinGoo" xml:space="preserve">
+        <segment>
+          <source>Brachin Goo</source>
+          <target>Brachinslim</target>
+        </segment>
+      </unit>
+      <unit id="81120096256" name="Grass" xml:space="preserve">
+        <segment>
+          <source>Grass</source>
+          <target>Græs</target>
+        </segment>
+      </unit>
+      <unit id="93895946240" name="StoneBackground" xml:space="preserve">
+        <segment>
+          <source>Stone Background</source>
+          <target>Stenbaggrund</target>
+        </segment>
+      </unit>
+      <unit id="106520801280" name="Platform" xml:space="preserve">
+        <segment>
+          <source>Platform</source>
+          <target>Platform</target>
+        </segment>
+      </unit>
+      <unit id="138594643968" name="Stone" xml:space="preserve">
+        <segment>
+          <source>Stone</source>
+          <target>Sten</target>
+        </segment>
+      </unit>
+      <unit id="211890106368" name="StoneGreen" xml:space="preserve">
+        <segment>
+          <source>Green Stone</source>
+          <target>Grøn Sten</target>
+        </segment>
+      </unit>
+      <unit id="231217459200" name="Wood" xml:space="preserve">
+        <segment>
+          <source>Wood</source>
+          <target>Træ</target>
+        </segment>
+      </unit>
+      <unit id="238280667136" name="WoodBackground" xml:space="preserve">
+        <segment>
+          <source>Wood Background</source>
+          <target>Træbaggrund</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="7adff62667ce7474e9691f6cea81809b" original="Assets/Localization/Tables/PauseMenu/PauseMenu_en.asset">
+    <group id="bc7f2e2995b5132479fecc64d4f144e6" name="PauseMenu">
+      <unit id="19715485696" name="Resume" xml:space="preserve">
+        <segment>
+          <source>Resume</source>
+          <target>Resume</target>
+        </segment>
+      </unit>
+      <unit id="334271508480" name="Pets" xml:space="preserve">
+        <segment>
+          <source>Pets</source>
+          <target>Pets</target>
+        </segment>
+      </unit>
+      <unit id="352109883392" name="Options" xml:space="preserve">
+        <segment>
+          <source>Options</source>
+          <target>Options</target>
+        </segment>
+      </unit>
+      <unit id="373186260992" name="Help" xml:space="preserve">
+        <segment>
+          <source>Help</source>
+          <target>Help</target>
+        </segment>
+      </unit>
+      <unit id="384666071040" name="Totals" xml:space="preserve">
+        <segment>
+          <source>Totals</source>
+          <target>Totals</target>
+        </segment>
+      </unit>
+      <unit id="415699726336" name="RestartLevel" xml:space="preserve">
+        <segment>
+          <source>Restart Level</source>
+          <target>Restart Level</target>
+        </segment>
+      </unit>
+      <unit id="434506985472" name="ReturnToMap" xml:space="preserve">
+        <segment>
+          <source>Return to Map</source>
+          <target>Return to Map</target>
+        </segment>
+      </unit>
+      <unit id="6257312428032" name="ReturnToEditor" xml:space="preserve">
+        <segment>
+          <source>Return to Editor</source>
+          <target>Return to Editor</target>
+        </segment>
+      </unit>
+      <unit id="6677619437568" name="QuitToTitle" xml:space="preserve">
+        <segment>
+          <source>Quit to Title</source>
+          <target>Quit to Title</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-BR" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="da4685b603aac64489e4061e1c0c9dbb" original="Assets/Localization/Tables/TitleScreen/TitleScreen_pt-BR.asset">
+    <group id="2bbe88cb5f8ad444f91242e9da74c6c1" name="TitleScreen">
+      <unit id="14816538624" name="PressAnyButton" xml:space="preserve">
+        <segment>
+          <source>- Press any button -</source>
+          <target>- Pressione qualquer tecla -</target>
+        </segment>
+      </unit>
+      <unit id="472389939200" name="EmptySaveFile" xml:space="preserve">
+        <segment>
+          <source>Empty</source>
+          <target>Vazio</target>
+        </segment>
+      </unit>
+      <unit id="551238660096" name="SaveFileTitle" xml:space="preserve">
+        <segment>
+          <source>File {0} - {1}%</source>
+          <target>Arquivo {0} - {1}%</target>
+        </segment>
+      </unit>
+      <unit id="2628513853440" name="DeletePrompt" xml:space="preserve">
+        <segment>
+          <source>Are you sure you want to delete this save file?
+It will be gone forever!</source>
+          <target>Tem certeza que deseja deletar seu progresso neste arquivo?
+Irá desaparecer para sempre!</target>
+        </segment>
+      </unit>
+      <unit id="2849096495104" name="InsufficientPermissions" xml:space="preserve">
+        <segment>
+          <source>Insufficient user permissions.
+Could not erase file.</source>
+          <target>Permissões de usuário insuficientes.
+Arquivo não foi apagado.</target>
+        </segment>
+      </unit>
+      <unit id="4340830072832" name="EraseFile" xml:space="preserve">
+        <segment>
+          <source>Erase File</source>
+          <target>Apagar Arquivo</target>
+        </segment>
+      </unit>
+      <unit id="5361291653120" name="Credits1" xml:space="preserve">
+        <segment>
+          <source>LEAD DEVELOPER
+&lt;color=#436187&gt;Patrick Frostholm Østergaard&lt;/color&gt;
+
+LEVEL DESIGN
+&lt;color=#436187&gt;Erion Marku&lt;/color&gt;
+&lt;color=#436187&gt;Nicholas White&lt;/color&gt;
+
+QA TESTING
+&lt;color=#436187&gt;Antonio Villarreal&lt;/color&gt;</source>
+          <target>DESENVOLVEDOR CHEFE
+&lt;color=#436187&gt;Patrick Frostholm Østergaard&lt;/color&gt;
+
+PLANEJADORES DE NÍVEIS
+&lt;color=#436187&gt;Erion Marku&lt;/color&gt;
+&lt;color=#436187&gt;Nicholas White&lt;/color&gt;
+
+TESTADOR DE CONTROLE DE QUALIDADE
+&lt;color=#436187&gt;Antonio Villarreal&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="5378781900800" name="Credits2" xml:space="preserve">
+        <segment>
+          <source>ART &amp; GRAPHICS
+&lt;color=#436187&gt;Jur Loogman&lt;/color&gt;
+
+MUSIC BY
+&lt;color=#436187&gt;Christoph Jakob&lt;/color&gt;
+
+ADDITIONAL SOUND
+EFFECTS PROVIDED BY
+&lt;color=#436187&gt;zapsplat.com&lt;/color&gt;</source>
+          <target>ARTE E GRÁFICOS
+&lt;color=#436187&gt;Jur Loogman&lt;/color&gt;
+
+MÚSICA POR
+&lt;color=#436187&gt;Christoph Jakob&lt;/color&gt;
+
+SONS ADICIONAIS
+PROVIDO POR
+&lt;color=#436187&gt;zapsplat.com&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="340457475436544" name="EarlyAccess1" xml:space="preserve">
+        <segment>
+          <source>Thank you for supporting our humble project &lt;3
+We're a small team, so your support means a lot!
+
+Note that this game is still a work in progress.
+Everything is subject to change.
+
+&lt;color=#F83939&gt;SAVE FILE RESETS MAY OCCUR!&lt;/color&gt;
+We apologize for any inconveniences.
+
+If you find any bugs or want to talk to us,
+join our Discord server by clicking the link below:</source>
+          <target>Obrigado por suportar o nosso humilde projeto &lt;3
+Nós somos um time pequeno, então seu suporte significa muito!
+
+Perceba que este jogo ainda está em desenvolvimento.
+Tudo está sujeito a mudanças.
+
+&lt;color=#F83939&gt;REDEFINIÇÃO DE ARQUIVOS SALVOS PODEM OCORRER!&lt;/color&gt;
+Pedimos desculpas por quaisquer inconveniências.
+
+Se você encontrar qualquer falha ou deseja conversar com a gente,
+entre no servidor do Discord pelo link abaixo:</target>
+        </segment>
+      </unit>
+      <unit id="340514991927296" name="EarlyAccess2" xml:space="preserve">
+        <segment>
+          <source>Press any button to continue.</source>
+          <target>Pressione qualquer tecla para continuar.</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

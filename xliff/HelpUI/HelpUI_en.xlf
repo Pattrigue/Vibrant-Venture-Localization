@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="4048295378be68245ba77bb8a6133adc" original="Assets/Localization/Tables/HelpUI/HelpUI_en.asset">
+    <group id="8b7ac23c76f18634380093a92bacd730" name="HelpUI">
+      <unit id="74883166208" name="CardinalDescription" xml:space="preserve">
+        <segment>
+          <source>Cardinal is a seasoned adven-
+turer who has honed a fiery fighting style that he uses with reckless abandon. I have noticed that the people of Cornucopia Town really look up to him. This seems to have gone to his head, giving him a cocky and confident attitude.</source>
+          <target>Cardinal is a seasoned adven-
+turer who has honed a fiery fighting style that he uses with reckless abandon. I have noticed that the people of Cornucopia Town really look up to him. This seems to have gone to his head, giving him a cocky and confident attitude.</target>
+        </segment>
+      </unit>
+      <unit id="113021972480" name="CardinalAbility1" xml:space="preserve">
+        <segment>
+          <source>DOUBLE JUMP:
+You can press jump while airborne to perform a fiery double jump which will damage enemies in range.</source>
+          <target>DOUBLE JUMP:
+You can press jump while airborne to perform a fiery double jump which will damage enemies in range.</target>
+        </segment>
+      </unit>
+      <unit id="138246516736" name="CardinalAbility2" xml:space="preserve">
+        <segment>
+          <source>AIR KICK:
+You can press attack while airborne to perform an airkick which can damage enemies and break rocks.</source>
+          <target>AIR KICK:
+You can press attack while airborne to perform an airkick which can damage enemies and break rocks.</target>
+        </segment>
+      </unit>
+      <unit id="149692772352" name="AzuraDescription" xml:space="preserve">
+        <segment>
+          <source>I seek to learn about the world and all of its oddities. I am relatively new to adventuring, but I hope to move forward to the best of my ability. The townsfolk tell me that I'm studious and bold in my thinking. They also say I'm a bit of a klutz though...?</source>
+          <target>I seek to learn about the world and all of its oddities. I am relatively new to adventuring, but I hope to move forward to the best of my ability. The townsfolk tell me that I'm studious and bold in my thinking. They also say I'm a bit of a klutz though...?</target>
+        </segment>
+      </unit>
+      <unit id="187655417856" name="AzuraAbility1" xml:space="preserve">
+        <segment>
+          <source>AIR DASH:
+You can press jump while airborne to propel yourself forward with a water dash. </source>
+          <target>AIR DASH:
+You can press jump while airborne to propel yourself forward with a water dash. </target>
+        </segment>
+      </unit>
+      <unit id="193502277632" name="AzuraAbility2" xml:space="preserve">
+        <segment>
+          <source>HOMING ATTACK:
+While airborne, a bubble will appear when locked onto an enemy. Press attack to then perform a homing attack.</source>
+          <target>HOMING ATTACK:
+While airborne, a bubble will appear when locked onto an enemy. Press attack to then perform a homing attack.</target>
+        </segment>
+      </unit>
+      <unit id="218827485184" name="PistachioDescription" xml:space="preserve">
+        <segment>
+          <source>Pistachio is a known adven-
+turer and uses her elegant style to forge new paths for herself. She seems to have rebelled against her family's past as leaders of Cornucopia Town, which has lead her to be beautifully boisterous and excited for new experiences.</source>
+          <target>Pistachio is a known adven-
+turer and uses her elegant style to forge new paths for herself. She seems to have rebelled against her family's past as leaders of Cornucopia Town, which has lead her to be beautifully boisterous and excited for new experiences.</target>
+        </segment>
+      </unit>
+      <unit id="272258723840" name="PistachioAbility1" xml:space="preserve">
+        <segment>
+          <source>PARASOL GLIDE:
+Hold jump while airborne to slowly glide downwards. 
+Keep an eye on your stamina wheel.</source>
+          <target>PARASOL GLIDE:
+Hold jump while airborne to slowly glide downwards. 
+Keep an eye on your stamina wheel.</target>
+        </segment>
+      </unit>
+      <unit id="280525697024" name="PistachioAbility2Attack" xml:space="preserve">
+        <segment>
+          <source>VINE STAB:
+Hold attack while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.</source>
+          <target>VINE STAB:
+Hold attack while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.</target>
+        </segment>
+      </unit>
+      <unit id="282807398400" name="BananaDescription" xml:space="preserve">
+        <segment>
+          <source>Banana wanders the world looking for people in need of aid and is never in one place for long. Optimism colors his world view and he seems like the glue that holds people together. He always has such a cute smile on his face. I hope he sticks around...</source>
+          <target>Banana wanders the world looking for people in need of aid and is never in one place for long. Optimism colors his world view and he seems like the glue that holds people together. He always has such a cute smile on his face. I hope he sticks around...</target>
+        </segment>
+      </unit>
+      <unit id="344090374144" name="BananaAbility1" xml:space="preserve">
+        <segment>
+          <source>GROUND SLAM:
+Press attack while airborne to perform a powerful slam which can damage enemies in range and break rocks.</source>
+          <target>GROUND SLAM:
+Press attack while airborne to perform a powerful slam which can damage enemies in range and break rocks.</target>
+        </segment>
+      </unit>
+      <unit id="344618856448" name="BananaAbility2" xml:space="preserve">
+        <segment>
+          <source>WALL JUMP:
+You can cling onto walls and slide on them. While sliding, press jump to perform a wall jump.</source>
+          <target>WALL JUMP:
+You can cling onto walls and slide on them. While sliding, press jump to perform a wall jump.</target>
+        </segment>
+      </unit>
+      <unit id="5387539607552" name="PistachioAbility2Down" xml:space="preserve">
+        <segment>
+          <source>VINE STAB:
+Hold down while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.</source>
+          <target>VINE STAB:
+Hold down while airborne to perform a vine stab which can bounce off of spiked surfaces, negating damage.</target>
+        </segment>
+      </unit>
+      <unit id="6660544425984" name="SlideKick" xml:space="preserve">
+        <segment>
+          <source>SLIDE KICK:
+While on the ground, press attack to perform a slide kick which can damage enemies and break rocks.</source>
+          <target>SLIDE KICK:
+While on the ground, press attack to perform a slide kick which can damage enemies and break rocks.</target>
+        </segment>
+      </unit>
+      <unit id="6661848854528" name="Crawl" xml:space="preserve">
+        <segment>
+          <source>CRAWL:
+While on the ground, hold down to crawl. This allows you to fit through tight gaps.</source>
+          <target>CRAWL:
+While on the ground, hold down to crawl. This allows you to fit through tight gaps.</target>
+        </segment>
+      </unit>
+      <unit id="6662704492544" name="Sprint" xml:space="preserve">
+        <segment>
+          <source>SPRINT:
+When moving, you will automatically start sprinting. You can turn off auto sprint in the options menu.</source>
+          <target>SPRINT:
+When moving, you will automatically start sprinting. You can turn off auto sprint in the options menu.</target>
+        </segment>
+      </unit>
+      <unit id="6663618850816" name="Jump" xml:space="preserve">
+        <segment>
+          <source>JUMP:
+Tap the jump button to jump and hold it to jump higher. The faster you're moving, the higher you can jump. </source>
+          <target>JUMP:
+Tap the jump button to jump and hold it to jump higher. The faster you're moving, the higher you can jump. </target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

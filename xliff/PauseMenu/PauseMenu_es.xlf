@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="e2a06bb118f1f8d4db1a83c27d86dad1" original="Assets/Localization/Tables/PauseMenu/PauseMenu_es.asset">
+    <group id="bc7f2e2995b5132479fecc64d4f144e6" name="PauseMenu">
+      <unit id="19715485696" name="Resume" xml:space="preserve">
+        <segment>
+          <source>Resume</source>
+        </segment>
+      </unit>
+      <unit id="334271508480" name="Pets" xml:space="preserve">
+        <segment>
+          <source>Pets</source>
+        </segment>
+      </unit>
+      <unit id="352109883392" name="Options" xml:space="preserve">
+        <segment>
+          <source>Options</source>
+        </segment>
+      </unit>
+      <unit id="373186260992" name="Help" xml:space="preserve">
+        <segment>
+          <source>Help</source>
+        </segment>
+      </unit>
+      <unit id="384666071040" name="Totals" xml:space="preserve">
+        <segment>
+          <source>Totals</source>
+        </segment>
+      </unit>
+      <unit id="415699726336" name="RestartLevel" xml:space="preserve">
+        <segment>
+          <source>Restart Level</source>
+        </segment>
+      </unit>
+      <unit id="434506985472" name="ReturnToMap" xml:space="preserve">
+        <segment>
+          <source>Return to Map</source>
+        </segment>
+      </unit>
+      <unit id="6257312428032" name="ReturnToEditor" xml:space="preserve">
+        <segment>
+          <source>Return to Editor</source>
+        </segment>
+      </unit>
+      <unit id="6677619437568" name="QuitToTitle" xml:space="preserve">
+        <segment>
+          <source>Quit to Title</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

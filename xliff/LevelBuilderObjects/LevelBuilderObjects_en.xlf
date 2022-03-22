@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="e06a053cb9f456c488455650af77d017" original="Assets/Localization/Tables/LevelBuilder/Objects/LevelBuilderObjects_en.asset">
+    <group id="cdcdfc51b6ebde246aa6ccb43b4a2608" name="LevelBuilderObjects">
+      <unit id="5396131840" name="BreakableRock" xml:space="preserve">
+        <segment>
+          <source>Breakable Rock</source>
+          <target>Breakable Rock</target>
+        </segment>
+      </unit>
+      <unit id="102687207424" name="Checkpoint" xml:space="preserve">
+        <segment>
+          <source>Checkpoint</source>
+          <target>Checkpoint</target>
+        </segment>
+      </unit>
+      <unit id="136795287552" name="FairyBottle" xml:space="preserve">
+        <segment>
+          <source>Fairy Bottle</source>
+          <target>Fairy Bottle</target>
+        </segment>
+      </unit>
+      <unit id="167304654848" name="Gem" xml:space="preserve">
+        <segment>
+          <source>Gem</source>
+          <target>Gem</target>
+        </segment>
+      </unit>
+      <unit id="178637664256" name="GoalBalloon" xml:space="preserve">
+        <segment>
+          <source>Goal Balloon</source>
+          <target>Goal Balloon</target>
+        </segment>
+      </unit>
+      <unit id="193087041536" name="PowerFruit" xml:space="preserve">
+        <segment>
+          <source>Power Fruit</source>
+          <target>Power Fruit</target>
+        </segment>
+      </unit>
+      <unit id="208303976448" name="SpawnPoint" xml:space="preserve">
+        <segment>
+          <source>Spawn Point</source>
+          <target>Spawn Point</target>
+        </segment>
+      </unit>
+      <unit id="580695257088" name="TallGrass" xml:space="preserve">
+        <segment>
+          <source>Tall Grass</source>
+          <target>Tall Grass</target>
+        </segment>
+      </unit>
+      <unit id="598323916800" name="ShortGrass" xml:space="preserve">
+        <segment>
+          <source>Short Grass</source>
+          <target>Short Grass</target>
+        </segment>
+      </unit>
+      <unit id="723117043712" name="YellowFlower" xml:space="preserve">
+        <segment>
+          <source>Yellow Flower</source>
+          <target>Yellow Flower</target>
+        </segment>
+      </unit>
+      <unit id="745715953664" name="OrangeFlower" xml:space="preserve">
+        <segment>
+          <source>Orange Flower</source>
+          <target>Orange Flower</target>
+        </segment>
+      </unit>
+      <unit id="759234195456" name="RedFlower" xml:space="preserve">
+        <segment>
+          <source>Red Flower</source>
+          <target>Red Flower</target>
+        </segment>
+      </unit>
+      <unit id="786895630336" name="BlueFlower" xml:space="preserve">
+        <segment>
+          <source>Blue Flower</source>
+          <target>Blue Flower</target>
+        </segment>
+      </unit>
+      <unit id="804897583104" name="GreenFlower" xml:space="preserve">
+        <segment>
+          <source>Green Flower</source>
+          <target>Green Flower</target>
+        </segment>
+      </unit>
+      <unit id="1007230808064" name="Leafly" xml:space="preserve">
+        <segment>
+          <source>Leafly</source>
+          <target>Leafly</target>
+        </segment>
+      </unit>
+      <unit id="1008396824576" name="Seedle" xml:space="preserve">
+        <segment>
+          <source>Seedle</source>
+          <target>Seedle</target>
+        </segment>
+      </unit>
+      <unit id="1009051136000" name="SeedleSpawner" xml:space="preserve">
+        <segment>
+          <source>Seedle Bush</source>
+          <target>Seedle Bush</target>
+        </segment>
+      </unit>
+      <unit id="1010099712000" name="Spewshroom" xml:space="preserve">
+        <segment>
+          <source>Spewshroom</source>
+          <target>Spewshroom</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

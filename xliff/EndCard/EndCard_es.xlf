@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="219a4c66f33f39b4ab05b51036c4489b" original="Assets/Localization/Tables/EndCard/EndCard_es.asset">
+    <group id="f178e83885fa0fb41b5d367f8459e0ae" name="EndCard">
+      <unit id="8684466176" name="BestGemScore" xml:space="preserve">
+        <segment>
+          <source>Best gem score! </source>
+        </segment>
+      </unit>
+      <unit id="47674716160" name="NewHighScore" xml:space="preserve">
+        <segment>
+          <source>New high score!</source>
+        </segment>
+      </unit>
+      <unit id="81992511488" name="NewPB" xml:space="preserve">
+        <segment>
+          <source>Personal best!</source>
+        </segment>
+      </unit>
+      <unit id="114016022528" name="NoHitFailed" xml:space="preserve">
+        <segment>
+          <source>No-hit failed!</source>
+        </segment>
+      </unit>
+      <unit id="1492416664334336" name="ContinueLabel" xml:space="preserve">
+        <segment>
+          <source>Press any button to continue</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

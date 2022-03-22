@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="f9b76c226ed243143a9d6db4c439f6d0" original="Assets/Localization/Tables/EndCard/EndCard_en.asset">
+    <group id="f178e83885fa0fb41b5d367f8459e0ae" name="EndCard">
+      <unit id="8684466176" name="BestGemScore" xml:space="preserve">
+        <segment>
+          <source>Best gem score! </source>
+          <target>Best gem score! </target>
+        </segment>
+      </unit>
+      <unit id="47674716160" name="NewHighScore" xml:space="preserve">
+        <segment>
+          <source>New high score!</source>
+          <target>New high score!</target>
+        </segment>
+      </unit>
+      <unit id="81992511488" name="NewPB" xml:space="preserve">
+        <segment>
+          <source>Personal best!</source>
+          <target>Personal best!</target>
+        </segment>
+      </unit>
+      <unit id="114016022528" name="NoHitFailed" xml:space="preserve">
+        <segment>
+          <source>No-hit failed!</source>
+          <target>No-hit failed!</target>
+        </segment>
+      </unit>
+      <unit id="1492416664334336" name="ContinueLabel" xml:space="preserve">
+        <segment>
+          <source>Press any button to continue</source>
+          <target>Press any button to continue</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

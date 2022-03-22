@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="fecc74f4928a7254ea733b523f589e44" original="Assets/Localization/Tables/Notifications/Notifications_en.asset">
+    <group id="a49ce4fdeda96be4e953e812ebc93963" name="Notifications">
+      <unit id="123285434368" name="NoHitBoss" xml:space="preserve">
+        <segment>
+          <source>No-Hitting Bosses\title
+Defeating a ¤ level without taking damage will grant you a Challenge Coin!</source>
+          <target>No-Hitting Bosses\title
+Defeating a ¤ level without taking damage will grant you a Challenge Coin!</target>
+        </segment>
+      </unit>
+      <unit id="156437213184" name="Pets" xml:space="preserve">
+        <segment>
+          <source>Pets\title
+You can create and share your own custom pets on the Steam Workshop!
+Open the Pet Maker from the Pause Menu to start creating!</source>
+          <target>Pets\title
+You can create and share your own custom pets on the Steam Workshop!
+Open the Pet Maker from the Pause Menu to start creating!</target>
+        </segment>
+      </unit>
+      <unit id="585581621248" name="BuyingUpgrades" xml:space="preserve">
+        <segment>
+          <source>Buying Upgrades\title
+You can purchase useful upgrades in the shop!
+The shop can be accessed anytime in the World Map.</source>
+          <target>Buying Upgrades\title
+You can purchase useful upgrades in the shop!
+The shop can be accessed anytime in the World Map.</target>
+        </segment>
+      </unit>
+      <unit id="620083965952" name="Town" xml:space="preserve">
+        <segment>
+          <source>Visiting Home\title
+Welcome to Forever Fall Forest!
+You can now return to Cornucopia 
+Town anytime.</source>
+          <target>Visiting Home\title
+Welcome to Forever Fall Forest!
+You can now return to Cornucopia 
+Town anytime.</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

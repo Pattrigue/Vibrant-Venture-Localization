@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="d14b66721ac4b174e9f0473110d1208d" original="Assets/Localization/Tables/LevelBuilder/Objects/LevelBuilderObjects_es.asset">
+    <group id="cdcdfc51b6ebde246aa6ccb43b4a2608" name="LevelBuilderObjects">
+      <unit id="5396131840" name="BreakableRock" xml:space="preserve">
+        <segment>
+          <source>Breakable Rock</source>
+        </segment>
+      </unit>
+      <unit id="102687207424" name="Checkpoint" xml:space="preserve">
+        <segment>
+          <source>Checkpoint</source>
+        </segment>
+      </unit>
+      <unit id="136795287552" name="FairyBottle" xml:space="preserve">
+        <segment>
+          <source>Fairy Bottle</source>
+        </segment>
+      </unit>
+      <unit id="167304654848" name="Gem" xml:space="preserve">
+        <segment>
+          <source>Gem</source>
+        </segment>
+      </unit>
+      <unit id="178637664256" name="GoalBalloon" xml:space="preserve">
+        <segment>
+          <source>Goal Balloon</source>
+        </segment>
+      </unit>
+      <unit id="193087041536" name="PowerFruit" xml:space="preserve">
+        <segment>
+          <source>Power Fruit</source>
+        </segment>
+      </unit>
+      <unit id="208303976448" name="SpawnPoint" xml:space="preserve">
+        <segment>
+          <source>Spawn Point</source>
+        </segment>
+      </unit>
+      <unit id="580695257088" name="TallGrass" xml:space="preserve">
+        <segment>
+          <source>Tall Grass</source>
+        </segment>
+      </unit>
+      <unit id="598323916800" name="ShortGrass" xml:space="preserve">
+        <segment>
+          <source>Short Grass</source>
+        </segment>
+      </unit>
+      <unit id="723117043712" name="YellowFlower" xml:space="preserve">
+        <segment>
+          <source>Yellow Flower</source>
+        </segment>
+      </unit>
+      <unit id="745715953664" name="OrangeFlower" xml:space="preserve">
+        <segment>
+          <source>Orange Flower</source>
+        </segment>
+      </unit>
+      <unit id="759234195456" name="RedFlower" xml:space="preserve">
+        <segment>
+          <source>Red Flower</source>
+        </segment>
+      </unit>
+      <unit id="786895630336" name="BlueFlower" xml:space="preserve">
+        <segment>
+          <source>Blue Flower</source>
+        </segment>
+      </unit>
+      <unit id="804897583104" name="GreenFlower" xml:space="preserve">
+        <segment>
+          <source>Green Flower</source>
+        </segment>
+      </unit>
+      <unit id="1007230808064" name="Leafly" xml:space="preserve">
+        <segment>
+          <source>Leafly</source>
+        </segment>
+      </unit>
+      <unit id="1008396824576" name="Seedle" xml:space="preserve">
+        <segment>
+          <source>Seedle</source>
+        </segment>
+      </unit>
+      <unit id="1009051136000" name="SeedleSpawner" xml:space="preserve">
+        <segment>
+          <source>Seedle Bush</source>
+        </segment>
+      </unit>
+      <unit id="1010099712000" name="Spewshroom" xml:space="preserve">
+        <segment>
+          <source>Spewshroom</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

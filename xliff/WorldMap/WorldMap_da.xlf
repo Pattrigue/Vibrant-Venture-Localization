@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="1de00182ac363ed419df3a04a0d50451" original="Assets/Localization/Tables/WorldMap/WorldMap_da.asset">
+    <group id="666acf10ba416d144a7308af29b13992" name="WorldMap">
+      <unit id="11242991616" name="Pause" xml:space="preserve">
+        <segment>
+          <source>Pause</source>
+          <target>Pause</target>
+        </segment>
+      </unit>
+      <unit id="26455732224" name="LevelSelect" xml:space="preserve">
+        <segment>
+          <source>Level Select</source>
+          <target>Vælg Bane</target>
+        </segment>
+      </unit>
+      <unit id="209075728384" name="EnterLevelPromptKeyboard" xml:space="preserve">
+        <segment>
+          <source>{0}: Enter</source>
+          <target>{0}: Gå ind</target>
+        </segment>
+      </unit>
+      <unit id="13654504402944" name="MissingCoins" xml:space="preserve">
+        <segment>
+          <source>{0} Challenge Coins completed in World {1}</source>
+          <target>{0} Challenge Coins fuldført i Verden {1}</target>
+        </segment>
+      </unit>
+      <unit id="318520812531712" name="PauseGamepad" xml:space="preserve">
+        <segment>
+          <source>{0} Level Select</source>
+          <target>{0} Vælg Bane</target>
+        </segment>
+      </unit>
+      <unit id="318524587405312" name="LevelSelectGamepad" xml:space="preserve">
+        <segment>
+          <source>{0} Pause</source>
+          <target>{0} Pause</target>
+        </segment>
+      </unit>
+      <unit id="321789383307264" name="EnterLevelPromptGamepad" xml:space="preserve">
+        <segment>
+          <source>{0} Enter</source>
+          <target>{0} Gå ind</target>
+        </segment>
+      </unit>
+      <unit id="390308900794368" name="ReturnToWorld2" xml:space="preserve">
+        <segment>
+          <source>Return to World 2</source>
+          <target>Tilbage til Verden 2</target>
+        </segment>
+      </unit>
+      <unit id="1073845979213824" name="OpenShop" xml:space="preserve">
+        <segment>
+          <source>Upgrades</source>
+          <target>Opgraderinger</target>
+        </segment>
+      </unit>
+      <unit id="1073940720152576" name="OpenShopGamepad" xml:space="preserve">
+        <segment>
+          <source>{0} Upgrades</source>
+          <target>{0} Opgraderinger</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
