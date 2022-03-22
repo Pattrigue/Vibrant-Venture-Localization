@@ -17,8 +17,7 @@
       <unit id="81992511488" name="NewPB" xml:space="preserve">
         <segment>
           <source>Personal best!</source>
-          <target>Personligt bedste
-!</target>
+          <target>Personligt bedste!</target>
         </segment>
       </unit>
       <unit id="114016022528" name="NoHitFailed" xml:space="preserve">
