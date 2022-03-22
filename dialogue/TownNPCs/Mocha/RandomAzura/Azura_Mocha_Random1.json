@@ -14,10 +14,12 @@
       "That's right, I know about ya book.\nAm the inkeeper!",
       "There's nothin' here that I don't know!",
       "<w>Whoopsee,</w> gotta get back to work."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

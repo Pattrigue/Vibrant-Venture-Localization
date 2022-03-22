@@ -18,7 +18,8 @@
       "They may also be what keeps me up at night, <w>haha...</w>",
       "Hey, hey, you should totally come by every once in a while!",
       "You know, so I can tell you about what I'm reading!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -28,6 +29,7 @@
     "en": [
       "Sounds fun!",
       "I'll pass."
-    ]
+    ],
+    "pt-BR": []
   }
 }

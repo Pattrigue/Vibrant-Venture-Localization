@@ -12,7 +12,8 @@
       "If you're lookin' for somewhere to stay, you're at the right place!",
       "...Wait, so you're not here for a reservation?",
       "Hey, aren't ya one of those vibrants that went after <c=violastro>that villain</c>?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -22,6 +23,7 @@
     "en": [
       "Yes, but...",
       "Vibrants?"
-    ]
+    ],
+    "pt-BR": []
   }
 }

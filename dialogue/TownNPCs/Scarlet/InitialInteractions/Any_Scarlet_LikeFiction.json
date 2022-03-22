@@ -16,7 +16,8 @@
       "But isn't that what's so great about books? Everyone visualises things differently, after all!",
       "S-Sorry... I kinda lost myself there, <w>haha...</w>",
       "Hey, you should stop by every once in a while! I'll tell you about the things I'm reading."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -26,6 +27,7 @@
     "en": [
       "Sounds good!",
       "Thanks, but I'll pass."
-    ]
+    ],
+    "pt-BR": []
   }
 }

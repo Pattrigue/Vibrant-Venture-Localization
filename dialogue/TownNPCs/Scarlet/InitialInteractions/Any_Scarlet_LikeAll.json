@@ -12,7 +12,8 @@
       "<w>Woooow!</w>\nIt's been, like, like... SO long since I've met someone with similar interests!",
       "We should, like, totally read books together sometime!",
       "If you just come visit me every now and then, we can talk about the things we're reading!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -22,6 +23,7 @@
     "en": [
       "I'd love to!",
       "I'm busy... but later?"
-    ]
+    ],
+    "pt-BR": []
   }
 }

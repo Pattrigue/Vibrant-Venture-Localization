@@ -18,7 +18,8 @@
       "Compared to her am doin' practically nothin'!",
       "<w>*sniff sniff*</w> Really somethin' to be proud of...",
       "If only I could easily visit her, but the inn's quite far."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -28,6 +29,7 @@
     "en": [
       "It's not THAT far away...",
       "Sounds tough."
-    ]
+    ],
+    "pt-BR": []
   }
 }

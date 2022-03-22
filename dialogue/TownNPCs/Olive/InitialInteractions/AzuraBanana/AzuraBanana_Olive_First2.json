@@ -16,10 +16,12 @@
       "I wanted to check up on <c=pistachio>my little sister</c>, but instead I ran into <c=131,42,13>Hickory</c> who told me what had happened.",
       "I'm glad you are all okay. I don't know what I'd do if something were to happen to <c=pistachio>my little sister</c>...",
       "Please be careful on your adventures!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

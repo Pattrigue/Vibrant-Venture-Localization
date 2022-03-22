@@ -8,10 +8,12 @@
     "en": [
       "<s>WHAT ARE YOU DOING?!</s>",
       "Get off me counter this instant!\n<w>I just had it cleaned...</w>"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

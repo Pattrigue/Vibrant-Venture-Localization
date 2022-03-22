@@ -10,10 +10,12 @@
       "The inn's owner, <c=mocha>Mocha</c>, is really dedicated to her work.",
       "She's busy all night and day taking care of the place, taking almost all tasks upon herself.",
       "I think she could really use a break."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

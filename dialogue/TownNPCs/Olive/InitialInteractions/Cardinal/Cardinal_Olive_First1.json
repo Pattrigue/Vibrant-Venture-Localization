@@ -8,7 +8,8 @@
     "en": [
       "Hey, @CharacterName.\nI heard about what happened from <c=hickory>Hickory</c>.",
       "How are you and <c=pistachio>my little sister</c> doing?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -18,6 +19,7 @@
     "en": [
       "I'm fine! She's...",
       "Me and who?"
-    ]
+    ],
+    "pt-BR": []
   }
 }

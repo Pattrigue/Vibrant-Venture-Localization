@@ -8,7 +8,8 @@
     "en": [
       "Welcome to Cornucopia's very own inn!",
       "Oh, that you, @CharacterName?\nDid ya manage to do somethin' about <c=violastro>that\nvillain</c>?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -18,6 +19,7 @@
     "en": [
       "He got away...",
       "Y-Yes, of course!"
-    ]
+    ],
+    "pt-BR": []
   }
 }

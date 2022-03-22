@@ -8,10 +8,12 @@
     "en": [
       "If you die, you respawn at the most recently activated campfire.",
       "Touching a campfire also saves your progress in the level."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

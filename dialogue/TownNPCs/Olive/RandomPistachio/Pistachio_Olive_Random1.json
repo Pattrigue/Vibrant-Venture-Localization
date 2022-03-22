@@ -10,7 +10,8 @@
       "Back again for advice on the outside world?",
       "...Who am I kidding?\nYou're the venturer here, not me!",
       "Then, perhaps you're here for advice on <c=cardinal>that guy</c>, <w>hmmm?</w>"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -20,6 +21,7 @@
     "en": [
       "OLIVE!!!",
       "Advice?"
-    ]
+    ],
+    "pt-BR": []
   }
 }

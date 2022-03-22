@@ -6,7 +6,8 @@
     ],
     "en": [
       "(Swap to <c=banana>Banana</c>?)"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -16,6 +17,7 @@
     "en": [
       "Yes",
       "No"
-    ]
+    ],
+    "pt-BR": []
   }
 }

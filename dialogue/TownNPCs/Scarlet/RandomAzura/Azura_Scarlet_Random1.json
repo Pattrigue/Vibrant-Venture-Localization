@@ -12,7 +12,8 @@
       "Says here that your ability that lets you fly forwards using... <w>WATER?!</w>...",
       "...can actually be angled up or down!",
       "Haa... I'm so jealous! You can practically fly, @CharacterName. Tell me, tell me! What's it like?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -22,6 +23,7 @@
     "en": [
       "Look!",
       "Keep reading..."
-    ]
+    ],
+    "pt-BR": []
   }
 }

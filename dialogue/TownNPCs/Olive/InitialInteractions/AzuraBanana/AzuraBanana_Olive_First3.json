@@ -14,10 +14,12 @@
       "I heard about what happened when I ran into <c=131,42,13>Hickory</c> on my way to <c=pistachio>my little sister</c>.",
       "I don't know what I'd do if something were to happen to her...",
       "Please be careful on your adventures!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

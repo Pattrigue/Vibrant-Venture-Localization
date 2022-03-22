@@ -8,10 +8,12 @@
     "en": [
       "These screens tell you your current controls.",
       "You can change controls in the options menu by pausing the game."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

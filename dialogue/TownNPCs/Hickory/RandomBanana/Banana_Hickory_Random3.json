@@ -10,10 +10,12 @@
       "Yeah, no kiddin'! Wherever you seem to go, that backpack follows!",
       "I know ya might not want 'ta add to its weight, but I think I might have some stuff that could ease the burden.",
       "Don't be shy, take a look 'round!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

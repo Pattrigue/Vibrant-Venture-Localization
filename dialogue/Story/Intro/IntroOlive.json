@@ -10,10 +10,12 @@
       "Did you hear that massive explosion?\nIt came from the temple!",
       "<c=pistachio>My sister</c> is in there!\nWhat has she gotten herself into?!",
       "We always told her adventuring was a bad idea..."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

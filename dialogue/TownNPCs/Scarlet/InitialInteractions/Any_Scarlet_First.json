@@ -14,7 +14,8 @@
       "Have we met before?\nI'm not sure...",
       "Maybe it's because I'm too busy reading books all the time to notice, <w>haha...</w>",
       "What kind of books do you like?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -30,6 +31,7 @@
       "Comics.",
       "I don't like reading.",
       "I love all kinds!"
-    ]
+    ],
+    "pt-BR": []
   }
 }

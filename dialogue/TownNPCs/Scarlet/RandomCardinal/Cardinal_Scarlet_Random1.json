@@ -18,10 +18,12 @@
       "because it lasts until you land!",
       "Oooh, and your fiery <c=cardinal>Double Jump</c> can cover you both to the left and right!",
       "It's pretty clear you have what it takes to combat multiple enemies at once, @CharacterName!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }
