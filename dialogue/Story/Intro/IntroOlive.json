@@ -11,11 +11,17 @@
       "<c=pistachio>My sister</c> is in there!\nWhat has she gotten herself into?!",
       "We always told her adventuring was a bad idea..."
     ],
+    "es": [
+      "¿Has oído esa gran explosión?\n¡Creo que venía desde el templo!",
+      "¡<c=pistachio>Mi hermana</c> está allí!\n¡¿En qué se ha metido esta vez?!",
+      "Le decimos constantemente que aventurarse allí fuera es peligroso..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
