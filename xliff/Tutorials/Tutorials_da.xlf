@@ -65,7 +65,7 @@
       <unit id="3673149130567680" name="HomingAttack" xml:space="preserve">
         <segment>
           <source>Press {0} while locked onto an enemy in the air to &lt;color={characterColor}&gt;Homing Attack&lt;/color&gt;</source>
-          <target>Tryk {0} i luften for mens du er låst fast på en fjene for at   &lt;color={characterColor}&gt;Målsøgningsangribe&lt;/color&gt;</target>
+          <target>Tryk {0} i luften for mens du er låst fast på en fjene for at &lt;color={characterColor}&gt;Målsøgningsangribe&lt;/color&gt;</target>
         </segment>
       </unit>
     </group>
