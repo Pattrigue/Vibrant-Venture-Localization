@@ -19,7 +19,7 @@ In addition, **make sure to use the correct locale code (`en` for English, for e
 ## XLIFF
 The `xliff` directory contains all the files for the in-game menus, HUDs, etc. - essentially, everything besides the dialogue. 
 Some of these files use special tags for in-game formatting - **please ensure that these are also included in translated text, and that the names of variables remain the same.**
-For example, in `Tutorials_da.xlf`, one of the English columns include a tag for coloring the Double Jump tutorial text: 
+For example, in `Tutorials_da.xlf`, one of the English entries include a tag for coloring the Double Jump tutorial text: 
 
 `Press {0} while airborne to <color={characterColor}>Double Jump</color>`
 
