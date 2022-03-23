@@ -41,6 +41,13 @@ Bem-vindo à Forever Fall Forest!
 Você agora pode retornar à Cidade de Cornucopia a qualquer momento.</target>
         </segment>
       </unit>
+      <unit id="9404736031846400" name="Feedback" xml:space="preserve">
+        <segment>
+          <source>Enjoying the game?\title
+We would love to hear what you think about our game so far! Please leave a review on Steam and let us know your thoughts - we really appreciate it. No pressure, though!
+</source>
+        </segment>
+      </unit>
     </group>
   </file>
 </xliff>
