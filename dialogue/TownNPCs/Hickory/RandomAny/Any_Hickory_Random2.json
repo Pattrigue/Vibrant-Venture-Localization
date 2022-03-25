@@ -13,11 +13,18 @@
       "Ya don't needa buy anythin', right?\nGreat! Am gonna wrap up today's work and go see me daughter.",
       "Outta the way, skittles!"
     ],
+    "es": [
+      "<s>¡¿CÓMO?!\n¡¿Dices que está justo al lado?!</s>",
+      "¡Tienes razón!\n¡Nos mudamos a un edificio nuevo hace años!",
+      "Bueno, no tenéis que comprar nada, ¿no?\n¡Perfecto! Pues hora de cerrar y visitar a mi cría.",
+      "¡Apartaos, mozos!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
