@@ -12,11 +12,17 @@
       "Talking to him is exhausting... But after talking for a while, I found out he also sells games!",
       "I wonder what other things he might be selling..."
     ],
+    "es": [
+      "Me encantaría visitar la tienda de Hickory.",
+      "Pero hablar con el es agotador... Aunque después de hablar con él un buen rato, ¡al parecer también vende juegos!",
+      "Me pregunto que otras cosas venderá..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
