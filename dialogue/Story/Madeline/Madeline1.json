@@ -13,12 +13,17 @@
       "¡Espectacular!\nHabéis llegado justo a tiempo para el show...",
       "¡Probad un poco del poder de los cristales!"
     ],
+    "pl": [
+      "Wspaniale! W samą porę zdążyliście na przedstawienie...",
+      "Oto mały przedsmak mocy kryształów!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
