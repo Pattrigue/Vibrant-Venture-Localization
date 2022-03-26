@@ -16,12 +16,18 @@
       "¡<c=pistachio>Mi hermana</c> está allí!\n¡¿En qué se ha metido esta vez?!",
       "Le decimos constantemente que aventurarse allí fuera es peligroso..."
     ],
+    "pl": [
+      "Słyszałeś ten wielki wybuch?\nDochodził ze świątyni!",
+      "<c=pistachio>Moja siostra</c> tam jest!\nW co ona się znowu wpakowała?!",
+      "Zawsze jej mówiliśmy, że poszukiwanie przygód to zły pomysł..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
