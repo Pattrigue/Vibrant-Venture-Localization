@@ -3,12 +3,12 @@
   <file id="4ce82805c4d7f4944964e2f0e44f8c2a" original="Assets/Localization/Tables/Shop/Shop_pt-BR.asset">
     <group id="98892f48649259c4eb6d238e1d914edb" name="Shop">
       <unit id="8663494656" name="LongerSlowMo" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Longer Slow Mo\title
 - The character wheel can be open for much longer!
 
 - Useful for learning swapping!</source>
-          <target>Câmera Lenta de Longa Duração\title
+          <target>Câmera Lenta\title
 - A roda de personagens pode ser aberta por uma duração muito maior!
 
 - Útil para aprender a troca de personagens!</target>
@@ -75,9 +75,9 @@
         </segment>
       </unit>
       <unit id="11695592468480" name="PurchasePrompt" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Do you want to purchase the item "{0}" for {1}?</source>
-          <target>Deseja comprar o item "0" por {1}?</target>
+          <target>Deseja comprar o item "{0}" por {1}?</target>
         </segment>
       </unit>
       <unit id="13645193048064" name="MissingGemsPrompt" xml:space="preserve">
