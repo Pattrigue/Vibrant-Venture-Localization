@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="6d869db3b09e31641843914d7091ac32" original="Assets/Localization/Tables/Tutorials/Tutorials_da.asset">
+    <group id="4646ca8dafa3a364c9b831dce30319ae" name="Tutorials">
+      <unit id="20902473728" name="Jump" xml:space="preserve">
+        <segment>
+          <source>Press {0} to jump</source>
+          <target>Tryk {0} for at hoppe</target>
+        </segment>
+      </unit>
+      <unit id="249567539200" name="SlideKick" xml:space="preserve">
+        <segment>
+          <source>Press {0} to slide kick</source>
+          <target>Tryk {0} for at glidesparke</target>
+        </segment>
+      </unit>
+      <unit id="517831028736" name="CharacterWheel" xml:space="preserve">
+        <segment>
+          <source>Press {0} to open the character wheel</source>
+          <target>Tryk {0} for at åbne karakterhjulet</target>
+        </segment>
+      </unit>
+      <unit id="5208392495104" name="VineStab" xml:space="preserve">
+        <segment>
+          <source>Hold {0} while airborne to &lt;color={characterColor}&gt;Vine Stab&lt;/color&gt;</source>
+          <target>Hold {0} i luften for at &lt;color={characterColor}&gt;Lianstikke&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="5785914601472" name="Glide" xml:space="preserve">
+        <segment>
+          <source>Hold {0} while airborne to &lt;color={characterColor}&gt;Glide&lt;/color&gt;</source>
+          <target>Hold {0} i luften for at &lt;color={characterColor}&gt;Parasolsvæve&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="3658166015520768" name="Dash" xml:space="preserve">
+        <segment>
+          <source>Press {0} while airborne to &lt;color={characterColor}&gt;Dash&lt;/color&gt;</source>
+          <target>Tryk {0} i luften for at udføre et &lt;color={characterColor}&gt;Vandspring&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="3658482769358848" name="AirKick" xml:space="preserve">
+        <segment>
+          <source>Press {0} while airborne to &lt;color={characterColor}&gt;Air Kick&lt;/color&gt;</source>
+          <target>Tryk {0} i luften for at &lt;color={characterColor}&gt;Luftsparke&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="3666134291345408" name="DoubleJump" xml:space="preserve">
+        <segment>
+          <source>Press {0} while airborne to &lt;color={characterColor}&gt;Double Jump&lt;/color&gt;</source>
+          <target>Tryk {0} i luften for at &lt;color={characterColor}&gt;Dobbelthoppe&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="3668849364987904" name="WallJump" xml:space="preserve">
+        <segment>
+          <source>Slide on walls and press {0} to &lt;color={characterColor}&gt;Wall Jump&lt;/color&gt;</source>
+          <target>Skrid langs vægge og tryk på {0} for at &lt;color={characterColor}&gt;Væghoppe&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="3669662657310720" name="GroundSlam" xml:space="preserve">
+        <segment>
+          <source>Press {0} while airborne to &lt;color={characterColor}&gt;Ground Slam&lt;/color&gt;</source>
+          <target>Tryk {0} i luften for at udføre et &lt;color={characterColor}&gt;Jordslag&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="3673149130567680" name="HomingAttack" xml:space="preserve">
+        <segment>
+          <source>Press {0} while locked onto an enemy in the air to &lt;color={characterColor}&gt;Homing Attack&lt;/color&gt;</source>
+          <target>Tryk {0} i luften for mens du er låst fast på en fjene for at &lt;color={characterColor}&gt;Målsøgningsangribe&lt;/color&gt;</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

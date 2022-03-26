@@ -10,10 +10,12 @@
       "You don't have to open the character wheel to swap characters.",
       "Simply press one of the four designated buttons to instantly swap to the corresponding character!",
       "However, opening the wheel will slow down time for a few seconds!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

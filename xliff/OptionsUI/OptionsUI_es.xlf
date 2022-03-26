@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="52856e6dc7d563b4397322a4e150de8f" original="Assets/Localization/Tables/OptionsUI/OptionsUI_es.asset">
+    <group id="170c03a080b921f4593fdb7aaa95fc3d" name="OptionsUI">
+      <unit id="420791611392" name="GeneralTab" xml:space="preserve">
+        <segment>
+          <source>General</source>
+        </segment>
+      </unit>
+      <unit id="572453449728" name="AudioTab" xml:space="preserve">
+        <segment>
+          <source>Audio</source>
+        </segment>
+      </unit>
+      <unit id="587519389696" name="ControlsTab" xml:space="preserve">
+        <segment>
+          <source>Controls</source>
+        </segment>
+      </unit>
+      <unit id="609627566080" name="VideoTab" xml:space="preserve">
+        <segment>
+          <source>Video</source>
+        </segment>
+      </unit>
+      <unit id="627688239104" name="SaveAndExitTab" xml:space="preserve">
+        <segment>
+          <source>Save and close</source>
+        </segment>
+      </unit>
+      <unit id="2461261787136" name="LockWheelLabel" xml:space="preserve">
+        <segment>
+          <source>Lock character wheel UI:</source>
+        </segment>
+      </unit>
+      <unit id="2476285784064" name="DisableAbilityUILabel" xml:space="preserve">
+        <segment>
+          <source>Disable ability icons UI:</source>
+        </segment>
+      </unit>
+      <unit id="2525233311744" name="ShowTimerLabel" xml:space="preserve">
+        <segment>
+          <source>Show level timer:</source>
+        </segment>
+      </unit>
+      <unit id="2541242970112" name="FastRestartLabel" xml:space="preserve">
+        <segment>
+          <source>Fast level restarting:</source>
+        </segment>
+      </unit>
+      <unit id="3165921636352" name="MasterVolumeLabel" xml:space="preserve">
+        <segment>
+          <source>Master volume:</source>
+        </segment>
+      </unit>
+      <unit id="3168790540288" name="MusicVolumeLabel" xml:space="preserve">
+        <segment>
+          <source>Music volume:</source>
+        </segment>
+      </unit>
+      <unit id="3169432268800" name="SoundVolumeLabel" xml:space="preserve">
+        <segment>
+          <source>Sound volume:</source>
+        </segment>
+      </unit>
+      <unit id="4095035469824" name="AutoSprintLabel" xml:space="preserve">
+        <segment>
+          <source>Automatically sprint when moving:</source>
+        </segment>
+      </unit>
+      <unit id="4112462802944" name="ToggleStabLabel" xml:space="preserve">
+        <segment>
+          <source>Use "Down" for Pistachio's Vine Stab:</source>
+        </segment>
+      </unit>
+      <unit id="4136143843328" name="ConfigureWheelLabel" xml:space="preserve">
+        <segment>
+          <source>Configure Character Wheel Layout</source>
+        </segment>
+      </unit>
+      <unit id="4174500753408" name="ConfigureControlsLabel" xml:space="preserve">
+        <segment>
+          <source>Configure Controls</source>
+        </segment>
+      </unit>
+      <unit id="5157217792000" name="ResolutionsLabel" xml:space="preserve">
+        <segment>
+          <source>Resolution:</source>
+        </segment>
+      </unit>
+      <unit id="5189492961280" name="WindowModeLabel" xml:space="preserve">
+        <segment>
+          <source>Window mode:</source>
+        </segment>
+      </unit>
+      <unit id="5208128253952" name="UIScaleLabel" xml:space="preserve">
+        <segment>
+          <source>UI scale:</source>
+        </segment>
+      </unit>
+      <unit id="5222783152128" name="CameraZoomLabel" xml:space="preserve">
+        <segment>
+          <source>Camera zoom:</source>
+        </segment>
+      </unit>
+      <unit id="7170240442368" name="Fullscreen" xml:space="preserve">
+        <segment>
+          <source>Fullscreen</source>
+        </segment>
+      </unit>
+      <unit id="7217820626944" name="Borderless" xml:space="preserve">
+        <segment>
+          <source>Borderless</source>
+        </segment>
+      </unit>
+      <unit id="7227119398912" name="Windowed" xml:space="preserve">
+        <segment>
+          <source>Windowed</source>
+        </segment>
+      </unit>
+      <unit id="288521413881856" name="KeepResolutionPrompt" xml:space="preserve">
+        <segment>
+          <source>Do you want to keep this resolution?
+({0})</source>
+        </segment>
+      </unit>
+      <unit id="737003354353664" name="NativeResolution" xml:space="preserve">
+        <segment>
+          <source>Native</source>
+        </segment>
+      </unit>
+      <unit id="2855067495591936" name="LocaleLabel" xml:space="preserve">
+        <segment>
+          <source>Language:</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

@@ -22,10 +22,24 @@
       "Beautiful symphony, ain't it?! <w>HAHAHA!</w>",
       "You just make sure to teach <c=violastro>that thief</c> a lesson.",
       "I'll be here to supply any goods ya might need, so pay me a visit in the World Map for business!"
-    ]
+    ],
+    "es": [
+      "¡Ajá, me alegro ver que estás bien, @CharacterName!",
+      "Tenemos suerte que <c=violastro>ese ladrón</c> solo se llevase los cristales y no atacase a los ciudadanos.",
+      "Me temo que no puedo ayudaros a encontrar a <c=violastro>ese zumbado</c>.",
+      "Al igual que los demás que viven aquí, yo también tengo un papel importante en esta ciudad.",
+      "El mío consiste en cuidar de esta gran tienda y proveer a los ciudadanos...",
+      "además de aquellos que quieran adentrarse en el bosque y más allá.",
+      "¡¿Ni tan mal, eh?! <w>¡JAJAJA!</w>",
+      "Aseguraos de darle una buena lección a <c=violastro>ese ladrón</c>.",
+      "Estaré aqui para proveeros todo tipo de bienes, ¡así que visitadme de vez en cuando en el Mapa del Mundo!"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

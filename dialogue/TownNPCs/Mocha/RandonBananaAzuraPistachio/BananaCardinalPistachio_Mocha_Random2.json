@@ -18,10 +18,12 @@
       "It's refreshin' to not have to worry about that around you guys, though.",
       "You're welcome anytime, @CharacterName.",
       "Might even give ya a bargain if ya decide to rent a room now..."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

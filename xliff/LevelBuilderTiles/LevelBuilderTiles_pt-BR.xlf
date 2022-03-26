@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-BR" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="28b2ff9c70ce7b14cb3c841adef86271" original="Assets/Localization/Tables/LevelBuilder/Tiles/LevelBuilderTiles_pt-BR.asset">
+    <group id="b2d8553c66f1300409d25553d10a29e2" name="LevelBuilderTiles">
+      <unit id="8457973760" name="BrachinGoo" xml:space="preserve">
+        <segment>
+          <source>Brachin Goo</source>
+        </segment>
+      </unit>
+      <unit id="81120096256" name="Grass" xml:space="preserve">
+        <segment>
+          <source>Grass</source>
+        </segment>
+      </unit>
+      <unit id="93895946240" name="StoneBackground" xml:space="preserve">
+        <segment>
+          <source>Stone Background</source>
+        </segment>
+      </unit>
+      <unit id="106520801280" name="Platform" xml:space="preserve">
+        <segment>
+          <source>Platform</source>
+        </segment>
+      </unit>
+      <unit id="138594643968" name="Stone" xml:space="preserve">
+        <segment>
+          <source>Stone</source>
+        </segment>
+      </unit>
+      <unit id="211890106368" name="StoneGreen" xml:space="preserve">
+        <segment>
+          <source>Green Stone</source>
+        </segment>
+      </unit>
+      <unit id="231217459200" name="Wood" xml:space="preserve">
+        <segment>
+          <source>Wood</source>
+        </segment>
+      </unit>
+      <unit id="238280667136" name="WoodBackground" xml:space="preserve">
+        <segment>
+          <source>Wood Background</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

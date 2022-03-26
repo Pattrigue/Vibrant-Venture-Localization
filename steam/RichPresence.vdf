@@ -1,0 +1,29 @@
+"lang"
+{
+	"english"
+	{
+		"tokens"
+		{
+			"#StatusTitleScreen"	"At the title screen"
+			"#StatusPlayingLevel"	"Playing %levelname%"
+			"#StatusEndCard"		"Completed %levelname% in %levelcompletetime% minutes with grade %levelcompletegrade%"
+			"#StatusTown"			"In Cornucopia Town"
+			"#StatusWorldMap"		"Exploring %worldname%"
+			"#StatusPetMaker"		"Making Pets"
+			"#StatusLevelBuilder"	"In the Level Builder"
+		}
+	}
+	"danish"
+	{
+		"tokens"
+		{
+			"#StatusTitleScreen"	"I hovedmenuen"
+			"#StatusPlayingLevel"	"Spiller %levelname%"
+			"#StatusEndCard"		"Gennemførte %levelname% på %levelcompletetime% minutter med karakteren %levelcompletegrade%"
+			"#StatusTown"			"I Cornucopia Town"
+			"#StatusWorldMap"		"Udforsker %worldname%"
+			"#StatusPetMaker"		"Laver Kæledyr"
+			"#StatusLevelBuilder"	"I Banebyggeren"
+		}
+	}
+}

@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="9756b0b568030e242b12dbef485c8687" original="Assets/Localization/Tables/PetMaker/PetMaker_da.asset">
+    <group id="3fc514e658e3bf947a71da009b796728" name="PetMaker">
+      <unit id="277660987392" name="NewPet" xml:space="preserve">
+        <segment>
+          <source>New</source>
+          <target>Ny</target>
+        </segment>
+      </unit>
+      <unit id="400436654080" name="ShowInExplorer" xml:space="preserve">
+        <segment>
+          <source>Show in Explorer</source>
+          <target>Vis i Stifinder</target>
+        </segment>
+      </unit>
+      <unit id="421068435456" name="ExitPetMaker" xml:space="preserve">
+        <segment>
+          <source>Return to World Map</source>
+          <target>Tilbage til Kort</target>
+        </segment>
+      </unit>
+      <unit id="694222483456" name="NoPetsMessage" xml:space="preserve">
+        <segment>
+          <source>Any pet you create will show up here.
+
+
+
+
+Press "New" to create a new pet!</source>
+          <target>Kæledyr, du laver, vil vises her.
+
+Tryk på "Ny" for at lave et nyt kæledyr!</target>
+        </segment>
+      </unit>
+      <unit id="875353501696" name="Edit" xml:space="preserve">
+        <segment>
+          <source>Edit</source>
+          <target>Rediger</target>
+        </segment>
+      </unit>
+      <unit id="887739281408" name="Rename" xml:space="preserve">
+        <segment>
+          <source>Rename</source>
+          <target>Omdøb</target>
+        </segment>
+      </unit>
+      <unit id="895712653312" name="Copy" xml:space="preserve">
+        <segment>
+          <source>Copy</source>
+          <target>Kopier</target>
+        </segment>
+      </unit>
+      <unit id="911902666752" name="Delete" xml:space="preserve">
+        <segment>
+          <source>Delete</source>
+          <target>Slet</target>
+        </segment>
+      </unit>
+      <unit id="2179643633664" name="Brightness" xml:space="preserve">
+        <segment>
+          <source>Brightness: {0}</source>
+          <target>Lysstyrke: {0}</target>
+        </segment>
+      </unit>
+      <unit id="2196433432576" name="Saturation" xml:space="preserve">
+        <segment>
+          <source>Saturation: {0}</source>
+          <target>Mæthed: {0}</target>
+        </segment>
+      </unit>
+      <unit id="2208013905920" name="BrushSize" xml:space="preserve">
+        <segment>
+          <source>Brush size: {0}</source>
+          <target>Penselstørrelse: {0}</target>
+        </segment>
+      </unit>
+      <unit id="7696365547520" name="PetTypeLabel" xml:space="preserve">
+        <segment>
+          <source>Pet Type</source>
+          <target>Kæledyrstype</target>
+        </segment>
+      </unit>
+      <unit id="7775642087424" name="AnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Animation</source>
+          <target>Animation</target>
+        </segment>
+      </unit>
+      <unit id="7793878921216" name="SpeedLabel" xml:space="preserve">
+        <segment>
+          <source>Speed: {0}</source>
+          <target>Hastighed: {0}</target>
+        </segment>
+      </unit>
+      <unit id="7858685112320" name="MoveImageMessageKeyboard" xml:space="preserve">
+        <segment>
+          <source>Use Arrow Keys to move the entire image</source>
+          <target>Brug piletasterne til at flytte hele billedet</target>
+        </segment>
+      </unit>
+      <unit id="9581357068288" name="PetMenuTooltip" xml:space="preserve">
+        <segment>
+          <source>Pet Menu</source>
+          <target>Kæledyrsmenu</target>
+        </segment>
+      </unit>
+      <unit id="9666077814784" name="ImportTooltip" xml:space="preserve">
+        <segment>
+          <source>Import Image</source>
+          <target>Importér billede</target>
+        </segment>
+      </unit>
+      <unit id="9927810772992" name="SaveTooltip" xml:space="preserve">
+        <segment>
+          <source>Save</source>
+          <target>Gem</target>
+        </segment>
+      </unit>
+      <unit id="9997532688384" name="UndoTooltip" xml:space="preserve">
+        <segment>
+          <source>Undo</source>
+          <target>Fortryd</target>
+        </segment>
+      </unit>
+      <unit id="10056080977920" name="RedoTooltip" xml:space="preserve">
+        <segment>
+          <source>Redo</source>
+          <target>Annuller Fortrydelse</target>
+        </segment>
+      </unit>
+      <unit id="10117674332160" name="PencilTooltip" xml:space="preserve">
+        <segment>
+          <source>Pencil</source>
+          <target>Blyant</target>
+        </segment>
+      </unit>
+      <unit id="10163006369792" name="EraserTooltip" xml:space="preserve">
+        <segment>
+          <source>Eraser</source>
+          <target>Viskelæder</target>
+        </segment>
+      </unit>
+      <unit id="10178080698368" name="FloodFillTooltip" xml:space="preserve">
+        <segment>
+          <source>Paint Bucket</source>
+          <target>Malerspand</target>
+        </segment>
+      </unit>
+      <unit id="10196841820160" name="LineToolTooltip" xml:space="preserve">
+        <segment>
+          <source>Line Tool</source>
+          <target>Linjeredskab</target>
+        </segment>
+      </unit>
+      <unit id="10215502278656" name="ColorPickerTooltip" xml:space="preserve">
+        <segment>
+          <source>Color Picker</source>
+          <target>Pipette</target>
+        </segment>
+      </unit>
+      <unit id="10234506670080" name="GridToggleTooltip" xml:space="preserve">
+        <segment>
+          <source>Toggle Grid</source>
+          <target>Slå Gitter Til/Fra</target>
+        </segment>
+      </unit>
+      <unit id="12003047534592" name="ExitTooltip" xml:space="preserve">
+        <segment>
+          <source>Exit</source>
+          <target>Afslut</target>
+        </segment>
+      </unit>
+      <unit id="12996590071808" name="Shortcut" xml:space="preserve">
+        <segment>
+          <source>Shortcut: {0}</source>
+          <target>Genvej: {0}</target>
+        </segment>
+      </unit>
+      <unit id="19725168046080" name="IncreaseSpeedTooltip" xml:space="preserve">
+        <segment>
+          <source>Increase Speed</source>
+          <target>Øg Hastigheden</target>
+        </segment>
+      </unit>
+      <unit id="19826070417408" name="DecreaseSpeedTooltip" xml:space="preserve">
+        <segment>
+          <source>Decrease Speed</source>
+          <target>Sænk Hastighed</target>
+        </segment>
+      </unit>
+      <unit id="19882701910016" name="PreviousFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Previous Frame</source>
+          <target>Sidste Frame</target>
+        </segment>
+      </unit>
+      <unit id="19899198107648" name="NextFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Next Frame</source>
+          <target>Næste Frame</target>
+        </segment>
+      </unit>
+      <unit id="19920794578944" name="PlayPauseTooltip" xml:space="preserve">
+        <segment>
+          <source>Play/Pause</source>
+          <target>Afspil/Pause</target>
+        </segment>
+      </unit>
+      <unit id="20037614333952" name="NewFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>New Frame</source>
+          <target>Ny Frame</target>
+        </segment>
+      </unit>
+      <unit id="20137367465984" name="DeleteFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Delete Frame</source>
+          <target>Slet Frame</target>
+        </segment>
+      </unit>
+      <unit id="20170116591616" name="CopyFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Copy Frame</source>
+          <target>Kopier Frame</target>
+        </segment>
+      </unit>
+      <unit id="20190194724864" name="PasteFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Paste Frame</source>
+          <target>Indsæt Frame</target>
+        </segment>
+      </unit>
+      <unit id="20216878886912" name="FlipVerticalTooltip" xml:space="preserve">
+        <segment>
+          <source>Flip Vertical</source>
+          <target>Vend Lodret</target>
+        </segment>
+      </unit>
+      <unit id="20236147519488" name="FlipHorizontalTooltip" xml:space="preserve">
+        <segment>
+          <source>Flip Horizontal</source>
+          <target>Vend Vandret</target>
+        </segment>
+      </unit>
+      <unit id="43392417558528" name="WalkingPet" xml:space="preserve">
+        <segment>
+          <source>Walking</source>
+          <target>Gående</target>
+        </segment>
+      </unit>
+      <unit id="43408964087808" name="FlyingPet" xml:space="preserve">
+        <segment>
+          <source>Flying</source>
+          <target>Flyvende</target>
+        </segment>
+      </unit>
+      <unit id="43487464681472" name="WalkAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Walk</source>
+          <target>Gå</target>
+        </segment>
+      </unit>
+      <unit id="43522130604032" name="IdleAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Idle</source>
+          <target>Idle</target>
+        </segment>
+      </unit>
+      <unit id="43548265312256" name="JumpAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+          <target>Hop</target>
+        </segment>
+      </unit>
+      <unit id="43560042917888" name="FallAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Fall</source>
+          <target>Fald</target>
+        </segment>
+      </unit>
+      <unit id="43568016289792" name="SwimAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Swim</source>
+          <target>Svøm</target>
+        </segment>
+      </unit>
+      <unit id="43580892803072" name="SwimIdleAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Swim Idle</source>
+          <target>Svøm Idle</target>
+        </segment>
+      </unit>
+      <unit id="76321491415040" name="SavedPromptText" xml:space="preserve">
+        <segment>
+          <source>Saved!</source>
+          <target>Gemt!</target>
+        </segment>
+      </unit>
+      <unit id="76547694424064" name="ExitPromptText" xml:space="preserve">
+        <segment>
+          <source>Return to the World Map?
+Unsaved changes will be lost!</source>
+          <target>Ønsker du at vende tilbage til Kortet?
+Ændringer, der ikke er gemt, vil gå tabt!</target>
+        </segment>
+      </unit>
+      <unit id="76902268301312" name="DeletePetPromptText" xml:space="preserve">
+        <segment>
+          <source>Are you sure you want to delete this pet?</source>
+          <target>Er du sikker på, du vil slette dette kæledyr?</target>
+        </segment>
+      </unit>
+      <unit id="77045885464576" name="EnterPetNamePromptText" xml:space="preserve">
+        <segment>
+          <source>Enter the pet's name:</source>
+          <target>Indtast kæledyrets navn:</target>
+        </segment>
+      </unit>
+      <unit id="77133303148544" name="ImportErrorPromptText" xml:space="preserve">
+        <segment>
+          <source>You can only import {0}x{1} png files!</source>
+          <target>Du kan kun importere {0}x{1} png filer!</target>
+        </segment>
+      </unit>
+      <unit id="77284264538112" name="ImportUnsupportedPromptText" xml:space="preserve">
+        <segment>
+          <source>Sorry, your operating system does not support this feature.</source>
+          <target>Beklager, dit operativsystem understøtter ikke denne funktion.</target>
+        </segment>
+      </unit>
+      <unit id="77474371366912" name="CreateNewPetPromptText" xml:space="preserve">
+        <segment>
+          <source>Create a new pet?
+Unsaved changes will be lost!</source>
+          <target>Lav et nyt kæledyr?
+Ændringer, der ikke er gemt, vil gå tabt!</target>
+        </segment>
+      </unit>
+      <unit id="78185150705664" name="PetNameAlreadyExitsPromptText" xml:space="preserve">
+        <segment>
+          <source>A pet with this name already exists.
+Overwrite this file?
+</source>
+          <target>Et kæledyr med dette navn findes allerede.
+Vil du overskrive denne fil?</target>
+        </segment>
+      </unit>
+      <unit id="83329963683840" name="Shortcuts" xml:space="preserve">
+        <segment>
+          <source>Shortcuts: {0}</source>
+          <target>Genveje: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1190477372223488" name="MoveImageMessageGamepad" xml:space="preserve">
+        <segment>
+          <source>Use {0} to move the entire image</source>
+          <target>Brug {0} til at flytte hele billedet</target>
+        </segment>
+      </unit>
+      <unit id="1820890868379648" name="WorkshopSubmitWindowTitle" xml:space="preserve">
+        <segment>
+          <source>You are about submit your pet "{0}" to the Steam Workshop.</source>
+          <target>Du er ved at indsende dit kæledyr "{0}" til Steam Workshop.</target>
+        </segment>
+      </unit>
+      <unit id="1820942441541632" name="WorkshopVisibilityLabel" xml:space="preserve">
+        <segment>
+          <source>Visibility:</source>
+          <target>Synlighed:</target>
+        </segment>
+      </unit>
+      <unit id="1821027472666624" name="WorkshopVisibilityPublic" xml:space="preserve">
+        <segment>
+          <source>Public</source>
+          <target>Offentlig</target>
+        </segment>
+      </unit>
+      <unit id="1821096850649088" name="WorkshopVisibilityFriendsOnly" xml:space="preserve">
+        <segment>
+          <source>Friends-only</source>
+          <target>Kun venner</target>
+        </segment>
+      </unit>
+      <unit id="1821114043101184" name="WorkshopVisibilityHidden" xml:space="preserve">
+        <segment>
+          <source>Hidden</source>
+          <target>Skjult</target>
+        </segment>
+      </unit>
+      <unit id="1821149162008576" name="WorkshopDescriptionLabel" xml:space="preserve">
+        <segment>
+          <source>Description:</source>
+          <target>Beskrivelse:</target>
+        </segment>
+      </unit>
+      <unit id="1821181177131008" name="WorkshopSubmit" xml:space="preserve">
+        <segment>
+          <source>Submit</source>
+          <target>Indsend</target>
+        </segment>
+      </unit>
+      <unit id="4320367118282752" name="WorkshopUpdateWindowTitle" xml:space="preserve">
+        <segment>
+          <source>You are about to update your pet "{0}" on the Steam Workshop!</source>
+          <target>Du er ved at opdatere dit kæledyr "{0}" på Steam Workshop!</target>
+        </segment>
+      </unit>
+      <unit id="4321364414722048" name="WorkshopUploadingPromptText" xml:space="preserve">
+        <segment>
+          <source>Uploading to Steam...
+{0}%</source>
+          <target>Uploader til Steam...
+{0}%</target>
+        </segment>
+      </unit>
+      <unit id="4321366763532288" name="WorkshopUploadCompletePromptText" xml:space="preserve">
+        <segment>
+          <source>Upload completed!</source>
+          <target>Upload fuldført!</target>
+        </segment>
+      </unit>
+      <unit id="4321426280706048" name="WorkshopUploadFailedPromptText" xml:space="preserve">
+        <segment>
+          <source>ERROR - Upload failed:
+{0}</source>
+          <target>FEJL - Upload mislykkedes:
+{0}</target>
+        </segment>
+      </unit>
+      <unit id="4321993879089152" name="WorkshopConnectingPromptText" xml:space="preserve">
+        <segment>
+          <source>Connecting to the Steam Workshop...</source>
+          <target>Opretter forbindelse til Steam Workshop...</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

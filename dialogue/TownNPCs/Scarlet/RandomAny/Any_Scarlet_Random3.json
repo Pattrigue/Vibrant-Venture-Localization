@@ -1,7 +1,7 @@
 {
   "DialogueId": "Any_Scarlet_Random3",
   "Dialogue": {
-    "da": [ 
+    "da": [
       "Er det ikke fantastisk, at der er så mange forskellige bøger med forskellige slags historier?",
       "Hey, hey, jeg er virkelig nysgerrig!",
       "Hvad er din yndlingsgenre?\nDet behøver ikke nødvendigvis at være en boggenre!"
@@ -10,7 +10,8 @@
       "Isn't it great how there are so many different books, all with different kinds of stories?",
       "Say, say, I'm really curious!",
       "What's your favourite genre?\nDoesn't have to be for books per-se!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -28,6 +29,7 @@
       "Slice of Life & Comedy.",
       "All of the above!",
       "Don't have one..."
-    ]
+    ],
+    "pt-BR": []
   }
 }

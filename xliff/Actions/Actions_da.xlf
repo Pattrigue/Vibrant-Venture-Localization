@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="e0924c7ce907e714aac462f093f8cc3b" original="Assets/Localization/Tables/Actions/Actions_da.asset">
+    <group id="9e5443f047cfedf40b6d1b5e55305dfb" name="Actions">
+      <unit id="4532105216" name="Horizontal" xml:space="preserve">
+        <segment>
+          <source>Move Horizontally (Control Stick)</source>
+          <target>Bevæg horizontalt (Controller Stick)</target>
+        </segment>
+      </unit>
+      <unit id="217166540800" name="Vertical" xml:space="preserve">
+        <segment>
+          <source>Move Vertically (Control Stick)</source>
+          <target>Bevæg Vertikalt (Controller Stick)</target>
+        </segment>
+      </unit>
+      <unit id="4848735121408" name="HorizontalPositive" xml:space="preserve">
+        <segment>
+          <source>Right</source>
+          <target>Højre</target>
+        </segment>
+      </unit>
+      <unit id="4852560326656" name="HorizontalNegative" xml:space="preserve">
+        <segment>
+          <source>Left</source>
+          <target>Venstre</target>
+        </segment>
+      </unit>
+      <unit id="4934743519232" name="VerticalPositive" xml:space="preserve">
+        <segment>
+          <source>Up</source>
+          <target>Op</target>
+        </segment>
+      </unit>
+      <unit id="4939634077696" name="VerticalNegative" xml:space="preserve">
+        <segment>
+          <source>Down</source>
+          <target>Ned</target>
+        </segment>
+      </unit>
+      <unit id="5363741126656" name="Jump" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+          <target>Hop</target>
+        </segment>
+      </unit>
+      <unit id="5375397097472" name="Attack" xml:space="preserve">
+        <segment>
+          <source>Attack</source>
+          <target>Angrib</target>
+        </segment>
+      </unit>
+      <unit id="5393067700224" name="Interact" xml:space="preserve">
+        <segment>
+          <source>Interact</source>
+          <target>Interager</target>
+        </segment>
+      </unit>
+      <unit id="5407298973696" name="ActivateSlowmo" xml:space="preserve">
+        <segment>
+          <source>Open Character Wheel</source>
+          <target>Åbn karakterhjul</target>
+        </segment>
+      </unit>
+      <unit id="5424688558080" name="Sprint" xml:space="preserve">
+        <segment>
+          <source>Sprint</source>
+          <target>Løb</target>
+        </segment>
+      </unit>
+      <unit id="5434536783872" name="SwapToCardinal" xml:space="preserve">
+        <segment>
+          <source>Swap to Cardinal</source>
+          <target>Skift til Cardinal</target>
+        </segment>
+      </unit>
+      <unit id="5446188560384" name="SwapToAzura" xml:space="preserve">
+        <segment>
+          <source>Swap to Azura</source>
+          <target>Skift til Azura</target>
+        </segment>
+      </unit>
+      <unit id="5458603700224" name="SwapToPistachio" xml:space="preserve">
+        <segment>
+          <source>Swap to Pistachio
+</source>
+          <target>Skift til Pistachio</target>
+        </segment>
+      </unit>
+      <unit id="5489788350464" name="SwapToBanana" xml:space="preserve">
+        <segment>
+          <source>Swap to Banana</source>
+          <target>Skift til Banana</target>
+        </segment>
+      </unit>
+      <unit id="5512102047744" name="SwapVertical" xml:space="preserve">
+        <segment>
+          <source>Swap Vertical (Controller)</source>
+          <target>Skift Vertikalt (Controller)</target>
+        </segment>
+      </unit>
+      <unit id="5558725931008" name="SwapHorizontal" xml:space="preserve">
+        <segment>
+          <source>Swap Horizontal (Controller)</source>
+          <target>Skift Horisontalt (Controller)</target>
+        </segment>
+      </unit>
+      <unit id="5571279482880" name="OpenLevelSelect" xml:space="preserve">
+        <segment>
+          <source>Open Level Select (World Map)</source>
+          <target>Åbn banevalg (World Map)</target>
+        </segment>
+      </unit>
+      <unit id="5624597475328" name="QuickRestart" xml:space="preserve">
+        <segment>
+          <source>Quick Restart Level</source>
+          <target>Hurtiggenstart Bane</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

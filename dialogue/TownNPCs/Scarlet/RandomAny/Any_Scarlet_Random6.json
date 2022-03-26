@@ -18,10 +18,12 @@
       "Then, suddenly...",
       "<s>BAAAHH!!!</s>",
       "<w>Heehee~</w>\nDid I scare you there?\n<w>Muahaha,</w> I better have..!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

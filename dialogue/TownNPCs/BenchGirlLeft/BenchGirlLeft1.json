@@ -14,10 +14,20 @@
       "Come on...",
       "<s>A SIX?!</s>\nShe rolled the die and got a <s>SIX?</s>\n<s>AGAIN?!</s>",
       "I'm going to keep losing to her, aren't I?"
-    ]
+    ],
+    "es": [
+      "¡Estoy <w>MUUUUY</w> ocupada ahora mismo!",
+      "...",
+      "Venga...",
+      "<s>¡¿UN SEIS?!</s>\nHa lanzado el dado y ha obtenido un <s>¿SEIS?</s>\n<s>¡¿OTRA VEZ?!</s>",
+      "No le voy a ganar nunca, ¿verdad?"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

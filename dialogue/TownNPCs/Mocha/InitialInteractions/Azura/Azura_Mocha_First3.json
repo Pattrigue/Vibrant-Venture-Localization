@@ -17,10 +17,12 @@
       "You do that, and I'll make sure ya have a room to stay in.",
       "...First-aid's in the drawer on my left, if ya have any need for that...",
       "Because, ya know, your face is still a lil' red."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

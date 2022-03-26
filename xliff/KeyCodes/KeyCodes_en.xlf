@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="a6b7e2f98cd0dcf4dad48d880563d48a" original="Assets/Localization/Tables/KeyCodes/KeyCodes_en.asset">
+    <group id="2912258e531afce4f8ff96bae9129925" name="KeyCodes">
+      <unit id="26048884736" name="Escape" xml:space="preserve">
+        <segment>
+          <source>ESC</source>
+          <target>ESC</target>
+        </segment>
+      </unit>
+      <unit id="37193150464" name="Enter" xml:space="preserve">
+        <segment>
+          <source>Enter</source>
+          <target>Enter</target>
+        </segment>
+      </unit>
+      <unit id="51931934720" name="RightControl" xml:space="preserve">
+        <segment>
+          <source>Right CTRL</source>
+          <target>Right CTRL</target>
+        </segment>
+      </unit>
+      <unit id="67610243072" name="LeftControl" xml:space="preserve">
+        <segment>
+          <source>Left CTRL</source>
+          <target>Left CTRL</target>
+        </segment>
+      </unit>
+      <unit id="119762219008" name="LeftShift" xml:space="preserve">
+        <segment>
+          <source>Left Shift</source>
+          <target>Left Shift</target>
+        </segment>
+      </unit>
+      <unit id="137541873664" name="RightShift" xml:space="preserve">
+        <segment>
+          <source>Right Shift</source>
+          <target>Right Shift</target>
+        </segment>
+      </unit>
+      <unit id="151307579392" name="ScrollLock" xml:space="preserve">
+        <segment>
+          <source>Scroll Lock</source>
+          <target>Scroll Lock</target>
+        </segment>
+      </unit>
+      <unit id="181938581504" name="RightAlt" xml:space="preserve">
+        <segment>
+          <source>Right Alt</source>
+          <target>Right Alt</target>
+        </segment>
+      </unit>
+      <unit id="197784662016" name="LeftAlt" xml:space="preserve">
+        <segment>
+          <source>Left Alt</source>
+          <target>Left Alt</target>
+        </segment>
+      </unit>
+      <unit id="212728967168" name="RightCommand" xml:space="preserve">
+        <segment>
+          <source>Right CMD</source>
+          <target>Right CMD</target>
+        </segment>
+      </unit>
+      <unit id="266676105216" name="LeftCommand" xml:space="preserve">
+        <segment>
+          <source>Left CMD</source>
+          <target>Left CMD</target>
+        </segment>
+      </unit>
+      <unit id="324276482048" name="RightWindows" xml:space="preserve">
+        <segment>
+          <source>Right Windows</source>
+          <target>Right Windows</target>
+        </segment>
+      </unit>
+      <unit id="342085496832" name="LeftWindows" xml:space="preserve">
+        <segment>
+          <source>Left Windows</source>
+          <target>Left Windows</target>
+        </segment>
+      </unit>
+      <unit id="355612127232" name="Delete" xml:space="preserve">
+        <segment>
+          <source>Del</source>
+          <target>Del</target>
+        </segment>
+      </unit>
+      <unit id="404924559360" name="Space" xml:space="preserve">
+        <segment>
+          <source>Space</source>
+          <target>Space</target>
+        </segment>
+      </unit>
+      <unit id="2288653594624" name="PageUp" xml:space="preserve">
+        <segment>
+          <source>Page Up</source>
+          <target>Page Up</target>
+        </segment>
+      </unit>
+      <unit id="2325668327424" name="PageDown" xml:space="preserve">
+        <segment>
+          <source>Page Down</source>
+          <target>Page Down</target>
+        </segment>
+      </unit>
+      <unit id="2431708721152" name="Insert" xml:space="preserve">
+        <segment>
+          <source>Insert</source>
+          <target>Insert</target>
+        </segment>
+      </unit>
+      <unit id="2474117328896" name="Home" xml:space="preserve">
+        <segment>
+          <source>Home</source>
+          <target>Home</target>
+        </segment>
+      </unit>
+      <unit id="2484351430656" name="End" xml:space="preserve">
+        <segment>
+          <source>End</source>
+          <target>End</target>
+        </segment>
+      </unit>
+      <unit id="2542543204352" name="Backspace" xml:space="preserve">
+        <segment>
+          <source>Backspace</source>
+          <target>Backspace</target>
+        </segment>
+      </unit>
+      <unit id="2632527802368" name="CapsLock" xml:space="preserve">
+        <segment>
+          <source>CapsLock</source>
+          <target>CapsLock</target>
+        </segment>
+      </unit>
+      <unit id="2699787661312" name="AltGr" xml:space="preserve">
+        <segment>
+          <source>AltGr</source>
+          <target>AltGr</target>
+        </segment>
+      </unit>
+      <unit id="2806935351296" name="UpArrow" xml:space="preserve">
+        <segment>
+          <source>Up Arrow</source>
+          <target>Up Arrow</target>
+        </segment>
+      </unit>
+      <unit id="2818142531584" name="DownArrow" xml:space="preserve">
+        <segment>
+          <source>Down Arrow</source>
+          <target>Down Arrow</target>
+        </segment>
+      </unit>
+      <unit id="2832096980992" name="RightArrow" xml:space="preserve">
+        <segment>
+          <source>Right Arrow</source>
+          <target>Right Arrow</target>
+        </segment>
+      </unit>
+      <unit id="2847427162112" name="LeftArrow" xml:space="preserve">
+        <segment>
+          <source>Left Arrow</source>
+          <target>Left Arrow</target>
+        </segment>
+      </unit>
+      <unit id="2943514472448" name="Tab" xml:space="preserve">
+        <segment>
+          <source>Tab</source>
+          <target>Tab</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

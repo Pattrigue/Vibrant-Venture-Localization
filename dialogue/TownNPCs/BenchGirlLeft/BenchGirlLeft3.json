@@ -16,10 +16,21 @@
       "And you shouldn't either!",
       "...",
       "Not that you can, anyway..."
-    ]
+    ],
+    "es": [
+      "¿O-os habéis enterado?\nDicen que la antigua torre del reloj está...",
+      "<s>¡ENCANTADA!</s>",
+      "<w>¡Aaaah!</w>\n¡Ni loca pienso ir allí, no no no!",
+      "¡Y tú tampoco deberías!",
+      "...",
+      "De todas maneras, no puedes..."
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

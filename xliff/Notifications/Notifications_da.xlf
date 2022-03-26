@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="36e2fc2c6ef84e5438aac6108a1f2305" original="Assets/Localization/Tables/Notifications/Notifications_da.asset">
+    <group id="a49ce4fdeda96be4e953e812ebc93963" name="Notifications">
+      <unit id="123285434368" name="NoHitBoss" xml:space="preserve">
+        <segment>
+          <source>No-Hitting Bosses\title
+Defeating a ¤ level without taking damage will grant you a Challenge Coin!</source>
+          <target>Bosskampe Uden Skade\title
+Hvis du besejre en ¤ bane uden at tage skade, vil du blive belønnet med en Challenge Coin!</target>
+        </segment>
+      </unit>
+      <unit id="156437213184" name="Pets" xml:space="preserve">
+        <segment>
+          <source>Pets\title
+You can create and share your own custom pets on the Steam Workshop!
+Open the Pet Maker from the Pause Menu to start creating!</source>
+          <target>Kæledyr\title
+Du kan lave og dele dine helt egne kæledyr på Steam Workshop!
+Åben Kæledyrsskaberen fra Pausemenuen for at komme i gang!</target>
+        </segment>
+      </unit>
+      <unit id="585581621248" name="BuyingUpgrades" xml:space="preserve">
+        <segment>
+          <source>Buying Upgrades\title
+You can purchase useful upgrades in the shop!
+The shop can be accessed anytime in the World Map.</source>
+          <target>Køb af Opgraderinger\title
+Du kan købe brugbare opgraderinger i butikken!
+Butikken kan tilgås når som helst på Kortet.</target>
+        </segment>
+      </unit>
+      <unit id="620083965952" name="Town" xml:space="preserve">
+        <segment>
+          <source>Visiting Home\title
+Welcome to Forever Fall Forest!
+You can now return to Cornucopia 
+Town anytime.</source>
+          <target>Hjem Kære Hjem\title
+Velkommen til Forever Fall Forest!
+Du kan nu vende tilbage til Cornucopia Town, når du ønsker det.</target>
+        </segment>
+      </unit>
+      <unit id="9404736031846400" name="Feedback" xml:space="preserve">
+        <segment>
+          <source>Enjoying the game?\title
+We would love to hear what you think about our game so far! Please leave a review on Steam and let us know your thoughts - we really appreciate it. No pressure, though!
+</source>
+          <target>Nyder du spillet?\title
+Vi vil meget gerne høre, hvad du synes om vores spil indtil videre! Skriv venligst en anmeldelse på Steam og fortæl os dine tanker - det sætter vi virkelig pris på. Men intet pres!</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

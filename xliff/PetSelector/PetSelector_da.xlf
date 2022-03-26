@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="610643a3c649ceb47ad1bc4f4fcd7f0c" original="Assets/Localization/Tables/PetSelector/PetSelector_da.asset">
+    <group id="255824ec1dd3622438bdc87cfce11798" name="PetSelector">
+      <unit id="5417103360" name="PetMaker" xml:space="preserve">
+        <segment>
+          <source>Pet Maker</source>
+          <target>Kæledyrsskaber</target>
+        </segment>
+      </unit>
+      <unit id="285248483328" name="MyPets" xml:space="preserve">
+        <segment>
+          <source>My Pets</source>
+          <target>Mine Kæledyr</target>
+        </segment>
+      </unit>
+      <unit id="1287628419072" name="NoPets" xml:space="preserve">
+        <segment>
+          <source>You have not created any pets yet.
+
+
+Open the pet maker to create your own pets or head to the Steam Workshop to download some!</source>
+          <target>Du har ikke lavet nogle kæledyr endnu.
+
+Åben kæledyrsskaberen for at lave dine egne kæledyr, eller besøg Steam Workshop for at finde nogle!</target>
+        </segment>
+      </unit>
+      <unit id="1549713698816" name="NoWorkshopPets" xml:space="preserve">
+        <segment>
+          <source>You have not subscribed to any pets on the Steam Workshop yet.</source>
+          <target>Du har ikke abonneret på nogen kæledyr på Steam Workshop endnu.</target>
+        </segment>
+      </unit>
+      <unit id="3692583612416" name="NotConnected" xml:space="preserve">
+        <segment>
+          <source>You are not connected to Steam.
+Please restart the game through Steam.</source>
+          <target>Du er ikke forbundet til Steam.
+Genstart venligst spillet gennem Steam.</target>
+        </segment>
+      </unit>
+      <unit id="3711814496256" name="NotReady" xml:space="preserve">
+        <segment>
+          <source>Steam Workshop has not finished loading!
+Please try again later.</source>
+          <target>Steam Workshop er ikke færdig med at indlæse!
+Prøv venligst igen senere.</target>
+        </segment>
+      </unit>
+      <unit id="238079803813888" name="EnterPetMakerPrompt" xml:space="preserve">
+        <segment>
+          <source>Enter the Pet Maker?
+Progress in the current level will be lost!</source>
+          <target>Åbn kæledyrsskaberen?
+Fremskridt i den nuværende bane vil blive tabt!</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

@@ -22,10 +22,24 @@
       "I WASN'T SUPPOSED TO TELL Y'ALL THAT!",
       "NO MATTER!\nY'ALL'S TIME IS NIGH!",
       "NOW, LET'S DANCE!"
-    ]
+    ],
+    "es": [
+      "¡MÁS OS VALE NO HABER <w><c=banana>DESTROZADO</c></w> EL SUELO!",
+      "¡ES MUY FRÁGIL, QUE LO SEPÁIS!",
+      "¡ESO SÍ, MUCHAS GRACIAS POR ACTIVARME!",
+      "¡AL PARECER <c=violastro>VIOLASTRO</c> TIENE COSAS MÁS IMPORTANTES QUE HACER QUE PERDER EL TIEMPO CON AVENTUREROS DE PACOTILLA COMO VOSOTROS!",
+      "¡ES MÁS, ACABA DE IRSE DE ESTE PLANETA, BWEJEJE!",
+      "¡UUUUPS!",
+      "¡NO DEBERÍA HABEROS DICHO ESO!",
+      "¡QUÉ MÁS DA!\n¡HA LLEGADO VUESTRA HORA!",
+      "¡VENGA, A BAILAR!"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

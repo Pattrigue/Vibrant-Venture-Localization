@@ -6,7 +6,8 @@
     ],
     "en": [
       "Oh, hello.\nI'm sure we've met before, haven't we?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -16,6 +17,7 @@
     "en": [
       "Have we?",
       "We have!"
-    ]
+    ],
+    "pt-BR": []
   }
 }

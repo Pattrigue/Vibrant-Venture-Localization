@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="36e9da212e662df4bba8f7b4e145a4ff" original="Assets/Localization/Tables/IntroCutscene/IntroCutscene_da.asset">
+    <group id="c3482425432205944ad12dce0ab46447" name="IntroCutscene">
+      <unit id="12274790400" name="Pattrigue" xml:space="preserve">
+        <segment>
+          <source>A game by Pattrigue</source>
+          <target>Et spil af Pattrigue</target>
+        </segment>
+      </unit>
+      <unit id="735835706257408" name="MovePrompt" xml:space="preserve">
+        <segment>
+          <source>Use {0:list:{}|, |, and } to move.</source>
+          <target>Brug {0:list:{}|, | og } for at bevæge dig.</target>
+        </segment>
+      </unit>
+      <unit id="2895838600916992" name="Jurl" xml:space="preserve">
+        <segment>
+          <source>Art &amp; Graphics by Jur Loogman</source>
+          <target>Tegninger &amp; Grafik af Jur Loogman</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

@@ -13,10 +13,12 @@
       "No need to worry, @CharacterName! Ya done plenty more daunting tasks before, am sure! Like... Uhh... <w>Uhmmm...</w>",
       "Screw it, I got nothin'.\nAm way too busy!",
       "I'll just make sure no one takes ya room in the meantime."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

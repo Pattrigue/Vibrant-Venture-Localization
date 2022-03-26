@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="a49b9d02ff6adbc40a80ceebd4543e10" original="Assets/Localization/Tables/CharacterWheelConfigurator/CharacterWheelConfigurator_da.asset">
+    <group id="6033589e916b3674b9f7a36fe93a7a52" name="CharacterWheelConfigurator">
+      <unit id="16091607040" name="SelectCharacter" xml:space="preserve">
+        <segment>
+          <source>Select a character</source>
+          <target>Vælg en karakter</target>
+        </segment>
+      </unit>
+      <unit id="21640671232" name="SelectSwapWith" xml:space="preserve">
+        <segment>
+          <source>Select the character to swap with</source>
+          <target>Vælg karakteren, der skal bytte plads</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

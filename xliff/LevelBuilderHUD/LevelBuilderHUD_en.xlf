@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="106a49030daf3074797913f48d3949dc" original="Assets/Localization/Tables/LevelBuilder/HUD/LevelBuilderHUD_en.asset">
+    <group id="c6356ccc6a94fe448bb75598a206f90c" name="LevelBuilderHUD">
+      <unit id="190473990144" name="MyLevelsTooltip" xml:space="preserve">
+        <segment>
+          <source>My Levels</source>
+          <target>My Levels</target>
+        </segment>
+      </unit>
+      <unit id="201811193856" name="SaveTooltip" xml:space="preserve">
+        <segment>
+          <source>Save</source>
+          <target>Save</target>
+        </segment>
+      </unit>
+      <unit id="239568318464" name="ItemsTooltip" xml:space="preserve">
+        <segment>
+          <source>Items</source>
+          <target>Items</target>
+        </segment>
+      </unit>
+      <unit id="317058084864" name="ThemeTooltip" xml:space="preserve">
+        <segment>
+          <source>Theme</source>
+          <target>Theme</target>
+        </segment>
+      </unit>
+      <unit id="335773069312" name="GridToggleTooltip" xml:space="preserve">
+        <segment>
+          <source>Toggle Grid</source>
+          <target>Toggle Grid</target>
+        </segment>
+      </unit>
+      <unit id="425732501504" name="PickerTooltip" xml:space="preserve">
+        <segment>
+          <source>Picker</source>
+          <target>Picker</target>
+        </segment>
+      </unit>
+      <unit id="489859215360" name="EraserTooltip" xml:space="preserve">
+        <segment>
+          <source>Eraser</source>
+          <target>Eraser</target>
+        </segment>
+      </unit>
+      <unit id="509928960000" name="PencilTooltip" xml:space="preserve">
+        <segment>
+          <source>Pencil</source>
+          <target>Pencil</target>
+        </segment>
+      </unit>
+      <unit id="547031773184" name="LineTooltip" xml:space="preserve">
+        <segment>
+          <source>Line</source>
+          <target>Line</target>
+        </segment>
+      </unit>
+      <unit id="574139559936" name="RectangleTooltip" xml:space="preserve">
+        <segment>
+          <source>Rectangle</source>
+          <target>Rectangle</target>
+        </segment>
+      </unit>
+      <unit id="1197828370432" name="GroundLayerLabel" xml:space="preserve">
+        <segment>
+          <source>Ground</source>
+          <target>Ground</target>
+        </segment>
+      </unit>
+      <unit id="1234566279168" name="BackgroundLayerLabel" xml:space="preserve">
+        <segment>
+          <source>Background</source>
+          <target>Background</target>
+        </segment>
+      </unit>
+      <unit id="1829712850944" name="ExitTooltip" xml:space="preserve">
+        <segment>
+          <source>Exit Level Builder</source>
+          <target>Exit Level Builder</target>
+        </segment>
+      </unit>
+      <unit id="1831340240896" name="PlaytestTooltip" xml:space="preserve">
+        <segment>
+          <source>Playtest</source>
+          <target>Playtest</target>
+        </segment>
+      </unit>
+      <unit id="1869978169344" name="StopPlaytestingTooltip" xml:space="preserve">
+        <segment>
+          <source>Stop playtesting</source>
+          <target>Stop playtesting</target>
+        </segment>
+      </unit>
+      <unit id="2683480207360" name="ExitPromptText" xml:space="preserve">
+        <segment>
+          <source>Exit the Level Builder?
+Unsaved changes will be lost!</source>
+          <target>Exit the Level Builder?
+Unsaved changes will be lost!</target>
+        </segment>
+      </unit>
+      <unit id="2964364357632" name="SlopeSelectorRightSlope" xml:space="preserve">
+        <segment>
+          <source>Right slope tile</source>
+          <target>Right slope tile</target>
+        </segment>
+      </unit>
+      <unit id="3018915475456" name="SlopeSelectorFullTile" xml:space="preserve">
+        <segment>
+          <source>Full tile</source>
+          <target>Full tile</target>
+        </segment>
+      </unit>
+      <unit id="3063110856704" name="SlopeSelectorLeftSlope" xml:space="preserve">
+        <segment>
+          <source>Left slope tile</source>
+          <target>Left slope tile</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

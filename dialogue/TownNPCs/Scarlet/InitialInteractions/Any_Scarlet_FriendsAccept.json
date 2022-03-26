@@ -12,10 +12,12 @@
       "@CharacterName, huh?",
       "That's such a pretty name!\nIt totally fits you!",
       "My name is <c=scarlet>Scarlet</c>...\nNice to meet you!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

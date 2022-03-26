@@ -12,10 +12,12 @@
       "I'm <w>suuuuure</w> she's comfortable with that!\n...She's not with you now, is she?",
       "@CharacterName, please tell <c=pistachio>my little sister</c> to come by every once in a while, and keep her safe.",
       "And tell me about your adventures when you can!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

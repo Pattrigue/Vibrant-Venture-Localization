@@ -1,0 +1,443 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="7d1108fcff1a6dc48af69d0ef2beb67b" original="Assets/Localization/Tables/PetMaker/PetMaker_en.asset">
+    <group id="3fc514e658e3bf947a71da009b796728" name="PetMaker">
+      <unit id="277660987392" name="NewPet" xml:space="preserve">
+        <segment>
+          <source>New</source>
+          <target>New</target>
+        </segment>
+      </unit>
+      <unit id="400436654080" name="ShowInExplorer" xml:space="preserve">
+        <segment>
+          <source>Show in Explorer</source>
+          <target>Show in Explorer</target>
+        </segment>
+      </unit>
+      <unit id="421068435456" name="ExitPetMaker" xml:space="preserve">
+        <segment>
+          <source>Return to World Map</source>
+          <target>Return to World Map</target>
+        </segment>
+      </unit>
+      <unit id="694222483456" name="NoPetsMessage" xml:space="preserve">
+        <segment>
+          <source>Any pet you create will show up here.
+
+
+
+
+Press "New" to create a new pet!</source>
+          <target>Any pet you create will show up here.
+
+
+
+
+Press "New" to create a new pet!</target>
+        </segment>
+      </unit>
+      <unit id="875353501696" name="Edit" xml:space="preserve">
+        <segment>
+          <source>Edit</source>
+          <target>Edit</target>
+        </segment>
+      </unit>
+      <unit id="887739281408" name="Rename" xml:space="preserve">
+        <segment>
+          <source>Rename</source>
+          <target>Rename</target>
+        </segment>
+      </unit>
+      <unit id="895712653312" name="Copy" xml:space="preserve">
+        <segment>
+          <source>Copy</source>
+          <target>Copy</target>
+        </segment>
+      </unit>
+      <unit id="911902666752" name="Delete" xml:space="preserve">
+        <segment>
+          <source>Delete</source>
+          <target>Delete</target>
+        </segment>
+      </unit>
+      <unit id="2179643633664" name="Brightness" xml:space="preserve">
+        <segment>
+          <source>Brightness: {0}</source>
+          <target>Brightness: {0}</target>
+        </segment>
+      </unit>
+      <unit id="2196433432576" name="Saturation" xml:space="preserve">
+        <segment>
+          <source>Saturation: {0}</source>
+          <target>Saturation: {0}</target>
+        </segment>
+      </unit>
+      <unit id="2208013905920" name="BrushSize" xml:space="preserve">
+        <segment>
+          <source>Brush size: {0}</source>
+          <target>Brush size: {0}</target>
+        </segment>
+      </unit>
+      <unit id="7696365547520" name="PetTypeLabel" xml:space="preserve">
+        <segment>
+          <source>Pet Type</source>
+          <target>Pet Type</target>
+        </segment>
+      </unit>
+      <unit id="7775642087424" name="AnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Animation</source>
+          <target>Animation</target>
+        </segment>
+      </unit>
+      <unit id="7793878921216" name="SpeedLabel" xml:space="preserve">
+        <segment>
+          <source>Speed: {0}</source>
+          <target>Speed: {0}</target>
+        </segment>
+      </unit>
+      <unit id="7858685112320" name="MoveImageMessageKeyboard" xml:space="preserve">
+        <segment>
+          <source>Use Arrow Keys to move the entire image</source>
+          <target>Use Arrow Keys to move the entire image</target>
+        </segment>
+      </unit>
+      <unit id="9581357068288" name="PetMenuTooltip" xml:space="preserve">
+        <segment>
+          <source>Pet Menu</source>
+          <target>Pet Menu</target>
+        </segment>
+      </unit>
+      <unit id="9666077814784" name="ImportTooltip" xml:space="preserve">
+        <segment>
+          <source>Import Image</source>
+          <target>Import Image</target>
+        </segment>
+      </unit>
+      <unit id="9927810772992" name="SaveTooltip" xml:space="preserve">
+        <segment>
+          <source>Save</source>
+          <target>Save</target>
+        </segment>
+      </unit>
+      <unit id="9997532688384" name="UndoTooltip" xml:space="preserve">
+        <segment>
+          <source>Undo</source>
+          <target>Undo</target>
+        </segment>
+      </unit>
+      <unit id="10056080977920" name="RedoTooltip" xml:space="preserve">
+        <segment>
+          <source>Redo</source>
+          <target>Redo</target>
+        </segment>
+      </unit>
+      <unit id="10117674332160" name="PencilTooltip" xml:space="preserve">
+        <segment>
+          <source>Pencil</source>
+          <target>Pencil</target>
+        </segment>
+      </unit>
+      <unit id="10163006369792" name="EraserTooltip" xml:space="preserve">
+        <segment>
+          <source>Eraser</source>
+          <target>Eraser</target>
+        </segment>
+      </unit>
+      <unit id="10178080698368" name="FloodFillTooltip" xml:space="preserve">
+        <segment>
+          <source>Paint Bucket</source>
+          <target>Paint Bucket</target>
+        </segment>
+      </unit>
+      <unit id="10196841820160" name="LineToolTooltip" xml:space="preserve">
+        <segment>
+          <source>Line Tool</source>
+          <target>Line Tool</target>
+        </segment>
+      </unit>
+      <unit id="10215502278656" name="ColorPickerTooltip" xml:space="preserve">
+        <segment>
+          <source>Color Picker</source>
+          <target>Color Picker</target>
+        </segment>
+      </unit>
+      <unit id="10234506670080" name="GridToggleTooltip" xml:space="preserve">
+        <segment>
+          <source>Toggle Grid</source>
+          <target>Toggle Grid</target>
+        </segment>
+      </unit>
+      <unit id="12003047534592" name="ExitTooltip" xml:space="preserve">
+        <segment>
+          <source>Exit</source>
+          <target>Exit</target>
+        </segment>
+      </unit>
+      <unit id="12996590071808" name="Shortcut" xml:space="preserve">
+        <segment>
+          <source>Shortcut: {0}</source>
+          <target>Shortcut: {0}</target>
+        </segment>
+      </unit>
+      <unit id="19725168046080" name="IncreaseSpeedTooltip" xml:space="preserve">
+        <segment>
+          <source>Increase Speed</source>
+          <target>Increase Speed</target>
+        </segment>
+      </unit>
+      <unit id="19826070417408" name="DecreaseSpeedTooltip" xml:space="preserve">
+        <segment>
+          <source>Decrease Speed</source>
+          <target>Decrease Speed</target>
+        </segment>
+      </unit>
+      <unit id="19882701910016" name="PreviousFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Previous Frame</source>
+          <target>Previous Frame</target>
+        </segment>
+      </unit>
+      <unit id="19899198107648" name="NextFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Next Frame</source>
+          <target>Next Frame</target>
+        </segment>
+      </unit>
+      <unit id="19920794578944" name="PlayPauseTooltip" xml:space="preserve">
+        <segment>
+          <source>Play/Pause</source>
+          <target>Play/Pause</target>
+        </segment>
+      </unit>
+      <unit id="20037614333952" name="NewFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>New Frame</source>
+          <target>New Frame</target>
+        </segment>
+      </unit>
+      <unit id="20137367465984" name="DeleteFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Delete Frame</source>
+          <target>Delete Frame</target>
+        </segment>
+      </unit>
+      <unit id="20170116591616" name="CopyFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Copy Frame</source>
+          <target>Copy Frame</target>
+        </segment>
+      </unit>
+      <unit id="20190194724864" name="PasteFrameTooltip" xml:space="preserve">
+        <segment>
+          <source>Paste Frame</source>
+          <target>Paste Frame</target>
+        </segment>
+      </unit>
+      <unit id="20216878886912" name="FlipVerticalTooltip" xml:space="preserve">
+        <segment>
+          <source>Flip Vertical</source>
+          <target>Flip Vertical</target>
+        </segment>
+      </unit>
+      <unit id="20236147519488" name="FlipHorizontalTooltip" xml:space="preserve">
+        <segment>
+          <source>Flip Horizontal</source>
+          <target>Flip Horizontal</target>
+        </segment>
+      </unit>
+      <unit id="43392417558528" name="WalkingPet" xml:space="preserve">
+        <segment>
+          <source>Walking</source>
+          <target>Walking</target>
+        </segment>
+      </unit>
+      <unit id="43408964087808" name="FlyingPet" xml:space="preserve">
+        <segment>
+          <source>Flying</source>
+          <target>Flying</target>
+        </segment>
+      </unit>
+      <unit id="43487464681472" name="WalkAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Walk</source>
+          <target>Walk</target>
+        </segment>
+      </unit>
+      <unit id="43522130604032" name="IdleAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Idle</source>
+          <target>Idle</target>
+        </segment>
+      </unit>
+      <unit id="43548265312256" name="JumpAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Jump</source>
+          <target>Jump</target>
+        </segment>
+      </unit>
+      <unit id="43560042917888" name="FallAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Fall</source>
+          <target>Fall</target>
+        </segment>
+      </unit>
+      <unit id="43568016289792" name="SwimAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Swim</source>
+          <target>Swim</target>
+        </segment>
+      </unit>
+      <unit id="43580892803072" name="SwimIdleAnimationLabel" xml:space="preserve">
+        <segment>
+          <source>Swim Idle</source>
+          <target>Swim Idle</target>
+        </segment>
+      </unit>
+      <unit id="76321491415040" name="SavedPromptText" xml:space="preserve">
+        <segment>
+          <source>Saved!</source>
+          <target>Saved!</target>
+        </segment>
+      </unit>
+      <unit id="76547694424064" name="ExitPromptText" xml:space="preserve">
+        <segment>
+          <source>Return to the World Map?
+Unsaved changes will be lost!</source>
+          <target>Return to the World Map?
+Unsaved changes will be lost!</target>
+        </segment>
+      </unit>
+      <unit id="76902268301312" name="DeletePetPromptText" xml:space="preserve">
+        <segment>
+          <source>Are you sure you want to delete this pet?</source>
+          <target>Are you sure you want to delete this pet?</target>
+        </segment>
+      </unit>
+      <unit id="77045885464576" name="EnterPetNamePromptText" xml:space="preserve">
+        <segment>
+          <source>Enter the pet's name:</source>
+          <target>Enter the pet's name:</target>
+        </segment>
+      </unit>
+      <unit id="77133303148544" name="ImportErrorPromptText" xml:space="preserve">
+        <segment>
+          <source>You can only import {0}x{1} png files!</source>
+          <target>You can only import {0}x{1} png files!</target>
+        </segment>
+      </unit>
+      <unit id="77284264538112" name="ImportUnsupportedPromptText" xml:space="preserve">
+        <segment>
+          <source>Sorry, your operating system does not support this feature.</source>
+          <target>Sorry, your operating system does not support this feature.</target>
+        </segment>
+      </unit>
+      <unit id="77474371366912" name="CreateNewPetPromptText" xml:space="preserve">
+        <segment>
+          <source>Create a new pet?
+Unsaved changes will be lost!</source>
+          <target>Create a new pet?
+Unsaved changes will be lost!</target>
+        </segment>
+      </unit>
+      <unit id="78185150705664" name="PetNameAlreadyExitsPromptText" xml:space="preserve">
+        <segment>
+          <source>A pet with this name already exists.
+Overwrite this file?
+</source>
+          <target>A pet with this name already exists.
+Overwrite this file?
+</target>
+        </segment>
+      </unit>
+      <unit id="83329963683840" name="Shortcuts" xml:space="preserve">
+        <segment>
+          <source>Shortcuts: {0}</source>
+          <target>Shortcuts: {0}</target>
+        </segment>
+      </unit>
+      <unit id="1190477372223488" name="MoveImageMessageGamepad" xml:space="preserve">
+        <segment>
+          <source>Use {0} to move the entire image</source>
+          <target>Use {0} to move the entire image</target>
+        </segment>
+      </unit>
+      <unit id="1820890868379648" name="WorkshopSubmitWindowTitle" xml:space="preserve">
+        <segment>
+          <source>You are about submit your pet "{0}" to the Steam Workshop.</source>
+          <target>You are about submit your pet "{0}" to the Steam Workshop.</target>
+        </segment>
+      </unit>
+      <unit id="1820942441541632" name="WorkshopVisibilityLabel" xml:space="preserve">
+        <segment>
+          <source>Visibility:</source>
+          <target>Visibility:</target>
+        </segment>
+      </unit>
+      <unit id="1821027472666624" name="WorkshopVisibilityPublic" xml:space="preserve">
+        <segment>
+          <source>Public</source>
+          <target>Public</target>
+        </segment>
+      </unit>
+      <unit id="1821096850649088" name="WorkshopVisibilityFriendsOnly" xml:space="preserve">
+        <segment>
+          <source>Friends-only</source>
+          <target>Friends-only</target>
+        </segment>
+      </unit>
+      <unit id="1821114043101184" name="WorkshopVisibilityHidden" xml:space="preserve">
+        <segment>
+          <source>Hidden</source>
+          <target>Hidden</target>
+        </segment>
+      </unit>
+      <unit id="1821149162008576" name="WorkshopDescriptionLabel" xml:space="preserve">
+        <segment>
+          <source>Description:</source>
+          <target>Description:</target>
+        </segment>
+      </unit>
+      <unit id="1821181177131008" name="WorkshopSubmit" xml:space="preserve">
+        <segment>
+          <source>Submit</source>
+          <target>Submit</target>
+        </segment>
+      </unit>
+      <unit id="4320367118282752" name="WorkshopUpdateWindowTitle" xml:space="preserve">
+        <segment>
+          <source>You are about to update your pet "{0}" on the Steam Workshop!</source>
+          <target>You are about to update your pet "{0}" on the Steam Workshop!</target>
+        </segment>
+      </unit>
+      <unit id="4321364414722048" name="WorkshopUploadingPromptText" xml:space="preserve">
+        <segment>
+          <source>Uploading to Steam...
+{0}%</source>
+          <target>Uploading to Steam...
+{0}%</target>
+        </segment>
+      </unit>
+      <unit id="4321366763532288" name="WorkshopUploadCompletePromptText" xml:space="preserve">
+        <segment>
+          <source>Upload completed!</source>
+          <target>Upload completed!</target>
+        </segment>
+      </unit>
+      <unit id="4321426280706048" name="WorkshopUploadFailedPromptText" xml:space="preserve">
+        <segment>
+          <source>ERROR - Upload failed:
+{0}</source>
+          <target>ERROR - Upload failed:
+{0}</target>
+        </segment>
+      </unit>
+      <unit id="4321993879089152" name="WorkshopConnectingPromptText" xml:space="preserve">
+        <segment>
+          <source>Connecting to the Steam Workshop...</source>
+          <target>Connecting to the Steam Workshop...</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

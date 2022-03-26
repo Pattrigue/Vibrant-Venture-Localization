@@ -12,10 +12,19 @@
       "But I think this town in itself is plenty of fun, too!",
       "I don't think there's anything better than being able to enjoy talks and games with my friend, while close to home.",
       "It means we can stay up very late playing games, since we don't have to walk very far to get back home!"
-    ]
+    ],
+    "es": [
+      "Salir de la ciudad y explorar el bosque y lo que hay más allá suena muy divertido.",
+      "¡Pero también creo que la ciudad en sí es muy divertida!",
+      "Creo que no hay nada mejor que relajarse mientras hablo y juego con mi amiga.",
+      "¡Además, podemos quedarnos hasta tarde jugando a juegos puesto que estamos al lado de casa!"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

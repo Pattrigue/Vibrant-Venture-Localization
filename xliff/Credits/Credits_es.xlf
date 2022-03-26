@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="905e58c49c2040d4496e4f66dbd84aa6" original="Assets/Localization/Tables/Credits/Credits_es.asset">
+    <group id="a80eb575cee841c479da9261decd2e7e" name="Credits">
+      <unit id="14808150016" name="CreditsMainText" xml:space="preserve">
+        <segment>
+          <source>That's all for now - thank you for playing! We hope you enjoyed.
+We're working hard on new updates, so stay tuned!
+
+Please leave a review on Steam and let us know what you think about the game!
+
+If you have any suggestions, bug reports or just want to talk to us, you can join our Discord server.
+
+In addition, you can follow @Pattrigue on Twitter for future updates.
+
+Best regards from Semag Games,
+Patrick Østergaard &amp; Jur Loogman</source>
+        </segment>
+      </unit>
+      <unit id="61381701632" name="DiscordLabel" xml:space="preserve">
+        <segment>
+          <source>Click here to join our Discord server!</source>
+        </segment>
+      </unit>
+      <unit id="133490176000" name="YouTubeLabel" xml:space="preserve">
+        <segment>
+          <source>Subscribe to our YouTube channel!</source>
+        </segment>
+      </unit>
+      <unit id="181082943488" name="TwitterLabel" xml:space="preserve">
+        <segment>
+          <source>Follow @Pattrigue on Twitter!
+</source>
+        </segment>
+      </unit>
+      <unit id="206198435840" name="ReturnToMapLabel" xml:space="preserve">
+        <segment>
+          <source>Click here to return to the world map.</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

@@ -6,10 +6,16 @@
     ],
     "en": [
       "THE TEMPLE IS UNDER ATTACK!"
-    ]
+    ],
+    "es": [
+      "¡¡ESTÁN ATACANDO EL TEMPLO!!"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

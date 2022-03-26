@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="6dee1b27ed99a594f952d6ea007faced" original="Assets/Localization/Tables/PetSelector/PetSelector_en.asset">
+    <group id="255824ec1dd3622438bdc87cfce11798" name="PetSelector">
+      <unit id="5417103360" name="PetMaker" xml:space="preserve">
+        <segment>
+          <source>Pet Maker</source>
+          <target>Pet Maker</target>
+        </segment>
+      </unit>
+      <unit id="285248483328" name="MyPets" xml:space="preserve">
+        <segment>
+          <source>My Pets</source>
+          <target>My Pets</target>
+        </segment>
+      </unit>
+      <unit id="1287628419072" name="NoPets" xml:space="preserve">
+        <segment>
+          <source>You have not created any pets yet.
+
+
+Open the pet maker to create your own pets or head to the Steam Workshop to download some!</source>
+          <target>You have not created any pets yet.
+
+
+Open the pet maker to create your own pets or head to the Steam Workshop to download some!</target>
+        </segment>
+      </unit>
+      <unit id="1549713698816" name="NoWorkshopPets" xml:space="preserve">
+        <segment>
+          <source>You have not subscribed to any pets on the Steam Workshop yet.</source>
+          <target>You have not subscribed to any pets on the Steam Workshop yet.</target>
+        </segment>
+      </unit>
+      <unit id="3692583612416" name="NotConnected" xml:space="preserve">
+        <segment>
+          <source>You are not connected to Steam.
+Please restart the game through Steam.</source>
+          <target>You are not connected to Steam.
+Please restart the game through Steam.</target>
+        </segment>
+      </unit>
+      <unit id="3711814496256" name="NotReady" xml:space="preserve">
+        <segment>
+          <source>Steam Workshop has not finished loading!
+Please try again later.</source>
+          <target>Steam Workshop has not finished loading!
+Please try again later.</target>
+        </segment>
+      </unit>
+      <unit id="238079803813888" name="EnterPetMakerPrompt" xml:space="preserve">
+        <segment>
+          <source>Enter the Pet Maker?
+Progress in the current level will be lost!</source>
+          <target>Enter the Pet Maker?
+Progress in the current level will be lost!</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

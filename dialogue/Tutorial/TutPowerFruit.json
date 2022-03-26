@@ -8,10 +8,12 @@
     "en": [
       "<c=163,79,203>Power Fruits</c> recharge your abilities!\nThis allows you to use abilities once more.",
       "It also allows you to swap character more than once while airborne."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

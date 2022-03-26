@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="1dd808ddca1d3e64d9a90dacb6814619" original="Assets/Localization/Tables/LevelNames/LevelTitles_es.asset">
+    <group id="b17a258a73406764ab408a4d11635e9e" name="LevelTitles">
+      <unit id="5534543872" name="1-1" xml:space="preserve">
+        <segment>
+          <source>Into {0}</source>
+        </segment>
+      </unit>
+      <unit id="13797322752" name="1-2" xml:space="preserve">
+        <segment>
+          <source>Scaling Bramble Treeway</source>
+        </segment>
+      </unit>
+      <unit id="21368041472" name="1-3" xml:space="preserve">
+        <segment>
+          <source>Gusty Treetops</source>
+        </segment>
+      </unit>
+      <unit id="36224266240" name="1-4" xml:space="preserve">
+        <segment>
+          <source>Madeline's Deadwood Delve</source>
+        </segment>
+      </unit>
+      <unit id="82583908352" name="1-S" xml:space="preserve">
+        <segment>
+          <source>Through the Challenge Tree</source>
+        </segment>
+      </unit>
+      <unit id="94663503872" name="1-C" xml:space="preserve">
+        <segment>
+          <source>Challenge: {0}</source>
+        </segment>
+      </unit>
+      <unit id="112128585728" name="2-1" xml:space="preserve">
+        <segment>
+          <source>Clearing Crystal Coast</source>
+        </segment>
+      </unit>
+      <unit id="135394390016" name="2-2" xml:space="preserve">
+        <segment>
+          <source>Danger! Grand Fluppy!</source>
+        </segment>
+      </unit>
+      <unit id="148203794432" name="2-3" xml:space="preserve">
+        <segment>
+          <source>Marine Grottos</source>
+        </segment>
+      </unit>
+      <unit id="159306117120" name="2-Bonus" xml:space="preserve">
+        <segment>
+          <source>Subsea Skirmish</source>
+        </segment>
+      </unit>
+      <unit id="191224770560" name="2-4" xml:space="preserve">
+        <segment>
+          <source>Violastro's Deepwater Dungeon</source>
+        </segment>
+      </unit>
+      <unit id="226511450112" name="2-C" xml:space="preserve">
+        <segment>
+          <source>Challenge: {0}</source>
+        </segment>
+      </unit>
+      <unit id="255108214784" name="3-1" xml:space="preserve">
+        <segment>
+          <source>Into the Moonbase</source>
+        </segment>
+      </unit>
+      <unit id="267909230592" name="3-2" xml:space="preserve">
+        <segment>
+          <source>Conductor's Mighty Convoy</source>
+        </segment>
+      </unit>
+      <unit id="276402696192" name="3-3" xml:space="preserve">
+        <segment>
+          <source>Moonbase Metro</source>
+        </segment>
+      </unit>
+      <unit id="289509896192" name="3-4" xml:space="preserve">
+        <segment>
+          <source>The Astral Factory</source>
+        </segment>
+      </unit>
+      <unit id="341087252480" name="Town" xml:space="preserve">
+        <segment>
+          <source>Cornucopia Town</source>
+        </segment>
+      </unit>
+      <unit id="5493059276140544" name="3-C" xml:space="preserve">
+        <segment>
+          <source>Challenge: {0}</source>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

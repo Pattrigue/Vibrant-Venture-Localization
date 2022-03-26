@@ -20,7 +20,8 @@
       "...you could try to pick up one from another author!",
       "Woops... I guess I kinda lost myself there, didn't I?",
       "You should drop by every once in a while! I'll tell you about the things I'm reading."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -30,6 +31,7 @@
     "en": [
       "Sure thing!",
       "Sorry..."
-    ]
+    ],
+    "pt-BR": []
   }
 }

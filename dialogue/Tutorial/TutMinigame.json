@@ -12,10 +12,12 @@
       "If you fail, you can retry as many times as you want.",
       "You can retry the minigame by hitting the button again.",
       "The door at the end will simply take you back here if you wish to retry.\nGo for it, champ!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

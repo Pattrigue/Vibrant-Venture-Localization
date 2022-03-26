@@ -12,10 +12,12 @@
       "Ya know what else may be good excercise for ya?",
       "<s>Purchasin' my upgrades, that's what!!!</s>",
       "Never said it'd be good for yer wallet..."
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

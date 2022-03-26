@@ -6,10 +6,16 @@
     ],
     "en": [
       "<w>Bwahaha!</w>\nI think this is your closing act!"
-    ]
+    ],
+    "es": [
+      "<w>Bwajaja!</w>\n¡Ha llegado la hora de vuestro acto final!"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

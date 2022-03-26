@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="da" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="ac45aefbbc42e9543b0de3a6f4860846" original="Assets/Localization/Tables/GeneralUI/GeneralUI_da.asset">
+    <group id="3ce2a3e99d964144991101d8a32e8a08" name="GeneralUI">
+      <unit id="4909592576" name="Exit" xml:space="preserve">
+        <segment>
+          <source>Exit</source>
+          <target>Tilbage</target>
+        </segment>
+      </unit>
+      <unit id="31434371072" name="Close" xml:space="preserve">
+        <segment>
+          <source>Close</source>
+          <target>Luk</target>
+        </segment>
+      </unit>
+      <unit id="213437647056896" name="Cancel" xml:space="preserve">
+        <segment>
+          <source>Cancel</source>
+          <target>Annuller</target>
+        </segment>
+      </unit>
+      <unit id="216317959499776" name="Confirm" xml:space="preserve">
+        <segment>
+          <source>Confirm</source>
+          <target>Bekræft</target>
+        </segment>
+      </unit>
+      <unit id="243249631621120" name="Yes" xml:space="preserve">
+        <segment>
+          <source>Yes</source>
+          <target>Ja</target>
+        </segment>
+      </unit>
+      <unit id="243252164980736" name="No" xml:space="preserve">
+        <segment>
+          <source>No</source>
+          <target>Nej</target>
+        </segment>
+      </unit>
+      <unit id="244698642018304" name="Ok" xml:space="preserve">
+        <segment>
+          <source>OK</source>
+          <target>OK</target>
+        </segment>
+      </unit>
+      <unit id="348992863105024" name="Back" xml:space="preserve">
+        <segment>
+          <source>Back</source>
+          <target>Tilbage</target>
+        </segment>
+      </unit>
+      <unit id="656591944839168" name="Skip" xml:space="preserve">
+        <segment>
+          <source>Skip</source>
+          <target>Spring over</target>
+        </segment>
+      </unit>
+      <unit id="673604830392320" name="GoodJob" xml:space="preserve">
+        <segment>
+          <source>Good job!</source>
+          <target>Godt klaret!</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

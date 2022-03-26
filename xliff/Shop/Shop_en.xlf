@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="4a1e67565ecd9a44b94051005a6bc149" original="Assets/Localization/Tables/Shop/Shop_en.asset">
+    <group id="98892f48649259c4eb6d238e1d914edb" name="Shop">
+      <unit id="8663494656" name="LongerSlowMo" xml:space="preserve">
+        <segment>
+          <source>Longer Slow Mo\title
+- The character wheel can be open for much longer!
+
+- Useful for learning swapping!</source>
+          <target>Longer Slow Mo\title
+- The character wheel can be open for much longer!
+
+- Useful for learning swapping!</target>
+        </segment>
+      </unit>
+      <unit id="139630637056" name="RiskAndReward" xml:space="preserve">
+        <segment>
+          <source>Risk &amp; Reward\title
+- Fairy bottles always drop gems instead of fairies!
+
+- Fairy bottles drop more gems than usual!</source>
+          <target>Risk &amp; Reward\title
+- Fairy bottles always drop gems instead of fairies!
+
+- Fairy bottles drop more gems than usual!</target>
+        </segment>
+      </unit>
+      <unit id="317276188672" name="StrongFairies" xml:space="preserve">
+        <segment>
+          <source>Strong Fairies\title
+- Fairies take two hits before dying!
+
+- A lifesaver for some of the trickier quests ahead!</source>
+          <target>Strong Fairies\title
+- Fairies take two hits before dying!
+
+- A lifesaver for some of the trickier quests ahead!</target>
+        </segment>
+      </unit>
+      <unit id="448293662720" name="GemMagnet" xml:space="preserve">
+        <segment>
+          <source>Gem Magnet\title
+- Pulls nearby gems towards you!
+
+- Helpful for those more focused on completing levels fast!</source>
+          <target>Gem Magnet\title
+- Pulls nearby gems towards you!
+
+- Helpful for those more focused on completing levels fast!</target>
+        </segment>
+      </unit>
+      <unit id="515406721024" name="GemExtractor" xml:space="preserve">
+        <segment>
+          <source>Gem Extractor\title
+- Defeated enemies drop gems!
+
+- Like defeating enemies? Like hoarding gems? Perfect!</source>
+          <target>Gem Extractor\title
+- Defeated enemies drop gems!
+
+- Like defeating enemies? Like hoarding gems? Perfect!</target>
+        </segment>
+      </unit>
+      <unit id="601268318208" name="DoubleGems" xml:space="preserve">
+        <segment>
+          <source>Double Gems\title
+- Collected gems have a chance of being doubled!
+
+- Perfect for collecting large amounts of gems quickly!</source>
+          <target>Double Gems\title
+- Collected gems have a chance of being doubled!
+
+- Perfect for collecting large amounts of gems quickly!</target>
+        </segment>
+      </unit>
+      <unit id="11695592468480" name="PurchasePrompt" xml:space="preserve">
+        <segment>
+          <source>Do you want to purchase the item "{0}" for {1}?</source>
+          <target>Do you want to purchase the item "{0}" for {1}?</target>
+        </segment>
+      </unit>
+      <unit id="13645193048064" name="MissingGemsPrompt" xml:space="preserve">
+        <segment>
+          <source>{0}
+You need {1} more to purchase this item!</source>
+          <target>{0}
+You need {1} more to purchase this item!</target>
+        </segment>
+      </unit>
+      <unit id="14050232791040" name="NotEnoughGems" xml:space="preserve">
+        <segment>
+          <source>Aww...
+Yikes!
+Sorry!
+Whoops!
+Shoot!
+Argh...
+Oof!</source>
+          <target>Aww...
+Yikes!
+Sorry!
+Whoops!
+Shoot!
+Argh...
+Oof!</target>
+        </segment>
+      </unit>
+      <unit id="544332211974144" name="LongerInvincibility" xml:space="preserve">
+        <segment>
+          <source>Longer Invincibility\title
+- When taking damage, you will remain invincible for longer!
+
+- Useful for those struggling to recover from damage!
+</source>
+          <target>Longer Invincibility\title
+- When taking damage, you will remain invincible for longer!
+
+- Useful for those struggling to recover from damage!
+</target>
+        </segment>
+      </unit>
+      <unit id="548808612278272" name="SpawnWithFairy" xml:space="preserve">
+        <segment>
+          <source>Loyal Fairies\title
+- Start off with a fairy whenever you spawn!
+
+- Useful for when fairy hunting just isn't your thing!</source>
+          <target>Loyal Fairies\title
+- Start off with a fairy whenever you spawn!
+
+- Useful for when fairy hunting just isn't your thing!</target>
+        </segment>
+      </unit>
+      <unit id="1154551858229248" name="FairyBargain" xml:space="preserve">
+        <segment>
+          <source>Fairy Bargain\title
+- Grants you a fairy every 40 gems!
+
+- The more you collect, the greater your odds of surviving!</source>
+          <target>Fairy Bargain\title
+- Grants you a fairy every 40 gems!
+
+- The more you collect, the greater your odds of surviving!</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

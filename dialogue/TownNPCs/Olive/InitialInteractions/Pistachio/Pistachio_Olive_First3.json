@@ -10,10 +10,12 @@
       "R-Really..?\nI guess there's no stopping you...",
       "At the very least...\nif you do make it back, let me listen to your adventures.",
       "That way I can make sure you're not doing anything too dangerous..!"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

@@ -18,7 +18,17 @@
       "Compared to her am doin' practically nothin'!",
       "<w>*sniff sniff*</w> Really somethin' to be proud of...",
       "If only I could easily visit her, but the inn's quite far."
-    ]
+    ],
+    "es": [
+      "¿Habéis visitado a mi hija <c=mocha>Mocha</c> alguna vez?",
+      "Está cuidando de mi antigua posada.",
+      "¡Mis huesos ya están muy viejos para ese tipo de trabajo!",
+      "Sinceramente, está trabajando mucho mejor que yo cuando tenía su edad",
+      "¡Comparado con ella, soy prácticamente nada!",
+      "<w>*sniff sniff*</w> Es algo de lo que estar muy orgulloso...",
+      "Me encantaría visitarle, pero la posada está bastante lejos."
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -28,6 +38,11 @@
     "en": [
       "It's not THAT far away...",
       "Sounds tough."
-    ]
+    ],
+    "es": [
+      "Tampoco está TAN lejos...",
+      "Suena duro."
+    ],
+    "pt-BR": []
   }
 }

@@ -6,10 +6,16 @@
     ],
     "en": [
       "Just try and stop me!"
-    ]
+    ],
+    "es": [
+      "¡Intentad detenerme si podéis!"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

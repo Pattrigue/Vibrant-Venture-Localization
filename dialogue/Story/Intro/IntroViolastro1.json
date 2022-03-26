@@ -5,15 +5,21 @@
       "Ser man det, eventyrere, hva'!",
       "Jeg har tænkt mig at gøre tilværelsen en smule mere underholdende for os alle!",
       "Jeres virkelighed trænger til en ommøblering!"
-      
     ],
     "en": [
       "Well would you look at that, Adventurers!",
       "I'm fixin' to make things a lot more entertaining for all of us!\nY'all's reality needs some shakin' up!"
-    ]
+    ],
+    "es": [
+      "¿Pero que tenemos aquí? ¡Un grupito de aventureros!",
+      "¡Estoy currandome las cosas para que esto sea más divertido para todos nosotros!\n¡Vuestro día a día necesita un poco más de chispa!"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

@@ -13,10 +13,12 @@
       "Ahaha, phew...\nYa can put them back on now...",
       "Honestly, @CharacterName, ya look great regardless of whether or not you wear them.",
       "Ah, gotta take this call.\n-- Cornucopia Inn, Mocha speaking.\nHow may I help you?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "pt-BR": []
   }
 }

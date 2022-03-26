@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pt-BR" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="9f1f5c28fb944c948bdcc9b6bdb688c9" original="Assets/Localization/Tables/GeneralUI/GeneralUI_pt-BR.asset">
+    <group id="3ce2a3e99d964144991101d8a32e8a08" name="GeneralUI">
+      <unit id="4909592576" name="Exit" xml:space="preserve">
+        <segment>
+          <source>Exit</source>
+          <target>Sair</target>
+        </segment>
+      </unit>
+      <unit id="31434371072" name="Close" xml:space="preserve">
+        <segment>
+          <source>Close</source>
+          <target>Fechar</target>
+        </segment>
+      </unit>
+      <unit id="213437647056896" name="Cancel" xml:space="preserve">
+        <segment>
+          <source>Cancel</source>
+          <target>Cancelar</target>
+        </segment>
+      </unit>
+      <unit id="216317959499776" name="Confirm" xml:space="preserve">
+        <segment>
+          <source>Confirm</source>
+          <target>Confirmar</target>
+        </segment>
+      </unit>
+      <unit id="243249631621120" name="Yes" xml:space="preserve">
+        <segment>
+          <source>Yes</source>
+          <target>Sim</target>
+        </segment>
+      </unit>
+      <unit id="243252164980736" name="No" xml:space="preserve">
+        <segment>
+          <source>No</source>
+          <target>Não</target>
+        </segment>
+      </unit>
+      <unit id="244698642018304" name="Ok" xml:space="preserve">
+        <segment>
+          <source>OK</source>
+          <target>OK</target>
+        </segment>
+      </unit>
+      <unit id="348992863105024" name="Back" xml:space="preserve">
+        <segment>
+          <source>Back</source>
+          <target>Voltar</target>
+        </segment>
+      </unit>
+      <unit id="656591944839168" name="Skip" xml:space="preserve">
+        <segment>
+          <source>Skip</source>
+          <target>Pular</target>
+        </segment>
+      </unit>
+      <unit id="673604830392320" name="GoodJob" xml:space="preserve">
+        <segment>
+          <source>Good job!</source>
+          <target>Bom Trabalho!</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

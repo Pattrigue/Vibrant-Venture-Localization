@@ -10,10 +10,18 @@
       "Cornucopia has been around for a really long time now.",
       "The crystals are pretty much the town's icon, and I love to look at their beautiful reflections!",
       "How dare <c=violastro>that villain</c> take them for himself?"
-    ]
+    ],
+    "es": [
+      "Cornucopia existe desde hace mucho tiempo.",
+      "Los cristales son el símbolo de la ciudad, ¡y adoro ver sus bonitas luces!",
+      "¿Como se atreve <c=violastro>ese villano</c> a llevarse todos los cristales?"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

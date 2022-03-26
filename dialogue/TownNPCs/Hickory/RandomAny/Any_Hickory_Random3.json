@@ -10,10 +10,18 @@
       "Ah, you'll understand once ya have one of ya own...",
       "Gotta take some time off soon so I can visit her.",
       "We all need a break sometimes anyways! Don't 'cha agree?"
-    ]
+    ],
+    "es": [
+      "Ah, ya lo entenderás cuando tengas una...",
+      "A veces necesito un poco de tiempo libre para visitarla.",
+      "¡Todos necesitamos descansos a veces! ¿Sí o sí?"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

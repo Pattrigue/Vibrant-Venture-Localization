@@ -6,10 +6,16 @@
     ],
     "en": [
       "<w>Bwhehehe!</w>"
-    ]
+    ],
+    "es": [
+      "¡<w>Bwejejeje!</w>"
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [],
-    "en": []
+    "en": [],
+    "es": [],
+    "pt-BR": []
   }
 }

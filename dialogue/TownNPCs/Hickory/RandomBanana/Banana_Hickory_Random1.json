@@ -8,7 +8,8 @@
     "en": [
       "Ya here for more tools, @CharacterName?",
       "I swear, ya do carry 'round a lotta things all the time. Don't 'cha get tired of that?"
-    ]
+    ],
+    "pt-BR": []
   },
   "Responses": {
     "da": [
@@ -18,6 +19,7 @@
     "en": [
       "Not at all!",
       "Eh, sometimes..."
-    ]
+    ],
+    "pt-BR": []
   }
 }
