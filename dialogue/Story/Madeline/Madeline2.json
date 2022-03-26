@@ -10,12 +10,16 @@
     "es": [
       "<w>Bwajaja!</w>\n¡Ha llegado la hora de vuestro acto final!"
     ],
+    "pl": [
+      "<w>Bwahaha!</w>\nTo już chyba koniec przedstawienia!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
