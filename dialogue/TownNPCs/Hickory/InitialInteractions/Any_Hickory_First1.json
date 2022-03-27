@@ -34,12 +34,24 @@
       "Aseguraos de darle una buena lección a <c=violastro>ese ladrón</c>.",
       "Estaré aqui para proveeros todo tipo de bienes, ¡así que visitadme de vez en cuando en el Mapa del Mundo!"
     ],
+    "pl": [
+      "Ah, dobrze cię widzieć, @CharacterName!",
+      "Mamy szczęście, że <c=violastro>ten złodziej</c> tylko wziął kryształy, ale nas nie zranił.",
+      "Nie mam jak wam pomóć znaleźć <c=violastro>tego fioletowego ciołka</c>.",
+      "Tak jak inni, którzy żyją w tym miasteczku, mam swoją własną ważną rolę do zagrania.",
+      "Moja polega na zajmowaniu się tym nieźle wyglądającym sklepem i sprowadzaniu zaopatrzenia dla miasteczka...",
+      "i dla tych, którzy chcą szukać przygód w lasach i jeszcze dalej.",
+      "Piękna symfonia, co nie?! <w>HAHAHA!</w>",
+      "Po prostu upewnij się, że dasz <c=violastro>temu złodziejowi</c> nauczkę.",
+      "W międzyczasie będę tutaj z rzeczami, których możesz potrzebować, więc odwiedź mnie w Mapie Świata dla biznesu!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
