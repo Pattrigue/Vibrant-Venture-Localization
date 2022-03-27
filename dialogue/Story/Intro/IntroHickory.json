@@ -1,6 +1,6 @@
 {
   "DialogueId": "IntroHickory",
-  "Dialogue": {
+  "Dialogue":
     "da": [
       "Hvad laver du, knejt? Hvorfor står du og snakker til mig?\nSmut ind og hjælp de andre!"
     ],
@@ -12,7 +12,7 @@
     ],
     "pt-BR": []
   },
-  "Responses": {
+  "Responses":
     "da": [],
     "en": [],
     "es": [],
