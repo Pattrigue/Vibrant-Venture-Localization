@@ -3,23 +3,27 @@
   <file id="7313d2bc74ccd0f4984fd2b9493b9175" original="Assets/Localization/Tables/LevelBuilder/Themes/LevelBuilderThemes_pt-BR.asset">
     <group id="8b079e4ae95155d4a9164937a3a4c787" name="LevelBuilderThemes">
       <unit id="11142328320" name="Forest" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Forest</source>
+          <target>Floresta</target>
         </segment>
       </unit>
       <unit id="29765038080" name="Treetops" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Treetops</source>
+          <target>Copa de Árvores</target>
         </segment>
       </unit>
       <unit id="42117263360" name="Night" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Night</source>
+          <target>Noite</target>
         </segment>
       </unit>
       <unit id="53655793664" name="Dawn" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Dawn</source>
+          <target>Amanhecer</target>
         </segment>
       </unit>
     </group>
