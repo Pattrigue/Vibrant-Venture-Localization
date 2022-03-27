@@ -97,7 +97,7 @@
           <source>Exit the Level Builder?
 Unsaved changes will be lost!</source>
           <target>Sair do Criador de Níveis?
-&#11;Alterações não salvas serão perdidas!</target>
+Alterações não salvas serão perdidas!</target>
         </segment>
       </unit>
       <unit id="2964364357632" name="SlopeSelectorRightSlope" xml:space="preserve">
