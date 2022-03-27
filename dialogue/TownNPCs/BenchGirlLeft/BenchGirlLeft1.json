@@ -16,11 +16,18 @@
       "I'm going to keep losing to her, aren't I?"
     ],
     "es": [
-      "�Estoy <w>MUUUUY</w> ocupada ahora mismo!",
+      "¡Estoy <w>MUUUUY</w> ocupada ahora mismo!",
       "...",
       "Venga...",
-      "<s>��UN SEIS?!</s>\nHa lanzado el dado y ha obtenido un <s>�SEIS?</s>\n<s>��OTRA VEZ?!</s>",
-      "No le voy a ganar nunca, �verdad?"
+      "<s>¡¿UN SEIS?!</s>\nHa lanzado el dado y ha obtenido un <s>¿SEIS?</s>\n<s>¡¿OTRA VEZ?!</s>",
+      "No le voy a ganar nunca, ¿verdad?"
+    ],
+    "pl": [
+      "Jestem teraz <w>STRAAASZNIE</w> zajęta!",
+      "...",
+      "No dawaj...",
+      "<s>SZÓSTKA?!</s>\nRzuciła kośćmi i dostała <s>SZÓSTKĘ?</s>\n<s>ZNOWU?!</s>",
+      "Wciąż będę z nią przegrywać, prawda?"
     ],
     "pt-BR": []
   },
@@ -28,6 +35,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
