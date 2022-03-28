@@ -17,11 +17,20 @@
       "<s>I'M A GENIUS!!!</s>",
       "Might go and make a start by sellin' drinks... Ya got any preferences, spectrum?"
     ],
+    "pl": [
+      "Ostatnio tak se myślałem, że...\nCornucopia potrzebuje restauracji!",
+      "Ciekawe czy dałoby się odremontować ten mały sklepik i zmienić go w coś takiego...",
+      "Chciałem zrobić coś, co byłoby też w jakiś sposób korzystne dla mojej córki <c=mocha>Mochy</c>.",
+      "Można by zrobić fajne połączenie z karczmą...",
+      "<s>JESTEM GENIUSZEM!!!</s>",
+      "Może zacznę od sprzedawania napojów... Masz może jakieś preferencje?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
