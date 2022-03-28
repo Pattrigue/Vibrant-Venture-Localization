@@ -11,11 +11,17 @@
       "<c=violastro>A stylish, purple sorcerer</c> flying around on a magic saucer who likes to steal shiny objects?",
       "This town never gets old, I swear."
     ],
+    "pl": [
+      "Naprawdę myślałem, że widziałem już wszystko, ale serio?"
+      "<c=violastro>Elegancko ubrany, fioletowy czarodziej</c> latający na magicznym spodku, który lubi błyskotki?"
+      "Serio, to miasteczko nigdy się nie starzeje."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
