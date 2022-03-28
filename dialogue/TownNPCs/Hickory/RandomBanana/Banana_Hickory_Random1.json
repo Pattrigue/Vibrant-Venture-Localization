@@ -9,6 +9,10 @@
       "Ya here for more tools, @CharacterName?",
       "I swear, ya do carry 'round a lotta things all the time. Don't 'cha get tired of that?"
     ],
+    "pl": [
+      "Przyszedłes po więcej narzędzi, @CharacterName?",
+      "Cały czas nosisz ze sobą strasznie dużo rzeczy. Nie męczy cię to?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -19,6 +23,10 @@
     "en": [
       "Not at all!",
       "Eh, sometimes..."
+    ],
+    "pl": [
+      "Ani odrobinę!",
+      "Eh, czasami..."
     ],
     "pt-BR": []
   }
