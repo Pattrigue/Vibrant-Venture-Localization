@@ -4,7 +4,7 @@
     <group id="9e5443f047cfedf40b6d1b5e55305dfb" name="Actions">
       <unit id="4532105216" name="Horizontal" xml:space="preserve">
         <segment>
-          <source>Move Horizontally (Control Stick)</source
+          <source>Move Horizontally (Control Stick)</source>
           <target>Bevæg horizontalt (Controller Stick)</target>
         </segment>
       </unit>
