@@ -13,11 +13,18 @@
       "<s>Purchasin' my upgrades, that's what!!!</s>",
       "Never said it'd be good for yer wallet..."
     ],
+    "pl": [
+      "Hehe, w sumie masz rację, to niezłe ćwiczenie.",
+      "Wiesz co jeszcze może być dla ciebie niezłym ćwiczeniem?",
+      "<s>Kupienie moich ulepszeń, oczywiście!!!</s>",
+      "Chociaż może nie tak dobrym dla Twojego portfela..."
+    ]
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
