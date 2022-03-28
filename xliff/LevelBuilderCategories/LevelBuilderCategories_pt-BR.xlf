@@ -3,59 +3,71 @@
   <file id="a4aa61cdcad857e4385d10dfd4ce50df" original="Assets/Localization/Tables/LevelBuilder/Categories/LevelBuilderCategories_pt-BR.asset">
     <group id="82f0a7cbef96c4649bb9d17b35c5622e" name="LevelBuilderCategories">
       <unit id="64753922048" name="AllCategory" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>All</source>
+          <target>Tudo</target>
         </segment>
       </unit>
       <unit id="608054702080" name="TilesCategory" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Tiles</source>
+          <target>Blocos</target>
         </segment>
       </unit>
       <unit id="650119376896" name="ObjectsCategory" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Objects</source>
+          <target>Objetos</target>
         </segment>
       </unit>
       <unit id="671409664000" name="EnemiesCategory" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Enemies</source>
+          <target>Inimigos</target>
         </segment>
       </unit>
       <unit id="697322074112" name="BackgroundCategory" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Background</source>
+          <target>Fundo</target>
         </segment>
       </unit>
       <unit id="726623481856" name="DecorationCategory" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Decoration</source>
+          <target>Decoração</target>
         </segment>
       </unit>
       <unit id="8292199985152" name="TilesCategorySearchKeywords" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Tile</source>
+          <target>Bloco</target>
         </segment>
       </unit>
       <unit id="8540053991424" name="ObjectsCategorySearchKeywords" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Object</source>
+          <target>Objeto</target>
         </segment>
       </unit>
       <unit id="8576242446336" name="EnemiesCategorySearchKeywords" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Enemy</source>
+          <target>Inimigo</target>
         </segment>
       </unit>
       <unit id="8624611160064" name="BackgroundCategorySearchKeywords" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Backgrounds</source>
+          <target>Fundos</target>
         </segment>
       </unit>
       <unit id="8664746455040" name="DecorationCategorySearchKeywords" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Decorations
 Foliage</source>
+          <target>Decorações
+Folhagem</target>
         </segment>
       </unit>
     </group>
