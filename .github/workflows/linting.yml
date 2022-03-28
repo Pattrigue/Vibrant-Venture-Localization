@@ -26,4 +26,4 @@ jobs:
       # uses: korelstar/xmllint-problem-matcher@v1
       uses: Pattrigue/xmllint-action@v1.1
       with:
-        xml-path: xmllint ./xliff/*/*.xlf --dropdt --noout
+        xml-path: ./xliff/*/*.xlf
