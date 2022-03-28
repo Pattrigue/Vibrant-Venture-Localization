@@ -28,6 +28,15 @@
       "<w>*sniff sniff*</w> Es algo de lo que estar muy orgulloso...",
       "Me encantaría visitarle, pero la posada está bastante lejos."
     ],
+    "pl": [
+      "Odwiedzaliście już może moją córkę <c=mocha>Moche?</c>?",
+      "Zajmuje się karczmą, którą sam wcześniej prowadziłem.",
+      "Robię się już za stary na taką robotę!",
+      "Będę z Tobą szczery, robi o wiele lepszą robotę niż ja robiłem w jej wieku.",
+      "W porównaniu z nią nie robie praktycznie nic!",
+      "<w>*sniff sniff*</w> Jest z czego być dumnym...",
+      "Gdybym tylko mógł ją łatwo odwiedzać, ale karczma jest dosyć daleko."
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -42,6 +51,10 @@
     "es": [
       "Tampoco está TAN lejos...",
       "Suena duro."
+    ],
+    "pl": [
+      "To nie AŻ TAK daleko...",
+      "Brzmi jak ciężka sprawa."
     ],
     "pt-BR": []
   }
