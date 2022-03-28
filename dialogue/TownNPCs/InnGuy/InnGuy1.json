@@ -11,11 +11,17 @@
       "She's busy all night and day taking care of the place, taking almost all tasks upon herself.",
       "I think she could really use a break."
     ],
+    "pl": [
+      "Właścicielka karczmy, <c=mocha>Mocha</c>, jest naprawdę oddana swojej pracy.",
+      "Jest zajęta całą noc i dzień zajmując się tym miejscem, biorąc prawie wszystkie zadania na siebie.",
+      "Myślę, że mogłaby czasami wziąć wolne."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
