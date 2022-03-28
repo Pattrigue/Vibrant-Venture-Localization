@@ -11,11 +11,17 @@
       "I know ya might not want 'ta add to its weight, but I think I might have some stuff that could ease the burden.",
       "Don't be shy, take a look 'round!"
     ],
+    "pl": [
+      "Bez żartów! Gdzie byś nie poszedł, masz ze sobą ten plecak!",
+      "Wiem, że raczej nie chcesz zwiększać jego wagi, ale myślę, że mogę mieć trochę rzeczy, dzięki którym wygodniej by się go nosiło.",
+      "Nie wstydź się, rozejrzyj się po sklepie!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
