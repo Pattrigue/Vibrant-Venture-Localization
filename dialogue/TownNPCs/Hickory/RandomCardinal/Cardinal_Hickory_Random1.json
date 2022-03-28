@@ -17,11 +17,20 @@
       "There's even one that makes up for when ya fall asleep out on the field.",
       "Now that's one I highly recommend to ya!"
     ],
+    "pl": [
+      "Znowu Cię zamroziło, @CharacterName? Masz zwyczaj spóźniania się, przy każdej okazji!",
+      "Jeśli chcesz być tak niezawodny jak mówiłeś, że chcesz...",
+      "to zaspanie w dniu, kiedy skradziono kryształy było nie najlepszym początkiem!",
+      "Wiesz co, synu? Mam trochę mocnych ulepszeń, które dałyby Ci to, czego Ci brakuje.",
+      "Jest nawet jedno, które Ci pomoże jak zaśniesz w terenie.",
+      "I to Ci szczerze polecam!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
