@@ -21,11 +21,22 @@
       "In any case, be sure to hold onto that thing. Y'all seem to be able to make good use of it!",
       "...When 're you gonna pay for that though?"
     ],
+    "pl": [
+      "Jak się wam trzyma ten pierścień?\nJak na razie całkiem nieźle, co?",
+      "Na śmierć zapomniałem skąd go wytrzasnąłem...",
+      "ale przysięgam, że sprzedawca powiedział mi, że jest jakoś połączony z kryształami.",
+      "Może jest zrobiony z tych samych materiałów?",
+      "Albo po prostu połączony z ich magicznymi właściwościami?",
+      "Nie mam zielonego pojęcia!\nCo o tym myślisz?",
+      "W każdym razie, trzymajcie go przy sobie. Wydaje mi się, że potraficie go dobrze wykorzystywać!",
+      "...Tylko kiedy za niego zapłacicie?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
