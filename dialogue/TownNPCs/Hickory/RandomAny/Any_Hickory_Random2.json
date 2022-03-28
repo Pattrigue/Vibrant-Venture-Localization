@@ -19,12 +19,19 @@
       "Bueno, no tenéis que comprar nada, ¿no?\n¡Perfecto! Pues hora de cerrar y visitar a mi cría.",
       "¡Apartaos, mozos!"
     ],
+    "pl": [
+      "<s>CO?!\nTo jest zaraz obok?!</s>",
+      "Masz rację!\nPrzenieśliśmy się do nowego budynku lata temu!",
+      "Nie musisz niczego kupować, prawda?\nŚwietnie! Skończę dziś wcześniej i odwiedzę swoją córkę.",
+      "Z drogi, ludzie!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
