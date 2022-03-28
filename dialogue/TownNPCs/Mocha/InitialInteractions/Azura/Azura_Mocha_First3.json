@@ -18,11 +18,21 @@
       "...First-aid's in the drawer on my left, if ya have any need for that...",
       "Because, ya know, your face is still a lil' red."
     ],
+    "es": [
+      "¿En serio? ¡No sabes cuánto me alegro! Eso significa que no me tengo que preocupar de que el número de reservas baje",
+      "Aunque no pareces muy segura... ¿Estás segura de que todo va bien, @CharacterName?",
+      "Caramba... En toda tu cara, eh... Veo lo que dices. Bueno, ¡mejor ser optimista!",
+      "Estáis todos trabajando duro para recuperar los cristales, ¿verdad?",
+      "Tu haz eso y yo me encargo de que tengas una habitación en la que alojarte.",
+      "...Tienes primeros auxilios en el cajón a mi izquierda, en el caso de que lo necesites...",
+      "Lo digo porque tu cara todavía esta algo roja."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

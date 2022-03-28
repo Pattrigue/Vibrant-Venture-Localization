@@ -13,6 +13,12 @@
       "...Wait, so you're not here for a reservation?",
       "Hey, aren't ya one of those vibrants that went after <c=violastro>that villain</c>?"
     ],
+    "es": [
+      "¡Te doy la bienvenida a la posada de Cornucopia!",
+      "Si estás buscando algún lugar en el que quedarte, ¡estás en el lugar apropiado!",
+      "...Vaya, ¿conqué no estás aquí para reservar una habitación?",
+      "Oye, ¿tú no eres uno de esos vibrantes que fue trás <c=violastro>ese villano</c>?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -23,6 +29,10 @@
     "en": [
       "Yes, but...",
       "Vibrants?"
+    ],
+    "es": [
+      "Sí, pero...",
+      "¿Vibrantes?"
     ],
     "pt-BR": []
   }

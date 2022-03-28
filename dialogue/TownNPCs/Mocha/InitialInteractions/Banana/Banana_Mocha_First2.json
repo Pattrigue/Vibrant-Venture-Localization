@@ -15,11 +15,19 @@
       "Am way too busy, after all...",
       "You got <c=azura>that bookworm</c> with ya too, so you'll be fine, <w>haha!</w>"
     ],
+    "es": [
+      "Conque ha escapado, eh... Un pueblo sumido en el caso no puede ser bueno para el negocio...",
+      "Oye, ¡no estés tan triste @CharacterName!",
+      "¡Estamos todos nosotros contando contigo! ¡Yo incluida!",
+      "Además es que estoy muy ocupada...",
+      "Está contigo <c=azura>esa chica tan inteligente</c> ¿no?\nPues estarás perfectamente, <w>¡jaja!</w>"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

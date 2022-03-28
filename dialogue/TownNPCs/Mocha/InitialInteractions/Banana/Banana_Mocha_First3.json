@@ -15,11 +15,19 @@
       "Am way too busy, after all...",
       "You got <c=azura>that bookworm</c> with ya too, so you'll be fine, <w>haha!</w>"
     ],
+    "es": [
+      "¿Cómo? ¿Por qué no?\n<c=violastro>Un ladronzuelo morado</c> roba los cristales, ¿y tú te quedas mirando?",
+      "Ah, te refieres a que se escapó, ¿no? Vale, ahora entiendo...",
+      "De todas maneras, asegurate de encontrar <c=violastro>a ese vellaco</c>!\nContamos todos contigo.",
+      "Además es que estoy muy ocupada...",
+      "Está contigo <c=azura>esa chica tan inteligente</c> ¿no?\nPues estarás perfectamente, <w>¡jaja!</w>"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

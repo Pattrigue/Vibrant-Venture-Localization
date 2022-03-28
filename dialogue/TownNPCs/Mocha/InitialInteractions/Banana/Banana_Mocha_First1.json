@@ -9,6 +9,10 @@
       "Welcome to Cornucopia's very own inn!",
       "Oh, where have I seen you before?\n@CharacterName, is it?\nDidn't you also chase after <c=violastro>that villain</c>?"
     ],
+    "es": [
+      "¡Bievenidos a la posada de Cornucopia!",
+      "Anda, ¿no te he visto antes?\n@CharacterName, ¿verdad?\nTu también estuviste persiguiendo a <c=violastro>ese villano</c> ¿no?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -19,6 +23,10 @@
     "en": [
       "I did, but...",
       "I didn't."
+    ],
+    "es": [
+      "Sí, pero...",
+      "Que va."
     ],
     "pt-BR": []
   }
