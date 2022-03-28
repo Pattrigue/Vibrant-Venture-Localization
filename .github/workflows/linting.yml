@@ -24,6 +24,6 @@ jobs:
       uses: actions/checkout@master
     - name: Lint path
       # uses: korelstar/xmllint-problem-matcher@v1
-      uses: Pattrigue/xmllint-action@v1.1
+      uses: Pattrigue/xmllint-action@v1.2
       with:
         xml-path: ./xliff/*/*.xlf
