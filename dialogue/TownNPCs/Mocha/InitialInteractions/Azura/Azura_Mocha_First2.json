@@ -14,11 +14,18 @@
       "Screw it, I got nothin'.\nAm way too busy!",
       "I'll just make sure no one takes ya room in the meantime."
     ],
+    "es": [
+      "Vaya, con que se marchó... Un pueblo sumido en el caos no puede ser bueno para mis reservas...",
+      "¡Pero no te preocupes, @CharacterName! ¡Has hecho miles de misiones todavía más peligrosas que esta, estoy segura! Por ejemplo... Ehh... <w>Hmmm...</w>",
+      "Bueno, ¡yo qué sé!'.\n¡Estoy muy ocupada!",
+      "Me aseguraré de que nadie entre en tu habitación mientras tanto.."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

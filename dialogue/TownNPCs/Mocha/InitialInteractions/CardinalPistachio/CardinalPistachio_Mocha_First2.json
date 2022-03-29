@@ -13,11 +13,18 @@
       "...",
       "Ya sure you're not here for a reservation?"
     ],
+    "es": [
+      "Conque ha escapado, eh... Un pueblo sumido en el caso no puede ser bueno para el negocio...",
+      "¡Haced todo lo qué podáis para recuperar los cristales!\nYo estoy muy ocupada...",
+      "...",
+      "¿Seguro de que no estás aquí para hacer una reserva?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
