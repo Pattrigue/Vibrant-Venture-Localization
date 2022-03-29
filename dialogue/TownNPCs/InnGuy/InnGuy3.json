@@ -11,11 +11,17 @@
       "This means that pumpkins are in season!",
       "Doesn't that mean... they're ALWAYS in season?!\nStill need to get used to that one..."
     ],
+    "es": [
+      "Al parecer, en la región de Forever Fall Forest sólo hay otoño.",
+      "¡Lo cuál significa que las calabazas siempre están de temporada!",
+      "Ahora que lo pienso...¡¿SIEMPRE están en temporada?!\nAlgo me dice que me voy a tener que acostumbrar..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

@@ -11,11 +11,17 @@
       "<c=violastro>A stylish, purple sorcerer</c> flying around on a magic saucer who likes to steal shiny objects?",
       "This town never gets old, I swear."
     ],
+    "es": [
+      "Pensaba que lo había visto todo en esta vida, pero lo de hoy...",
+      "¿<c=violastro>Un brujo morado a la moda</c>, volando por el poblado con un OVNI mágico, al qué le gusta robar objetos brillantes?",
+      "No acaban las sorpresas en este pueblo."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
