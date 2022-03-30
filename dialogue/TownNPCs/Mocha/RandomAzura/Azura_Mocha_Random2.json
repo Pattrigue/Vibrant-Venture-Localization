@@ -9,6 +9,10 @@
       "Hmmmm...\n....\nSay, @CharacterName...",
       "I've been wonderin' for a while now, but what do you look like without ya glasses on, hm?"
     ],
+    "es": [
+      "Hmmm...\n....\nOye, @CharacterName...",
+      "Llevo tiempo preguntándomelo, ¿puedo verte la cara sin esas gafas puestas?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -19,6 +23,10 @@
     "en": [
       "Um, I...",
       "L-Like this?"
+    ],
+    "es": [
+      "Eh, pues...",
+      "¿A- así?"
     ],
     "pt-BR": []
   }
