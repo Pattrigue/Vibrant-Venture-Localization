@@ -14,11 +14,18 @@
       "Honestly, @CharacterName, ya look great regardless of whether or not you wear them.",
       "Ah, gotta take this call.\n-- Cornucopia Inn, Mocha speaking.\nHow may I help you?"
     ],
+    "es": [
+      "...\n...\n<s>¡¡¡JAJAJA!!!</s> ¡No esperaba para nada eso!",
+      "Jajaja, ay...\nPuedes ponértelas de vuelta...",
+      "Sinceramente, @CharacterName, estás genial con o sin ellas.",
+      "Vaya, tengo que coger esta llamada.\n-- Posada de Cornucopia.\n¿En qué puedo ayudarle?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
