@@ -133,6 +133,11 @@
           <source>Language:</source>
         </segment>
       </unit>
+      <unit id="12951085167833088" name="JoystickDeadzoneLabel" xml:space="preserve">
+        <segment>
+          <source>Joystick deadzone:</source>
+        </segment>
+      </unit>
     </group>
   </file>
 </xliff>
