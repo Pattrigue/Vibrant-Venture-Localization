@@ -16,7 +16,11 @@
       "¡<c=pistachio>Mi hermana</c> está allí!\n¡¿En qué se ha metido esta vez?!",
       "Le decimos constantemente que aventurarse allí fuera es peligroso..."
     ],
-    "pt-BR": []
+    "pt-BR": [
+      "Você escutou aquela explosão gigantesca?\nEla veio do templo!",
+      "<c=pistachio>Minha irmã</c> está por lá!\nEm que ela se meteu dessa vez?!",
+      "Sempre dissemos que se aventurar era uma má ideia..."
+    ]
   },
   "Responses": {
     "da": [],
