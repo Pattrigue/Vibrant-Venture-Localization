@@ -8,16 +8,23 @@
       "Jeg sagde aldrig, det ville være sundt for din tegnebog..."
     ],
     "en": [
-      "Hehe, you're right, it is good excercise.",
-      "Ya know what else may be good excercise for ya?",
+      "Hehe, you're right, it is good exercise.",
+      "Ya know what else may be good exercise for ya?",
       "<s>Purchasin' my upgrades, that's what!!!</s>",
       "Never said it'd be good for yer wallet..."
+    ],
+    "es": [
+      "Jojo, tienes razón, es un buen ejercicio.",
+      "¿Sabes qué otra cosa puede ser un buen ejercicio para ti?",
+      "<s>¡¡¡Comprar mis herramientas, recórcholis!!!</s>",
+      "Nunca dijé que sería bueno para tu cartera..."
     ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

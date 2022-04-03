@@ -10,6 +10,9 @@
     "es": [
       "¿Pero qué haces viniendo a hablar conmigo?\n¡Métete allí dentro y ayuda a los demás!"
     ],
+    "pl": [
+      "Co tak stoisz i ze mną rozmawiasz?\nWchodź tam i pomóż reszcie!"
+    ],
     "pt-BR": [
       "O que você está fazendo parado aí falando comigo?\nEntre lá e ajude os outros!"
     ]
@@ -18,6 +21,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

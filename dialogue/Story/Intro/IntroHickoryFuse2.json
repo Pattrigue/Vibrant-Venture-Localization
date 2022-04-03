@@ -10,6 +10,9 @@
     "es": [
       "¡Más te vale tratarlo bien!\n¡Ese anillo es más antiguo que mi abuela!\n¡Ahora ve, rápido!"
     ],
+    "pl": [
+      "Ale bądźcie z tym ostrożni!\nTo straszny staroć!\nTeraz ruszajcie!"
+    ],
     "pt-BR": [
       "Mas toma cuidado com isso!\n Essa tralha é um fóssil!\nAgora cai fora!"
     ]
@@ -18,6 +21,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

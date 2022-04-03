@@ -3,93 +3,111 @@
   <file id="dc0bb9e63dcac2147bf9e3f8aa831a2d" original="Assets/Localization/Tables/LevelBuilder/Objects/LevelBuilderObjects_pt-BR.asset">
     <group id="cdcdfc51b6ebde246aa6ccb43b4a2608" name="LevelBuilderObjects">
       <unit id="5396131840" name="BreakableRock" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Breakable Rock</source>
+          <target>Pedra Quebrável</target>
         </segment>
       </unit>
       <unit id="102687207424" name="Checkpoint" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Checkpoint</source>
+          <target>Ponto de Renascimento</target>
         </segment>
       </unit>
       <unit id="136795287552" name="FairyBottle" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Fairy Bottle</source>
+          <target>Garrafa de Fada</target>
         </segment>
       </unit>
       <unit id="167304654848" name="Gem" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Gem</source>
+          <target>Gema</target>
         </segment>
       </unit>
       <unit id="178637664256" name="GoalBalloon" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Goal Balloon</source>
+          <target>Balão de Chegada</target>
         </segment>
       </unit>
       <unit id="193087041536" name="PowerFruit" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Power Fruit</source>
+          <target>Fruta do Poder</target>
         </segment>
       </unit>
       <unit id="208303976448" name="SpawnPoint" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Spawn Point</source>
+          <target>Ponto de Nascimento</target>
         </segment>
       </unit>
       <unit id="580695257088" name="TallGrass" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Tall Grass</source>
+          <target>Grama Alta</target>
         </segment>
       </unit>
       <unit id="598323916800" name="ShortGrass" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Short Grass</source>
+          <target>Grama Curta</target>
         </segment>
       </unit>
       <unit id="723117043712" name="YellowFlower" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Yellow Flower</source>
+          <target>Flor Amarela</target>
         </segment>
       </unit>
       <unit id="745715953664" name="OrangeFlower" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Orange Flower</source>
+          <target>Flor Laranja</target>
         </segment>
       </unit>
       <unit id="759234195456" name="RedFlower" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Red Flower</source>
+          <target>Flor Vermelha</target>
         </segment>
       </unit>
       <unit id="786895630336" name="BlueFlower" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Blue Flower</source>
+          <target>Flor Azul</target>
         </segment>
       </unit>
       <unit id="804897583104" name="GreenFlower" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Green Flower</source>
+          <target>Flor Verde</target>
         </segment>
       </unit>
       <unit id="1007230808064" name="Leafly" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Leafly</source>
+          <target>Leafly</target>
         </segment>
       </unit>
       <unit id="1008396824576" name="Seedle" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Seedle</source>
+          <target>Seedle</target>
         </segment>
       </unit>
       <unit id="1009051136000" name="SeedleSpawner" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Seedle Bush</source>
+          <target>Arbusto do Seedle</target>
         </segment>
       </unit>
       <unit id="1010099712000" name="Spewshroom" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Spewshroom</source>
+          <target>Cogumelospew</target>
         </segment>
       </unit>
     </group>

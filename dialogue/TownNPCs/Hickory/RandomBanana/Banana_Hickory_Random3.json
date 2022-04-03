@@ -11,11 +11,17 @@
       "I know ya might not want 'ta add to its weight, but I think I might have some stuff that could ease the burden.",
       "Don't be shy, take a look 'round!"
     ],
+    "es": [
+      "¡Caramba! Adonde sea que vayas, ¡siempre estás cargando con esa mochila!",
+      "Seguramente no queráis añadir más peso, pero tengo un par de cosas que os pueden venir muy bien.",
+      "¡No seáis tímidos! Mirad a ver que os gusta."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

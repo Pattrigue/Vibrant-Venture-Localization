@@ -8,7 +8,10 @@
       "THE TEMPLE IS UNDER ATTACK!"
     ],
     "es": [
-      "��EST�N ATACANDO EL TEMPLO!!"
+      "¡¡ESTÁN ATACANDO EL TEMPLO!!"
+    ],
+    "pl": [
+      "ŚWIĄTYNIA JEST ATAKOWANA!"
     ],
     "pt-BR": [
       "O TEMPLO ESTÁ SOB ATAQUE!"
@@ -18,6 +21,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

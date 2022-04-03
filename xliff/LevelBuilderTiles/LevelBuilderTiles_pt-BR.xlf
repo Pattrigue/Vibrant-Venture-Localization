@@ -3,43 +3,51 @@
   <file id="28b2ff9c70ce7b14cb3c841adef86271" original="Assets/Localization/Tables/LevelBuilder/Tiles/LevelBuilderTiles_pt-BR.asset">
     <group id="b2d8553c66f1300409d25553d10a29e2" name="LevelBuilderTiles">
       <unit id="8457973760" name="BrachinGoo" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Brachin Goo</source>
+          <target>Gosma Brachin</target>
         </segment>
       </unit>
       <unit id="81120096256" name="Grass" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Grass</source>
+          <target>Grama</target>
         </segment>
       </unit>
       <unit id="93895946240" name="StoneBackground" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Stone Background</source>
+          <target>Fundo de Pedregulho</target>
         </segment>
       </unit>
       <unit id="106520801280" name="Platform" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Platform</source>
+          <target>Plataforma</target>
         </segment>
       </unit>
       <unit id="138594643968" name="Stone" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Stone</source>
+          <target>Pedra</target>
         </segment>
       </unit>
       <unit id="211890106368" name="StoneGreen" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Green Stone</source>
+          <target>Pedra Verde</target>
         </segment>
       </unit>
       <unit id="231217459200" name="Wood" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Wood</source>
+          <target>Madeira</target>
         </segment>
       </unit>
       <unit id="238280667136" name="WoodBackground" xml:space="preserve">
-        <segment>
+        <segment state="translated">
           <source>Wood Background</source>
+          <target>Fundo de Madeira</target>
         </segment>
       </unit>
     </group>

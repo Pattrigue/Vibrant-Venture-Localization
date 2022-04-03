@@ -10,6 +10,9 @@
     "es": [
       "¡Intentad detenerme si podéis!"
     ],
+    "pl": [
+      "Tylko spróbujcie mnie powstrzymać!"
+    ],
     "pt-BR": [
       "Só tente me parar!"
     ]
@@ -18,6 +21,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

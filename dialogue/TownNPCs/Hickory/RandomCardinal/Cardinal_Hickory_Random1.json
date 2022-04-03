@@ -17,11 +17,20 @@
       "There's even one that makes up for when ya fall asleep out on the field.",
       "Now that's one I highly recommend to ya!"
     ],
+    "es": [
+      "¿Otra vez holgazaneando, @CharacterName? ¡Últimamente te estás acostumbrando a llegar tarde!",
+      "Si de veras quieres llegar a ser tan fidedigno como mencionaste...",
+      "¡quedarse dormido justo el día que roban los cristales es un mal comienzo!",
+      "Escúchame hijo, tengo algunas herramientas y mejoras que te van a ser extremadamente útiles.",
+      "Tengo hasta una que te vendrá bien cuando te quedes dormido en el campo.",
+      "¡Esa si que es útil!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

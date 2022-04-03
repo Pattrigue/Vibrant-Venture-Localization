@@ -21,11 +21,22 @@
       "In any case, be sure to hold onto that thing. Y'all seem to be able to make good use of it!",
       "...When 're you gonna pay for that though?"
     ],
+    "es": [
+      "¿Cómo te va quedando ese anillo?\nNo te queda nada mal.",
+      "La verdad que ni me acuerdo de donde saqué esa antigualla...",
+      "aunque diría que el vendedor del anillo me dijo que estaba conectado a los cristales de alguna manera.",
+      "¿Estará hecho del mismo material que los cristales?",
+      "¿O igual está imbuido con sus propiedades mágicas?",
+      "¡No tengo ni idea!\n¿Y tú? ¿Tú que crees?",
+      "En fin... Aseguraos de guardar bien esa cosa. ¡Si no me equivoco, lo estáis usando bastante bien!",
+      "A todo esto... ¿cuando pensáis pagar por ello?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

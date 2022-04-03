@@ -9,11 +9,16 @@
       "<s>WHAT ARE YOU DOING?!</s>",
       "Get off me counter this instant!\n<w>I just had it cleaned...</w>"
     ],
+    "es": [
+      "<s>¡¿QUÉ TE CREES QUE ESTÁS HACIENDO?!</s>",
+      "¡Bajad de la mesa!\n<w>La acabo de limpiar...</w>"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
