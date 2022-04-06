@@ -9,6 +9,10 @@
       "Hey, @CharacterName.\nI heard about what happened from <c=hickory>Hickory</c>.",
       "How are you and <c=pistachio>my little sister</c> doing?"
     ],
+    "es": [
+      "Oye, @CharacterName.\nHe oído lo que pasó por <c=hickory>Hickory</c>.",
+      "¿Cómo estáis tu y <c=pistachio>mi hermana</c>?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -19,6 +23,10 @@
     "en": [
       "I'm fine! She's...",
       "Me and who?"
+    ],
+    "es": [
+      "¡Estoy bien! Ella...",
+      "¿Yo y Pis-qué?"
     ],
     "pt-BR": []
   }

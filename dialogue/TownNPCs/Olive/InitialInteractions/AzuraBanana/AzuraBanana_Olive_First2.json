@@ -17,11 +17,20 @@
       "I'm glad you are all okay. I don't know what I'd do if something were to happen to <c=pistachio>my little sister</c>...",
       "Please be careful on your adventures!"
     ],
+    "es": [
+      "¿No te acuerdas? Eh, es normal. Nunca hemos hablado directamente.",
+      "Me llamo <c=pistachio>Olive</c>. Soy la hermana mayor de <c=pistachio>Pistachio</c>.",
+      "He oído que intentasteis proteger los cristales... pero <c=violastro>ese vellaco</c> se escapó, ¿no?",
+      "Quería ver como le iba a <c=pistachio>mi hermanita</c>, pero me acabé encontrando con <c=131,42,13>Hickory</c>, que me contó todo lo que ocurrió.",
+      "Me alegro de que estéis todos bien. No sé que haría si algo le pasase a <c=pistachio>mi hermana pequeña</c>...",
+      "¡Tened cuidado en vuestras aventuras!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

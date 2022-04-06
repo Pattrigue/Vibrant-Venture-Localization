@@ -7,6 +7,9 @@
     "en": [
       "Oh, hello.\nI'm sure we've met before, haven't we?"
     ],
+    "es": [
+      "Ah, hola.\n¿No nos hemos visto antes en alguna parte?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -17,6 +20,10 @@
     "en": [
       "Have we?",
       "We have!"
+    ],
+    "es": [
+      "¿Quizás?",
+      "¡Eso es!"
     ],
     "pt-BR": []
   }
