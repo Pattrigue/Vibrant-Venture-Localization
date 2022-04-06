@@ -19,11 +19,21 @@
       "You're welcome anytime, @CharacterName.",
       "Might even give ya a bargain if ya decide to rent a room now..."
     ],
+    "es": [
+      "Antes de que mi padre Hickory me diese esta posada...",
+      "Me costaba mucho hablar con los clientes cuando ayudaba en la posada.",
+      "Aprender a hablar educadamente independientemente del momento...",
+      "¡pero después de mucho tiempo, conseguí acostumbrarme!",
+      "Aunque con vosotros puedo hablar libremente, y eso es muy liberador.",
+      "Así que pásate por aquí cuando quieras, @CharacterName.",
+      "Podría hasta darte algún descuento si decides alquilar un cuarto..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
