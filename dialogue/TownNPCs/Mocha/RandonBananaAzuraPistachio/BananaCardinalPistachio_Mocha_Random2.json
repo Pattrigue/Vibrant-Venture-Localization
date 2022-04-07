@@ -2,7 +2,7 @@
   "DialogueId": "BananaCardinalPistachio_Mocha_Random2",
   "Dialogue": {
     "da": [
-      "Før jeg arvede denne kro fra min far, Hickory...",
+      "Før jeg arvede denne kro fra min far, <c=hickory>Hickory...</c>",
       "havde jeg mange problemer med at tale med kunder, når jeg hjalp ham i Kroen.",
       "Det var svært at lære at tale høfligt og uden accent til nye kunder...",
       "men jeg fik styr på det efter noget tid!",
@@ -11,7 +11,7 @@
       "Måske giver jeg dig endda et tilbud, hvis du beslutter dig for at leje et værelse nu..."
     ],
     "en": [
-      "Before I inherited this inn from my father, Hickory...",
+      "Before I inherited this inn from my father, <c=hickory>Hickory</c>...",
       "I had a lotta trouble speakin' with customers when I was helpin' him out around the Inn.",
       "Learnin' to speak politely and without accent to new customers was difficult...",
       "but I got the hang of it after some time!",
@@ -20,7 +20,7 @@
       "Might even give ya a bargain if ya decide to rent a room now..."
     ],
     "es": [
-      "Antes de que mi padre Hickory me diese esta posada...",
+      "Antes de que mi padre <c=hickory>Hickory</c> me diese esta posada...",
       "Me costaba mucho hablar con los clientes cuando ayudaba en la posada.",
       "Aprender a hablar educadamente independientemente del momento...",
       "¡pero después de mucho tiempo, conseguí acostumbrarme!",
