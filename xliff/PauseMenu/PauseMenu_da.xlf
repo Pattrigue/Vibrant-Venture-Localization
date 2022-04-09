@@ -47,7 +47,7 @@
       <unit id="6257312428032" name="ReturnToEditor" xml:space="preserve">
         <segment>
           <source>Return to Editor</source>
-          <target>Tilbage til Editor</target>
+          <target>Tilbage til Banebyggeren</target>
         </segment>
       </unit>
       <unit id="6677619437568" name="QuitToTitle" xml:space="preserve">
