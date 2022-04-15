@@ -14,12 +14,17 @@
       "¿Pero que tenemos aquí? ¡Un grupito de aventureros!",
       "¡Estoy currandome las cosas para que esto sea más divertido para todos nosotros!\n¡Vuestro día a día necesita un poco más de chispa!"
     ],
+    "pl": [
+      "Patrzcie, oto nasi bohaterowie!",
+      "Postaram się, abyśmy wszyscy mieli niezły ubaw!\nTrzeba trochę podrasować tą waszą rzeczywistość!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

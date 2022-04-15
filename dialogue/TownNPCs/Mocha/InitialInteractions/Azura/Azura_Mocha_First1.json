@@ -9,6 +9,10 @@
       "Welcome to Cornucopia's very own inn!",
       "Oh, that you, @CharacterName?\nDid ya manage to do somethin' about <c=violastro>that\nvillain</c>?"
     ],
+    "es": [
+      "¡Bienvenidos a la posada de Cornucopia!",
+      "Anda, ¡pero si eres, @CharacterName!\nConseguiste hacer algo sobre <c=violastro>ese\nvillano</c>?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -19,6 +23,10 @@
     "en": [
       "He got away...",
       "Y-Yes, of course!"
+    ],
+    "es": [
+      "Se escapó...",
+      "¡S-Sí, claro!"
     ],
     "pt-BR": []
   }
