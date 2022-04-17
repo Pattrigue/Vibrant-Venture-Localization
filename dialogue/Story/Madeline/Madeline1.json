@@ -13,6 +13,10 @@
       "¡Espectacular!\nHabéis llegado justo a tiempo para el show...",
       "¡Probad un poco del poder de los cristales!"
     ],
+    "pl": [
+      "Wspaniale! Zdążyliście w samą porę na przedstawienie...",
+      "Oto mały pokaz mocy kryształów!"
+    ],
     "pt-BR": [
       "Espetacular!\nVocês chegaram bem a tempo para o show...",
       "Aqui está um gostinho do poder dos cristais!"
@@ -22,6 +26,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

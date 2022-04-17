@@ -10,6 +10,9 @@
     "es": [
       "<w>Bwajaja!</w>\n¡Ha llegado la hora de vuestro acto final!"
     ],
+    "pl": [
+      "<w>Błahaha!</w>\nTo już chyba koniec naszego przedstawienia!"
+    ],
     "pt-BR": [
       "<w>Bwahaha!</w>\nAcho que este será seu ato final!"
     ]
@@ -18,6 +21,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
