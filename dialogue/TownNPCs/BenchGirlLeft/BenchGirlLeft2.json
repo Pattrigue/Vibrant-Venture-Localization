@@ -18,6 +18,12 @@
       "¡Pero también creo que la ciudad en sí es muy divertida!",
       "Creo que no hay nada mejor que relajarse mientras hablo y juego con mi amiga.",
       "¡Además, podemos quedarnos hasta tarde jugando a juegos puesto que estamos al lado de casa!"
+    ],    
+    "pl": [
+      "Opuszczenie miasteczka i zwiedzanie lasów i innych miejsc brzmi jak niezła zabawa.",
+      "Ale myślę, że w tym miasteczku też można się nieźle bawić!",
+      "Nie wydaje mi się, żeby było coś lepszego niż rozmowy i gry z moją przyjaciółką, blisko domu.",
+      "Dzięki temu możemy nie spać i grać w gry do późna, bo nie musimy iść daleko do swoich domów!"
     ],
     "pt-BR": []
   },
@@ -25,6 +31,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
