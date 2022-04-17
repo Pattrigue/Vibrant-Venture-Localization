@@ -25,12 +25,21 @@
       "...",
       "De todas maneras, no puedes..."
     ],
+    "pl": [
+      "S-Słyszałeś?n\Mówią, że stara wieża zegarowa jest...",
+      "<s>NAWIEDZONA!</s>",
+      "<w>Eeeek!</w>\nNigdy tam nie pójdę, nie ma mowy!",
+      "I ty też nie powinieneś!",
+      "...",
+      "Znaczy gdybyś w ogóle mógł..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
