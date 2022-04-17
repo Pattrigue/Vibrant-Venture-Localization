@@ -3,73 +3,73 @@
   <file id="e62ed8d6b4ba00140bec180fb449aff3" original="Assets/Localization/Tables/LevelBuilder/UI/LevelBuilderUI_pt-BR.asset">
     <group id="4b25e88485330e745ae04686fdccfc74" name="LevelBuilderUI">
       <unit id="5287079936" name="CreateNewLevel" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Create New Level</source>
           <target>Criar Novo Nível</target>
         </segment>
       </unit>
       <unit id="61272649728" name="DeleteLevel" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Delete</source>
           <target>Deletar</target>
         </segment>
       </unit>
       <unit id="121997783040" name="EditLevel" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Edit</source>
           <target>Editar</target>
         </segment>
       </unit>
       <unit id="143506173952" name="PlayLevel" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Play</source>
           <target>Jogar</target>
         </segment>
       </unit>
       <unit id="208547246080" name="RefreshLevels" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Refresh</source>
           <target>Recarregar</target>
         </segment>
       </unit>
       <unit id="1572224528384" name="RenameLevel" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Rename</source>
           <target>Renomear</target>
         </segment>
       </unit>
       <unit id="1589756719104" name="UploadLevel" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Upload</source>
           <target>Enviar</target>
         </segment>
       </unit>
       <unit id="2179488444416" name="LevelThemeTitle" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Level Theme</source>
           <target>Tema do Nível</target>
         </segment>
       </unit>
       <unit id="14355729117184" name="WorldLabel" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>World {0}</source>
           <target>Mundo {0}</target>
         </segment>
       </unit>
       <unit id="1066280792780800" name="DeleteLevelPromptText" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Are you sure you want to delete "{0}"?</source>
           <target>Você tem certeza que deseja deletar "{0}"?</target>
         </segment>
       </unit>
       <unit id="1066330126184448" name="RenameLevelPromptText" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Enter the new name:</source>
           <target>Entre o novo nome:</target>
         </segment>
       </unit>
       <unit id="1066360367116288" name="LevelAlreadyExistsReplacePromptText" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>A level with that name already exists.
 Overwrite?</source>
           <target>Um nível com esse nome já existe.
@@ -77,19 +77,19 @@ Substituir?</target>
         </segment>
       </unit>
       <unit id="1066386631847936" name="SaveChangesPromptText" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Save changes made to the current level?</source>
           <target>Salvar alterações feitas para esse nível?</target>
         </segment>
       </unit>
       <unit id="1068651023331328" name="EnterLevelNamePromptText" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Enter the level name:</source>
           <target>Entre o nome do nível:</target>
         </segment>
       </unit>
       <unit id="1068685802500096" name="LevelSavedPromptText" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Saved level:
 "{0}"!</source>
           <target>Nível salvo:
@@ -97,7 +97,7 @@ Substituir?</target>
         </segment>
       </unit>
       <unit id="1070630109868032" name="ExitLevelBuilderPromptText" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>Exit the Level Builder?
 Unsaved changes will be lost!</source>
           <target>Sair do Criador de Níveis?
@@ -105,7 +105,7 @@ Alterações não salvas serão perdidas!</target>
         </segment>
       </unit>
       <unit id="1077353931501568" name="MadeBy" xml:space="preserve">
-        <segment state="translated">
+        <segment>
           <source>by {0}</source>
           <target>por {0}</target>
         </segment>
