@@ -62,6 +62,12 @@
           <target>Good job!</target>
         </segment>
       </unit>
+      <unit id="13675434845827072" name="CloseInputPromptText" xml:space="preserve">
+        <segment>
+          <source>Press {0} to close</source>
+          <target>Press {0} to close</target>
+        </segment>
+      </unit>
     </group>
   </file>
 </xliff>

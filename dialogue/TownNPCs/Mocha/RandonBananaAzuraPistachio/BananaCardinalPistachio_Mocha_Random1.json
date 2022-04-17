@@ -19,11 +19,22 @@
       "Once again my apologies --\nAh, he hung up.",
       "Am sorry ya had to listen to that..."
     ],
+    "es": [
+      "...Posada Cornucopia, está hablando con Mocha.\n¿Cómo puedo ayudarle?",
+      "-- Disculpa, @CharacterName, tengo que cogerlo. --",
+      "¿C- Cómo? ¿Un ratón no es lo mismo que una rata?",
+      "No sabe cuánto siento haber mezclado las dos cosas.",
+      "¿Que va a romper qué?\nLe ruego que no hable así, por favor.",
+      "De nuevo permítame disculparm --\nVaya, ha colgado.",
+      "Siento que hayas tenido que escuchar eso..."
+    ],
+
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

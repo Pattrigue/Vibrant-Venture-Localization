@@ -21,7 +21,11 @@
       "<c=pistachio>Moja siostra</c> tam jest!\nW co ona się znowu wpakowała?!",
       "Zawsze jej mówiliśmy, że poszukiwanie przygód to zły pomysł..."
     ],
-    "pt-BR": []
+    "pt-BR": [
+      "Você escutou aquela explosão gigantesca?\nEla veio do templo!",
+      "<c=pistachio>Minha irmã</c> está por lá!\nEm que ela se meteu dessa vez?!",
+      "Sempre dissemos que se aventurar era uma má ideia..."
+    ]
   },
   "Responses": {
     "da": [],

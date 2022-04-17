@@ -160,6 +160,12 @@
           <target>Sprog:</target>
         </segment>
       </unit>
+      <unit id="12951085167833088" name="JoystickDeadzoneLabel" xml:space="preserve">
+        <segment>
+          <source>Joystick deadzone:</source>
+          <target>Joystick dødszone:</target>
+        </segment>
+      </unit>
     </group>
   </file>
 </xliff>

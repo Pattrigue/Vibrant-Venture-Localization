@@ -15,11 +15,19 @@
       "There's nothin' here that I don't know!",
       "<w>Whoopsee,</w> gotta get back to work."
     ],
+    "es": [
+      "Oye, @CharacterName...\n Yo que tú empezaría a cerrar la puerta de tu cuarto.",
+      "Podría haber gente que empieza a rebuscar entre tus cosas y encontrar ese libro lleno de información que estás escribiendo.",
+      "¡Sip! Eso es, sé lo de tu libro.\n¡Soy la posadera!",
+      "¡No hay nada que yo no sepa!",
+      "<w>Ehhh,</w> debería de volver al trabajo."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
