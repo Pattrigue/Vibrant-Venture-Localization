@@ -17,12 +17,18 @@
       "Pero hablar con el es agotador... Aunque después de hablar con él un buen rato, ¡al parecer también vende juegos!",
       "Me pregunto que otras cosas venderá..."
     ],
+    "pl": [
+      "Uwielbiam odwiedzać sklep Hickory'ego.",
+      "Rozmowa z nim jest wyczerpująca... Ale po tym jak z nim trochę pogadałam, dowiedziałam się, że sprzedaje też gry!",
+      "Ciekawe jakie jeszcze rzeczy sprzedaje..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
