@@ -10,8 +10,8 @@
       "How are you and <c=pistachio>my little sister</c> doing?"
     ],
     "es": [
-      "Oye, @CharacterName.\nHe oído lo que pasó por <c=hickory>Hickory</c>.",
-      "¿Cómo estáis tu y <c=pistachio>mi hermana</c>?"
+      "Oye, @CharacterName.\n<c=hickory>Hickory</c> me ha contado lo que pasó...",
+      "¿Cómo estáis <c=pistachio>mi hermana</c> y tú?"
     ],
     "pt-BR": []
   },
@@ -26,7 +26,7 @@
     ],
     "es": [
       "¡Estoy bien! Ella...",
-      "¿Yo y Pis-qué?"
+      "¿Yo y quién?"
     ],
     "pt-BR": []
   }
