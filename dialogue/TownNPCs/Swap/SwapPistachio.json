@@ -7,6 +7,9 @@
     "en": [
       "(Swap to <c=pistachio>Pistachio</c>?)"
     ],
+    "pl": [
+      "(Zamienić się w <c=pistachio>Pistachio</c>?)"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -17,6 +20,10 @@
     "en": [
       "Yes",
       "No"
+    ],
+    "pl": [
+      "Tak",
+      "Nie"
     ],
     "pt-BR": []
   }
