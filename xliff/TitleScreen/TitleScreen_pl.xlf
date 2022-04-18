@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pl" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="dd985fda3307b6542a27416dcf3221da" original="Assets/Localization/Tables/TitleScreen/TitleScreen_en.asset">
+    <group id="2bbe88cb5f8ad444f91242e9da74c6c1" name="TitleScreen">
+      <unit id="14816538624" name="PressAnyButton" xml:space="preserve">
+        <segment state="translated">
+          <source>- Press any button -</source>
+          <target>- Kliknij jakikolwiek przycisk -</target>
+        </segment>
+      </unit>
+      <unit id="472389939200" name="EmptySaveFile" xml:space="preserve">
+        <segment state="translated">
+          <source>Empty</source>
+          <target>Pusto</target>
+        </segment>
+      </unit>
+      <unit id="551238660096" name="SaveFileTitle" xml:space="preserve">
+        <segment state="translated">
+          <source>File {0} - {1}%</source>
+          <target>Zapis {0} - {1}%</target>
+        </segment>
+      </unit>
+      <unit id="2628513853440" name="DeletePrompt" xml:space="preserve">
+        <segment state="translated">
+          <source>Are you sure you want to delete this save file?
+It will be gone forever!</source>
+          <target>Czy na pewno chcesz usunąć ten zapis?
+Stracisz go na zawsze!</target>
+        </segment>
+      </unit>
+      <unit id="2849096495104" name="InsufficientPermissions" xml:space="preserve">
+        <segment state="translated">
+          <source>Insufficient user permissions.
+Could not erase file.</source>
+          <target>Niewystarczające uprawnienia użytkownika.
+Nie można usunąć zapisu.</target>
+        </segment>
+      </unit>
+      <unit id="4340830072832" name="EraseFile" xml:space="preserve">
+        <segment state="translated">
+          <source>Erase File</source>
+          <target>Wyczyść Zapis</target>
+        </segment>
+      </unit>
+      <unit id="5361291653120" name="Credits1" xml:space="preserve">
+        <segment state="translated">
+          <source>LEAD DEVELOPER
+&lt;color=#436187&gt;Patrick Frostholm Østergaard&lt;/color&gt;
+
+LEVEL DESIGN
+&lt;color=#436187&gt;Erion Marku&lt;/color&gt;
+&lt;color=#436187&gt;Nicholas White&lt;/color&gt;
+
+QA TESTING
+&lt;color=#436187&gt;Antonio Villarreal&lt;/color&gt;</source>
+          <target>GŁÓWNY DEVELOPER
+&lt;color=#436187&gt;Patrick Frostholm Østergaard&lt;/color&gt;
+
+DESIGN POZIOMÓW
+&lt;color=#436187&gt;Erion Marku&lt;/color&gt;
+&lt;color=#436187&gt;Nicholas White&lt;/color&gt;
+
+TESTOWANIE JAKOŚCI
+&lt;color=#436187&gt;Antonio Villarreal&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="5378781900800" name="Credits2" xml:space="preserve">
+        <segment state="translated">
+          <source>ART &amp; GRAPHICS
+&lt;color=#436187&gt;Jur Loogman&lt;/color&gt;
+
+MUSIC BY
+&lt;color=#436187&gt;Christoph Jakob&lt;/color&gt;
+
+ADDITIONAL SOUND
+EFFECTS PROVIDED BY
+&lt;color=#436187&gt;zapsplat.com&lt;/color&gt;</source>
+          <target>RYSUNKI I GRAFIKA
+&lt;color=#436187&gt;Jur Loogman&lt;/color&gt;
+
+MUZYKA
+&lt;color=#436187&gt;Christoph Jakob&lt;/color&gt;
+
+DODATKOWE EFEKTY
+DŹWIĘKOWE ZAPEWNIONE PRZEZ
+&lt;color=#436187&gt;zapsplat.com&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="340457475436544" name="EarlyAccess1" xml:space="preserve">
+        <segment state="translated">
+          <source>Thank you for supporting our humble project &lt;3
+We're a small team, so your support means a lot!
+
+Note that this game is still a work in progress.
+Everything is subject to change.
+
+&lt;color=#F83939&gt;SAVE FILE RESETS MAY OCCUR!&lt;/color&gt;
+We apologize for any inconveniences.
+
+If you find any bugs or want to talk to us,
+join our Discord server by clicking the link below:</source>
+          <target>Dziękujemy za wspieranie naszego skromnego projektu &lt;3
+Jesteśmy małym zespołem, więc wasze wsparcie wiele dla nas znaczy!
+
+Pamiętaj, że gra nadal jest w pracach.
+Wszystko może się jeszcze zmienić.
+
+&lt;color=#F83939&gt;RESETY ZAPISÓW MOGĄ SIĘ POJAWIĆ!!&lt;/color&gt;
+Przepraszamy za jakiekolwiek niedogodności.
+
+Jeśli znajdziesz jakieś błędy lub chcesz z nami porozmawiać,,
+dołącz na nasz serwer Discord klikając link poniżej:</target>
+        </segment>
+      </unit>
+      <unit id="340514991927296" name="EarlyAccess2" xml:space="preserve">
+        <segment state="translated">
+          <source>Press any button to continue.</source>
+          <target>Kliknij jakikolwiek przycisk, aby kontynuować.</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
