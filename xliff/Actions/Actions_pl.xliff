@@ -109,7 +109,7 @@
       <unit id="5571279482880" name="OpenLevelSelect" xml:space="preserve">
         <segment state="translated">
           <source>Open Level Select (World Map)</source>
-          <target>Otwórz  Wybór Poziomu (Mapa Świata)</target>
+          <target>Otwórz Wybór Poziomu (Mapa Świata)</target>
         </segment>
       </unit>
       <unit id="5624597475328" name="QuickRestart" xml:space="preserve">
