@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="pl" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="cb4e9822dff6b4a43b54e779704e2160" original="Assets/Localization/Tables/Actions/Actions_en.asset">
+    <group id="9e5443f047cfedf40b6d1b5e55305dfb" name="Actions">
+      <unit id="4532105216" name="Horizontal" xml:space="preserve">
+        <segment state="translated">
+          <source>Move Horizontally (Control Stick)</source>
+          <target>Ruch Poziomy (Gałka analogowa)</target>
+        </segment>
+      </unit>
+      <unit id="217166540800" name="Vertical" xml:space="preserve">
+        <segment state="translated">
+          <source>Move Vertically (Control Stick)</source>
+          <target>Ruch Pionowy (Gałka analogowa)</target>
+        </segment>
+      </unit>
+      <unit id="4848735121408" name="HorizontalPositive" xml:space="preserve">
+        <segment state="translated">
+          <source>Right</source>
+          <target>Prawo</target>
+        </segment>
+      </unit>
+      <unit id="4852560326656" name="HorizontalNegative" xml:space="preserve">
+        <segment state="translated">
+          <source>Left</source>
+          <target>Lewo</target>
+        </segment>
+      </unit>
+      <unit id="4934743519232" name="VerticalPositive" xml:space="preserve">
+        <segment state="translated">
+          <source>Up</source>
+          <target>Góra</target>
+        </segment>
+      </unit>
+      <unit id="4939634077696" name="VerticalNegative" xml:space="preserve">
+        <segment state="translated">
+          <source>Down</source>
+          <target>Dół</target>
+        </segment>
+      </unit>
+      <unit id="5363741126656" name="Jump" xml:space="preserve">
+        <segment state="translated">
+          <source>Jump</source>
+          <target>Skok</target>
+        </segment>
+      </unit>
+      <unit id="5375397097472" name="Attack" xml:space="preserve">
+        <segment state="translated">
+          <source>Attack</source>
+          <target>Atak</target>
+        </segment>
+      </unit>
+      <unit id="5393067700224" name="Interact" xml:space="preserve">
+        <segment state="translated">
+          <source>Interact</source>
+          <target>Interakcja</target>
+        </segment>
+      </unit>
+      <unit id="5407298973696" name="ActivateSlowmo" xml:space="preserve">
+        <segment state="translated">
+          <source>Open Character Wheel</source>
+          <target>Otwórz Koło Postaci</target>
+        </segment>
+      </unit>
+      <unit id="5424688558080" name="Sprint" xml:space="preserve">
+        <segment>
+          <source>Sprint</source>
+          <target>Sprint</target>
+        </segment>
+      </unit>
+      <unit id="5434536783872" name="SwapToCardinal" xml:space="preserve">
+        <segment state="translated">
+          <source>Swap to Cardinal</source>
+          <target>Zamiana w Cardinala</target>
+        </segment>
+      </unit>
+      <unit id="5446188560384" name="SwapToAzura" xml:space="preserve">
+        <segment state="translated">
+          <source>Swap to Azura</source>
+          <target>Zamiana w Azure</target>
+        </segment>
+      </unit>
+      <unit id="5458603700224" name="SwapToPistachio" xml:space="preserve">
+        <segment state="translated">
+          <source>Swap to Pistachio
+</source>
+          <target>Zamiana w Pistachio
+</target>
+        </segment>
+      </unit>
+      <unit id="5489788350464" name="SwapToBanana" xml:space="preserve">
+        <segment state="translated">
+          <source>Swap to Banana</source>
+          <target>Zamiana w Banana</target>
+        </segment>
+      </unit>
+      <unit id="5512102047744" name="SwapVertical" xml:space="preserve">
+        <segment state="translated">
+          <source>Swap Vertical (Controller)</source>
+          <target>Zamiana Pionowa (Kontroler)</target>
+        </segment>
+      </unit>
+      <unit id="5558725931008" name="SwapHorizontal" xml:space="preserve">
+        <segment state="translated">
+          <source>Swap Horizontal (Controller)</source>
+          <target>Zamiana Pozioma (Kontroler)</target>
+        </segment>
+      </unit>
+      <unit id="5571279482880" name="OpenLevelSelect" xml:space="preserve">
+        <segment state="translated">
+          <source>Open Level Select (World Map)</source>
+          <target>Otwórz Wybór Poziomu (Mapa Świata)</target>
+        </segment>
+      </unit>
+      <unit id="5624597475328" name="QuickRestart" xml:space="preserve">
+        <segment state="translated">
+          <source>Quick Restart Level</source>
+          <target>Szybki Reset Poziomu</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>
