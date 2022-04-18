@@ -10,8 +10,12 @@
       "<s>Are you for real?!</s>\nI was about to win that one...\nand you just had to... <s>UGH!</s>"
     ],
     "es": [
-      "Oye, oye, <s>¡OOOYEEEEE!</s>",
-      "<s>¡¿Estás de broma?!</s>\nEstaba a punto de ganar esta...\ny tú vas y... <s>¡ARGH!</s>"
+      "Oye, oye, <s>Â¡OOOYEEEEE!</s>",
+      "<s>Â¡Â¿EstÃ¡s de broma?!</s>\nEstaba a punto de ganar esta...\ny tÃº vas y... <s>Â¡ARGH!</s>"
+    ],
+    "pl": [
+      "Hej, hej, <s>HEEEJ!</s>",
+      "<s>Å»artujesz sobie?!</s>\nTym razem prawie wygraÅ‚am...\ni ty musiaÅ‚eÅ›... <s>UGH!</s>"
     ],
     "pt-BR": []
   },
@@ -19,6 +23,7 @@
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
