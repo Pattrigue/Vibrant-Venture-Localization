@@ -11,11 +11,17 @@
       "Things like its wildlife seeming very cute at first, but actually being quite dangerous!",
       "I have no idea how she knew, though... Maybe she was studying the outside world and I just never noticed?"
     ],
+    "es": [
+      "El bosque es un lugar peligroso... Cuando eramos pequeñas, mi hermana me solía contar cosas.",
+      "Cosas como las criaturas que habitan allí: pueden parecer muy monas e inocentes, pero en realidad son muy peligrosas.",
+      "Ahora que lo pienso... ¿Cómo se dió cuenta de ello? Es posible que estuviese estudiando los alrededores y yo ni me dase cuenta."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

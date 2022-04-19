@@ -11,11 +11,17 @@
       "I'd often have to stop her from going out of town, as our parents told us the forest isn't safe...",
       "But if she can handle it, I definitely could as well, right?"
     ],
+    "es": [
+      "Hace mucho tiempo, antes de que <c=pistachio>mi hermana pequeña</c> saliese de Cornucopia para ir de aventuras, solíamos jugar por la ciudad.",
+      "Solía tener que detenerla para que no saliese del pueblo, puesto que nuestros padres nos decían que los alrededores eran peligrosos...",
+      "Pero si ella es capaz de salir, en teoría yo también debería, ¿no?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
