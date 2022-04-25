@@ -13,6 +13,12 @@
       "We should, like, totally read books together sometime!",
       "If you just come visit me every now and then, we can talk about the things we're reading!"
     ],
+    "es": [
+      "...\n...\n<s>¡¿DE VERAS?!</s>",
+      "<w>¡Guaauu!</w>\n¡No te puedes creer CUÁNTO tiempo ha pasado desde que conocí a alguien con gustos similares a los míos!",
+      "¡Un día de estos tenemos que quedar a leer libros!",
+      "¡O puedes venir a verme de vez en cuando y nos ponemos al día con los libros que estamos leyendo!"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -23,6 +29,10 @@
     "en": [
       "I'd love to!",
       "I'm busy... but later?"
+    ],
+    "es": [
+      "¡Me encantaría!",
+      "Ehh... ¿un día de estos?"
     ],
     "pt-BR": []
   }

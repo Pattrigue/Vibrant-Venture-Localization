@@ -9,6 +9,10 @@
       "Really? That's a shame... But I guess not everyone can appreciate books like I do.",
       "But if you like, I could tell you something about what I'm reading if you stop by every once in a while."
     ],
+    "es": [
+      "¿En serio? Vaya, una pena... Supongo que no todo el mundo aprecia la belleza de los libros como yo.",
+      "Si te apetece, puedes pasarte un día de estos y te contaré sobre el libro que estoy leyendo."
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -19,6 +23,10 @@
     "en": [
       "Well, okay.",
       "I'm good, thanks."
+    ],
+    "es": [
+      "Bueno, vale.",
+      "Paso, gracias."
     ],
     "pt-BR": []
   }

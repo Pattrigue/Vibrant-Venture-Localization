@@ -9,11 +9,16 @@
       "Oh, that's a shame...",
       "Well, talk to you again sometime!"
     ],
+    "es": [
+      "Oh, una lástima...",
+      "Bueno, ¡ya hablaremos!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
