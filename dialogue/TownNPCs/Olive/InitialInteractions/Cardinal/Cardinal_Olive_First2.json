@@ -13,11 +13,18 @@
       "@CharacterName, please tell <c=pistachio>my little sister</c> to come by every once in a while, and keep her safe.",
       "And tell me about your adventures when you can!"
     ],
+    "es": [
+      "Ah, ¿conqué ahora está contigo, @CharacterName?",
+      "Estoy <w>seeeeeegura</w> de que está comoda contigo.\n...No está contigo en este momento, ¿verdad?",
+      "En fin, @CharacterName, dile a <c=pistachio>mi hermanita</c> que venga a visitarnos de vez en cuando. ¡Y mantenla a salvo!",
+      "¡Ven y cuéntame sobre tus aventuras cuando puedas!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

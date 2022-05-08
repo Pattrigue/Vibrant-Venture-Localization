@@ -13,11 +13,18 @@
       "That's such a pretty name!\nIt totally fits you!",
       "My name is <c=scarlet>Scarlet</c>...\nNice to meet you!"
     ],
+    "es": [
+      "<w>¡Yupiiii!</w>\nEstoy segura de que vamos a volvernos amiguisimos, ehm... ¿Cómo te llamas?",
+      "@CharacterName, eh?",
+      "¡Es un nombre muy bonito!\n¡Te queda muy bien!",
+      "Me llamo <c=scarlet>Scarlet</c>...\n¡Encantada de conocerte!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

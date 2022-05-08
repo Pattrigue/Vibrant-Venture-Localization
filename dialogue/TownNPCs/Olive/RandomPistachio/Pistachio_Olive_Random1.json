@@ -11,6 +11,11 @@
       "...Who am I kidding?\nYou're the venturer here, not me!",
       "Then, perhaps you're here for advice on <c=cardinal>that guy</c>, <w>hmmm?</w>"
     ],
+    "es": [
+      "¡Vaya vaya! ¿Búscando consejo para tus aventuras?",
+      "...¿A quién quiero engañar?\n¡Tú eres la aventurera aquí!",
+      "<w>A no seeer...</w> ¿Quieres consejo para <c=cardinal>él</c>?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -21,6 +26,10 @@
     "en": [
       "OLIVE!!!",
       "Advice?"
+    ],
+    "es": [
+      "¡¡¡OLIVE!!!",
+      "¿Consejo?"
     ],
     "pt-BR": []
   }

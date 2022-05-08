@@ -13,6 +13,12 @@
       "Still! Even if you come back now, there's no guarantee you will next time!",
       "Are you still going despite knowing that?!"
     ],
+    "es": [
+      "Ahhh, ¿estás con ellos, Stachi?\nEntonces, ¿no vas a quedarte?",
+      "Wow...",
+      "¡Aún así! ¡Quédate! ¡¿Y si te llegase a pasar algo?!",
+      "¡¿Vas a irte aún así?!"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -23,6 +29,10 @@
     "en": [
       "I promise to return!",
       "I... don't know."
+    ],
+    "es": [
+      "¡Te prometo que volveré!",
+      "Yo... no lo sé."
     ],
     "pt-BR": []
   }

@@ -9,11 +9,16 @@
       "That's fine.\nAfter all, birds of a feather flock together!",
       "I hope you'll come by again soon."
     ],
+    "es": [
+      "No pasa nada.\n¡Al fin y al cabo, de tal palo, tal astilla!",
+      "Espero que te vuelvas a pasar por aquí pronto."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

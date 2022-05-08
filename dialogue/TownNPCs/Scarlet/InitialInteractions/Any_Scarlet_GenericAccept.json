@@ -9,11 +9,16 @@
       "Yay! I can't wait.",
       "Looking forward to seeing you again soon!"
     ],
+    "es": [
+      "¡Guay! ¡Qué ganas!",
+      "¡Espero verte por aquí pronto!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

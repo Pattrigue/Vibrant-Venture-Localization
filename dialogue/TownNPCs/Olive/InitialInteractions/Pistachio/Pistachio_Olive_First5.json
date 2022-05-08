@@ -15,11 +15,19 @@
       "Will you atleast tell me about your adventures every once in a while?",
       "That way I can make sure you're not doing anything too dangerous..!"
     ],
+    "es": [
+      "¡Eso es!\nMe alegro tanto de que por fin lo entiendas.",
+      "¿C- cómo?\n¿Sólo has venido para tomarte un descanso?",
+      "Siempre has sido así...",
+      "Al menos cuéntame una de tus aventuras de vez en cuando.",
+      "¡Así sabré que no estás haciendo nada peligroso..!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }

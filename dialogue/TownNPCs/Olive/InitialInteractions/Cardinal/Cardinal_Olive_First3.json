@@ -13,11 +13,18 @@
       "Oh, huh? Nothing!\nPlease tell her to come by every once in a while, okay?",
       "I'd like to hear about her adventures!"
     ],
+    "es": [
+      "<s>¡¡¡<c=cardinal>CARDINAL</c>!!!</s>\n<c=pistachio>Pistachio</c>, ¡mi hermana pequeña!\nNo estoy de broma...",
+      "Ah, ¿está contigo ahora?\nBueno, si a ella le parece bien...",
+      "¿Cómo? ¡Nada!\nDile que venga a visitarnos de vez en cuando, ¿vale?",
+      "¡Me encantaría oír alguna de sus aventuras!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "es": [],
     "pt-BR": []
   }
 }
