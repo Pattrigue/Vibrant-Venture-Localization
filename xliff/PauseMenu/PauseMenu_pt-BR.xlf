@@ -47,7 +47,7 @@
       <unit id="6257312428032" name="ReturnToEditor" xml:space="preserve">
         <segment>
           <source>Return to Editor</source>
-          <target>Retornar ao Editor</target>
+          <target>Retornar ao Criador de Níveis</target>
         </segment>
       </unit>
       <unit id="6677619437568" name="QuitToTitle" xml:space="preserve">

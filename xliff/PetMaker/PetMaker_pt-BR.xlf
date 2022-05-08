@@ -364,74 +364,10 @@ Substituir este arquivo?</target>
           <target>Você está prestes a enviar o mascote "{0}" para a Steam Workshop.</target>
         </segment>
       </unit>
-      <unit id="1820942441541632" name="WorkshopVisibilityLabel" xml:space="preserve">
-        <segment>
-          <source>Visibility:</source>
-          <target>Visibilidade:</target>
-        </segment>
-      </unit>
-      <unit id="1821027472666624" name="WorkshopVisibilityPublic" xml:space="preserve">
-        <segment>
-          <source>Public</source>
-          <target>Público</target>
-        </segment>
-      </unit>
-      <unit id="1821096850649088" name="WorkshopVisibilityFriendsOnly" xml:space="preserve">
-        <segment>
-          <source>Friends-only</source>
-          <target>Somente amigos</target>
-        </segment>
-      </unit>
-      <unit id="1821114043101184" name="WorkshopVisibilityHidden" xml:space="preserve">
-        <segment>
-          <source>Hidden</source>
-          <target>Não visível</target>
-        </segment>
-      </unit>
-      <unit id="1821149162008576" name="WorkshopDescriptionLabel" xml:space="preserve">
-        <segment>
-          <source>Description:</source>
-          <target>Descrição:</target>
-        </segment>
-      </unit>
-      <unit id="1821181177131008" name="WorkshopSubmit" xml:space="preserve">
-        <segment>
-          <source>Submit</source>
-          <target>Enviar</target>
-        </segment>
-      </unit>
       <unit id="4320367118282752" name="WorkshopUpdateWindowTitle" xml:space="preserve">
         <segment>
           <source>You are about to update your pet "{0}" on the Steam Workshop!</source>
           <target>Você está prestes a atualizar seu mascote "{0}" para a Steam Workshop.</target>
-        </segment>
-      </unit>
-      <unit id="4321364414722048" name="WorkshopUploadingPromptText" xml:space="preserve">
-        <segment>
-          <source>Uploading to Steam...
-{0}%</source>
-          <target>Enviando ao Steam...
-{0}%</target>
-        </segment>
-      </unit>
-      <unit id="4321366763532288" name="WorkshopUploadCompletePromptText" xml:space="preserve">
-        <segment>
-          <source>Upload completed!</source>
-          <target>Envio completo!</target>
-        </segment>
-      </unit>
-      <unit id="4321426280706048" name="WorkshopUploadFailedPromptText" xml:space="preserve">
-        <segment>
-          <source>ERROR - Upload failed:
-{0}</source>
-          <target>ERRO - Envio falhou:
-{0}</target>
-        </segment>
-      </unit>
-      <unit id="4321993879089152" name="WorkshopConnectingPromptText" xml:space="preserve">
-        <segment>
-          <source>Connecting to the Steam Workshop...</source>
-          <target>Conectando ao Steam Workshop...</target>
         </segment>
       </unit>
     </group>

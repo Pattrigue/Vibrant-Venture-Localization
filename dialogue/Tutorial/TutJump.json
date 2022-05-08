@@ -11,7 +11,11 @@
       "Holding the jump button also maximizes your jump height.",
       "Quickly tapping jump instead results in shorter jumps!"
     ],
-    "pt-BR": []
+    "pt-BR": [
+      "Quanto mais rápido correr, maior será seu salto.",
+      "Segurar a tecla de pulo também maximiza a altura do seu salto.",
+      "Rapidamente pressionando a tecla de pulo resulta em saltos menores!"
+    ]
   },
   "Responses": {
     "da": [],
