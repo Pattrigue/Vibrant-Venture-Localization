@@ -16,12 +16,18 @@
       "¿<c=violastro>Un brujo morado a la moda</c>, volando por el poblado con un OVNI mágico, al qué le gusta robar objetos brillantes?",
       "No acaban las sorpresas en este pueblo."
     ],
+    "pl": [
+      "Naprawdę myślałem, że widziałem już wszystko, ale serio?",
+      "<c=violastro>Elegancko ubrany, fioletowy czarodziej</c> latający na magicznym spodku, który lubi błyskotki?",
+      "Serio, to miasteczko nigdy się nie starzeje."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
