@@ -16,12 +16,18 @@
       "Está ocupada tanto de día como de noche ocupandose del lugar, puesto que ella se encarga de todas las tareas.",
       "Sinceramente, podría tomarse un descanso."
     ],
+    "pl": [
+      "Właścicielka karczmy, <c=mocha>Mocha</c>, jest naprawdę oddana swojej pracy.",
+      "Jest zajęta całą noc i dzień zajmując się tym miejscem, biorąc prawie wszystkie zadania na siebie.",
+      "Myślę, że mogłaby czasami wziąć wolne."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
