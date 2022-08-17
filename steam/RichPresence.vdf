@@ -30,13 +30,13 @@
 	{
 		"tokens"
 		{
-			"#StatusTitleScreen"	"W menu głównym"
+			"#StatusTitleScreen"	"W tytulowym menu"
 			"#StatusPlayingLevel"	"W poziomie %levelname%"
-			"#StatusEndCard"		"Zkonczył(-a) %levelname% w %levelcompletetime% minut z oceną %levelcompletegrade%"
+			"#StatusEndCard"		"Zkonczył(-a) %levelname% w %levelcompletetime% minuty z oceną %levelcompletegrade%"
 			"#StatusTown"			"W Cornucopia Town"
 			"#StatusWorldMap"		"Podrożuje %worldname%"
-			"#StatusPetMaker"		"W konstruktorze zwierzaków"
-			"#StatusLevelBuilder"	"W konstruktorze poziomów"
+			"#StatusPetMaker"		"W kreatorze zwierzaków"
+			"#StatusLevelBuilder"	"W kreatorze poziomów"
 		}
 	}
 }
