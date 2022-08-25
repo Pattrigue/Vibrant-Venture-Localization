@@ -22,12 +22,20 @@
       "Además es que estoy muy ocupada...",
       "Está contigo <c=azura>esa chica tan inteligente</c> ¿no?\nPues estarás perfectamente, <w>¡jaja!</w>"
     ],
+    "pl": [
+      "Kurcze, więc udało mu się uciec, ha... Miasteczko w nieładzie oznacza złe wieści dla moich rezerwacjach.",
+      "Nie smuć się, @CharacterName!",
+      "Wszyscy, dołącznie ze mną, liczają na ciebie!",
+      "Jestem zbyt zajęta, w końcu...",
+      "Jeszcze masz <c=azura>tą mądrą dziewczynę</c> z tobą, to nie trzeba się martwić, <w>haha!</w>"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

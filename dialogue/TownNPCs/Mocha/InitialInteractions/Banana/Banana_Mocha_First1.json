@@ -13,6 +13,10 @@
       "¡Bievenidos a la posada de Cornucopia!",
       "Anda, ¿no te he visto antes?\n@CharacterName, ¿verdad?\nTu también estuviste persiguiendo a <c=violastro>ese villano</c> ¿no?"
     ],
+    "pl": [
+      "Witam pana do własnej karczmy Cornucopii!",
+      "O, skąd pana znam?\n@CharacterName, nie?\nCzy pan nie też gonił <c=violastro>tamtego łotra</c>?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -27,6 +31,10 @@
     "es": [
       "Sí, pero...",
       "Que va."
+    ],
+    "pl": [
+      "Tak, ale...",
+      "Nie."
     ],
     "pt-BR": []
   }

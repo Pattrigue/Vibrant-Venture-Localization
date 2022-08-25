@@ -20,12 +20,19 @@
       "Sinceramente, @CharacterName, estás genial con o sin ellas.",
       "Vaya, tengo que coger esta llamada.\n-- Posada de Cornucopia.\n¿En qué puedo ayudarle?"
     ],
+    "pl": [
+      "...\n...\n<s>HAHAHA!!!</s> No, nie spodziewałam się tego!",
+      "Ahaha, fjuu...\nMożesz już ich spowrotem założyć...",
+      "Szczerze mówiąc, @CharacterName, wyglądasz wspaniale, bez względu czy ich nosisz czy nie.",
+      "Ach, telefon dzwoni.\n-- Karczma Cornucopii, tu Mocha.\nJak mogę panu pomóc?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

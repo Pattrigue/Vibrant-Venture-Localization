@@ -28,13 +28,22 @@
       "De nuevo permítame disculparm --\nVaya, ha colgado.",
       "Siento que hayas tenido que escuchar eso..."
     ],
-
+    "pl": [
+      "...Karczma Cornucopii, tu Mocha.\nJak mogę panu pomóc?",
+      "-- Przepraszam, @CharacterName, na razie jestem na telefonie. --",
+      "O, poważnie? Jest różnica między myszami i szczurami?",
+      "Strasznie mi przykro, że obraziłam pana.",
+      "Pan by rzucił co?\nProszę pana nie mówić w taki sposób.",
+      "Znowu przepraszam --\nAch, rozłączył się.",
+      "Przykro mi, że musiałeś tego słyszeć..."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
