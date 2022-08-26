@@ -25,12 +25,21 @@
       "Me alegro de que estéis todos bien. No sé que haría si algo le pasase a <c=pistachio>mi hermana pequeña</c>...",
       "¡Tened cuidado en vuestras aventuras!"
     ],
+    "pl": [
+      "Nie pamiętasz? Rozumiem czemu, ponieważ nigdy nie rozmawialiśmy bezpośrednio...",
+      "Nazywam się <c=pistachio>Olive</c>. Jestem starszą siostrą <c=pistachio>Pistachii</c>!",
+      "Słyszałam że wy próbowaliście powstrzymać kradzenie kryształów... ale <c=violastro>ten złodziej</c> uciekł, prawda?",
+      "Chciałam sprawdzić co u <c=pistachio>mojej młodszej siostry</c>, ale zamiast tego wpadłam na <c=hickory>Hickory'ego</c>, który powiedział mi co się stało.",
+      "Jestem zadowolona, że jest wam wszytko w porządku. Nie wiem, co bym zrobiła, gdyby coś się stało do <c=pistachio>mojej młodszej siostry</c>...",
+      "Proszę, bądźcie ostrożni na waszych przygodach!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

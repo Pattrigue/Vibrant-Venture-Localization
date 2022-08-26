@@ -6,11 +6,16 @@
       "Stachi, I really do suggest you think this\nthrough more.",
       "Take your time.\nI'll always be here for you!"
     ],
+    "pl": [
+      "Stacju, proponuję, abyś pomyślała nad tym troszkę więcej.",
+      "Nie śpiesz się.\nZawsze będę tu dla ciebie!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

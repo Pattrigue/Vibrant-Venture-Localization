@@ -9,6 +9,10 @@
       "See? We told you!",
       "Venturing out of town is way too dangerous!\nDid you come back after realising that?"
     ],
+    "pl": [
+      "Widzisz? Mówiliśmy ci!",
+      "Chodzenia poza domem jest zbyt niebezpieczne!\nCzy wróciłaś, gdy zauważyłaś tego?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -19,6 +23,10 @@
     "en": [
       "Actually...",
       "Yup!"
+    ],
+    "pl": [
+      "Właściwie...",
+      "Aha!"
     ],
     "pt-BR": []
   }

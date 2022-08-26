@@ -13,6 +13,12 @@
       "Still! Even if you come back now, there's no guarantee you will next time!",
       "Are you still going despite knowing that?!"
     ],
+    "pl": [
+      "Haa, to jesteś z nimi teraz, Stacju?\nI nie jesteś tu, aby zostać?",
+      "Łał...",
+      "I tak! Tylko przez tego że teraz wróciłaś, nie oznacza że na pewno wrócisz następnym razem!",
+      "Czy dalej idziesz mimo wiedząc tego?!"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -23,6 +29,10 @@
     "en": [
       "I promise to return!",
       "I... don't know."
+    ],
+    "pl": [
+      "Obiecuje że wrócę!",
+      "...Nie wiem."
     ],
     "pt-BR": []
   }

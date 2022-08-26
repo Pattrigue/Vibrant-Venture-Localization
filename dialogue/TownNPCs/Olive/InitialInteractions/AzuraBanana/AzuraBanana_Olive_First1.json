@@ -10,6 +10,9 @@
     "es": [
       "Ah, hola.\n¿No nos hemos visto antes en alguna parte?"
     ],
+    "pl": [
+      "O, cześć.\nNa pewno już się kiedyś spotkaliśmy, nie?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -24,6 +27,10 @@
     "es": [
       "¿Quizás?",
       "¡Eso es!"
+    ],
+    "pl": [
+      "Chyba nie...",
+      "Tak!"
     ],
     "pt-BR": []
   }
