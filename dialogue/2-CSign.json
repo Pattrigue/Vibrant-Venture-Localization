@@ -7,6 +7,9 @@
     "en": [
       "HOW"
     ],
+    "pl": [
+      "JAK"
+    ],
     "pt-BR": [
       "COMO"
     ]
@@ -14,6 +17,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
