@@ -11,11 +11,17 @@
       "OH, you're right! How did you know? Did you write this or something? <w>Hahaha!</w>",
       "...\n...\nDid you?"
     ],
+    "pl": [
+      "Ha?\nTo udokumentowane na następnej stronie?",
+      "O, masz racje! Skąd wiedziałaś? Czy to napisałaś albo coś? <w>Hahaha!</w>",
+      "...\n...\nPrawda?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

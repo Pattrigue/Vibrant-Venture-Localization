@@ -15,11 +15,19 @@
       "I'd like to write my own story someday!",
       "You can be the first to read it, @CharacterName!"
     ],
+    "pl": [
+      "Możesz się wiele nauczyć od czytania książek!",
+      "Na przykład, pozwlają ci zrozumieć perspektywy innych postaci w opowieściach.",
+      "Uczenie się, dlaczego te postaci tak myślą i się zachowują, to bardzo fasynujące.",
+      "Chciałabym jeden dzień napisać swoją własną książkę!",
+      "Możesz być pierwszym, który ją przeczyta, @CharacterName!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

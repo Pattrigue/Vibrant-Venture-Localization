@@ -17,11 +17,20 @@
       "Hey, hey, how do you even do that?\nAre your shoes that solid?\nOr maybe it's technique...",
       "I'm gonna need to read more into this!"
     ],
+    "pl": [
+      "Hej, słuchaj, słuchaj, @CharacterName!\nCzy wiedziałaś?",
+      "Czytałam że możesz się odbić od zagrożeń, elegancko wirując na nimi użwyjąc twoje <c=pistachio>Wiertło Roślinowe</c>!",
+      "I jeszcze wygląda na to, że możesz szybować używając twojego Zaczarowanego Parasolu!",
+      "Brzmi przydatne, gdy chcesz odpocząć w miejscach, gdzie normalnie nie mogłabyś, nie?",
+      "Hej, hej, jak to nawet robisz?\nCzy twoje buty są takie solidne?\nMoże to po prostu technika...",
+      "Będę musiała o tym więcej przeczytać!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

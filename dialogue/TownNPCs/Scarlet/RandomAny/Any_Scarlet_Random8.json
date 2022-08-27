@@ -13,11 +13,18 @@
       "You know what you should really try? Reading underneath the starry sky! It's the most tranquil thing ever...",
       "Would you like to join me sometime?"
     ],
+    "pl": [
+      "...\n<w>WOW!</w> Naprawdę?!",
+      "To wspaniale, bo też nie mogę wybrać!",
+      "Wiesz co naprawdę musisz spróbować? Czytanie pod gwazdami! To najspokojniejsza rzecz na świecie...",
+      "Może chciałbyś zrobić to ze mną jeden dzień?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

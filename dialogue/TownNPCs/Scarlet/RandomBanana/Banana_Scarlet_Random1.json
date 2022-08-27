@@ -21,11 +21,22 @@
       "*Ahem...*",
       "Honestly, it could be really useful for when you need just a tiny bit more height!"
     ],
+    "pl": [
+      "Hej, słuchaj, słuchaj, @CharacterName!\nCzy wiedzałeś?",
+      "Najwyraźniej, możesz wykonać długi skok na momencie gdy landujesz po <c=banana>Trzaśnięciu w Ziemie!</s>",
+      "Czy to by nie spowodowało, że ruszał się <w>suuuper</w> szybko?",
+      "Albo, albo... słuchaj..!",
+      "Jeśli spróbujesz wykonać <c=banana>Trzaśnięcie w Ziemie</c>, gdy już próbujesz trzasnąć, dostaniesz mały wzrost!",
+      "To praktycznie niskobudżetowy podwójny skok, nie?\n<w>Hahahaha!</w>",
+      "*Ahem...*",
+      "Szczerze mówiąc, może być bardzo przydatne, gdy potrzebujesz tylko troszkę więcej ruchu w górę!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

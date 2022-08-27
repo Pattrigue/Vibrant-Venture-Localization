@@ -13,6 +13,12 @@
       "...can actually be angled up or down!",
       "Haa... I'm so jealous! You can practically fly, @CharacterName. Tell me, tell me! What's it like?"
     ],
+    "pl": [
+      "Hej, słuchaj, słuchaj, @CharacterName!\nCzy wiedzałasz?",
+      "Tu mówi, że twoja umiejętność pozwala ci lecieć do prodzu używając... <w>WODY?!</w>...",
+      "...może być nachylony w górę i w dół!",
+      "Haa... jestem zazdrosna! Możesz praktycznie lecieć, @CharacerName. Powiedz mi, powiedz mi! Jak to jest?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -23,6 +29,10 @@
     "en": [
       "Look!",
       "Keep reading..."
+    ],
+    "pl": [
+      "Spójrz!",
+      "Czytaj dalej..."
     ],
     "pt-BR": []
   }
