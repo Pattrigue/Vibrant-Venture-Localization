@@ -15,6 +15,13 @@
       "Maybe it's because I'm too busy reading books all the time to notice, <w>haha...</w>",
       "What kind of books do you like?"
     ],
+    "pl": [
+      "...\n...\nO, halo!",
+      "Hehe, przepraszam. Nie zauważyłam cię, bo czytam tą nową książkę, którą mam od niedawna.",
+      "Czy już się spotkaliśmy?\nNie jestem pewna...",
+      "Może jest przez tego, że jestem zbyt zajęta czytając książek cały czas, aby zauważyć, <w>haha...</w>",
+      "Jaki rodzaj książek lubisz najbardziej?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -31,6 +38,13 @@
       "Comics.",
       "I don't like reading.",
       "I love all kinds!"
+    ],
+    "pl": [
+      "Fikcja.",
+      "Podręczniki.",
+      "Komiksy.",
+      "Nie lubię czytać.",
+      "Uwielbiam wszystkie rodzaje!"
     ],
     "pt-BR": []
   }
