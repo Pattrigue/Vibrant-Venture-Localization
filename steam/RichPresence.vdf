@@ -32,7 +32,7 @@
 		{
 			"#StatusTitleScreen"	"W menu tytułowym"
 			"#StatusPlayingLevel"	"W poziomie %levelname%"
-			"#StatusEndCard"		"Skonczył(-a) %levelname% w %levelcompletetime% minuty z oceną %levelcompletegrade%"
+			"#StatusEndCard"		"Skończył(-a) %levelname% w %levelcompletetime% minuty z oceną %levelcompletegrade%"
 			"#StatusTown"			"W Cornucopia Town"
 			"#StatusWorldMap"		"Podróżuje %worldname%"
 			"#StatusPetMaker"		"W Kreatorze Zwierzaków"
