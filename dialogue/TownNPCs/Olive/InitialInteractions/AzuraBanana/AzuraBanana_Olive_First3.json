@@ -22,12 +22,20 @@
       "No sé que haría si algo le pasase a <c=pistachio>mi hermana pequeña</c>...",
       "¡Tened cuidado en vuestras aventuras!"
     ],
+    "pl": [
+      "No cóż, jestem zadowolona że wszytko u was jest w porządku.",
+      "Próbowaliście powstrzymać kradzenie kryształów, ale <c=violastro>ten złodziej</c> uciekł, nie?",
+      "Słyszałam co się stało, gdy wpadłam na <c=131,42,13>Hickory'ego</c> w drodze do <c=pistachio>mojej młodszej siostry</c>.",
+      "Ja nie wiem, co bym zrobiła, jakby coś się jej stało...",
+      "Proszę, bądźcie ostrożni na waszych przygodach!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

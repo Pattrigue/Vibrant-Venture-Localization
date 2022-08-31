@@ -11,11 +11,17 @@
       "At the very least...\nif you do make it back, let me listen to your adventures.",
       "That way I can make sure you're not doing anything too dangerous..!"
     ],
+    "pl": [
+      "P-Poważnie..?\nWygląda na to, że nie mogę cię powstrzymać...",
+      "Przynajmniej...\nJeśli wrócisz, opowiedz mi o twoich przygodach.",
+      "Wtedy, będę mogła się upewnić, że nie robisz niczego zbyt niebezpiecznego..!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

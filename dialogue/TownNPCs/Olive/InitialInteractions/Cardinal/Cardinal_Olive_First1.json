@@ -13,6 +13,10 @@
       "Oye, @CharacterName.\nHe oído lo que pasó por <c=hickory>Hickory</c>.",
       "¿Cómo estáis tu y <c=pistachio>mi hermana</c>?"
     ],
+    "pl": [
+      "Hej, @CharacterName.\nSłyszałam co się stało od <c=hickory>Hickory'ego</c>.",
+      "Jak ty i <c=pistachio>moja młodsza siostra<c> się macie?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -27,6 +31,10 @@
     "es": [
       "¡Estoy bien! Ella...",
       "¿Yo y Pis-qué?"
+    ],
+    "pl": [
+      "Wszystko ze mną dobrze! A ona...",
+      "Ja i kto?"
     ],
     "pt-BR": []
   }

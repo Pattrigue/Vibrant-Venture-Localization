@@ -15,11 +15,19 @@
       "Will you atleast tell me about your adventures every once in a while?",
       "That way I can make sure you're not doing anything too dangerous..!"
     ],
+    "pl": [
+      "To prawda!\nJestem taka zadowolona, że nareszcie rozumiesz.",
+      "Cz-Czekaj, co?\nSerio? Tylko wróciłaś na zmianę tempa?",
+      "W ogólę się nie zmieniłaś...",
+      "Czy przynajmniej możesz mi opowiedzieć o swoich przygodach raz na jakiś czas?",
+      "Wtedy, będę mogła się upewnić, że nie robisz niczego zbyt niebezpiecznego..!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
