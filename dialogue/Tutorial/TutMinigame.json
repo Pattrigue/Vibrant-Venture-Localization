@@ -13,6 +13,12 @@
       "You can retry the minigame by hitting the button again.",
       "The door at the end will simply take you back here if you wish to retry.\nGo for it, champ!"
     ],
+    "pl": [
+      "<c=minigame_button>M-guziki</c> włączają minigry!",
+      "Jeśli przegrasz, możesz spróbować ponownie tyle razy aż chcesz.",
+      "Możesz spróbować ponownie naciśkając guzik ponownie.",
+      "Drzwi na końcu po prostu Cię zaniosą z powrotem tu, jeśli chciałbyś spróbować ponownie.\nTeraz dawaj, mistrzu!"
+    ],
     "pt-BR": [
       "<c=minigame_button>M-buttons</c> irá ativar um minijogo!",
       "Se você falhar, você pode tentar de novo quantas vezes quiser.",
@@ -23,6 +29,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

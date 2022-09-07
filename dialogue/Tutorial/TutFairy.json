@@ -9,6 +9,10 @@
       "Fairies allow you to take an extra hit!",
       "Getting an additional fairy will turn the new fairy into gems."
     ],
+    "pl": [
+      "Wróżki pozwalają Ci przyjąć kolejny cios!",
+      "Gdy już masz wróżkę, kolejne wróżki zamienią się w klejnoty."
+    ],
     "pt-BR": [
       "Fadas permitem que você receba um dano extra!",
       "Recebendo uma fada adicional irá convertê-la em gemas."
@@ -17,6 +21,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

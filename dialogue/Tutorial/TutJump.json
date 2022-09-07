@@ -11,6 +11,11 @@
       "Holding the jump button also maximizes your jump height.",
       "Quickly tapping jump instead results in shorter jumps!"
     ],
+    "pl": [
+      "Tym szybczej biegasz, tym wyżej możesz skakać.",
+      "Przetrzymanie przecisk skoku jeszcze maksymalizuje Twóją wysokość skoku.",
+      "Stukanie przycisk skoku raczej spowoduje mniejsze skoki!"
+    ],
     "pt-BR": [
       "Quanto mais rápido correr, maior será seu salto.",
       "Segurar a tecla de pulo também maximiza a altura do seu salto.",
@@ -20,6 +25,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

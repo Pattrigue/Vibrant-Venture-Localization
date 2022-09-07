@@ -9,11 +9,16 @@
       "NOTICE: <s>DO NOT DISABLE THE SUPER ULTRA UNPASSABLE STEALTH LASER!</s>",
       "THIS IS TO KEEP THOSE <w><c=cardinal>D</c><c=azura>A</c><c=banana>R</c><c=pistachio>N</c> ADVENTURERS</w> FROM SNOOPIN' AROUND! <s>GOT IT?!</s>"
     ],
+    "pl": [
+      "POWIADOMIENIE: <S>ZAKAZ WYŁĄCZANIA SUPER ULTRA NIEPRZEKRACZLNEGO LASERA!</s>",
+      "ON SŁUŻY DO POWSTRZYMANIA TYCH <w><c=cardinal>D</c><c=azura>U</c><c=banana>R</c><c=pistachio>N</c><c=cardinal>Y</c><c=azura>C</c><c=banana>H</c></w> PODRÓŻNIKÓW OD WĘSZENIA! <s>ZROZUMIANE?!</s>" 
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

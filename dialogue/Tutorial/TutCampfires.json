@@ -9,6 +9,10 @@
       "If you die, you respawn at the most recently activated campfire.",
       "Touching a campfire also saves your progress in the level."
     ],
+    "pl": [
+      "Jeśli zginiesz, odrodzisz się na ostatnim zapalonym ognisku.",
+      "Dotykanie ogniska jeszcze zapisuje swój progres w poziomie."
+    ],
     "pt-BR": [
       "Quando você morre, você reaparece na fogueira mais recentemente ativada.",
       "Tocar em uma fogueira também salva o seu progresso no nível."
@@ -17,6 +21,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
