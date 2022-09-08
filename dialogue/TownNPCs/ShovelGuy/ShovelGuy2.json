@@ -19,11 +19,19 @@
       "Don't tell me... Is it because I shovel at night, too?",
       "<w>Veeery</w> funny..."
     ],
+    "pl": [
+      "Już pracowałem nad tym przez jakiś czas, i nie wygląda na to, że skończę w najbliższym czasie.",
+      "Mogę widzieć wiele ludzi mijających mnie, ale ciągle tu kopię przez tyle dni.",
+      "Ale jedna rzecz, której nie mogę ogarnąć...",
+      "Dlaczego ludzie nazywają mnie \"Łopatowiec\"?",
+      "Dopiero zacząłem kopać kilka dni temu!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

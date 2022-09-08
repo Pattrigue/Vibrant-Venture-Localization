@@ -13,11 +13,18 @@
       "Might be developing an issue, though...",
       "And it involves my back."
     ],
+    "pl": [
+      "<c=mocha>Mocha</c> poprosiła mnie, żebym wykopał trochę miejsca na magazyn, który ona planuje zbudować.",
+      "Znamy się od dawna, więc nie miałem problemu pomagając starej przyjaciółce!",
+      "Ale myśle, że rozwija się jakiś problem...",
+      "I dotyczy mojego kręgosłupa."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

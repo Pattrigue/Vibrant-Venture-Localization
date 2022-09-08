@@ -11,11 +11,17 @@
       "This might look pretty boring, but everyone has to start somewhere, don't they?",
       "I'd like to dig out some space and lay the ground works for a fountain in the future!"
     ],
+    "pl": [
+      "Ciekawe... jeśli zrobię dobrą robotę, możę będę mógł pracować na więcej projektach miasteczkowych w przyszłości?",
+      "To nie wygląda jak najfajniejsza robota, ale wszyscy musimy zacząć gdziesz, nie?",
+      "Chciałbym wykopać trochę miejsca, i zbudować fundament na nową fontannę w przyszłości!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
