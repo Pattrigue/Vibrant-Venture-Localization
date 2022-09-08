@@ -13,6 +13,10 @@
       "¡Bienvenidos a la posada de Cornucopia!",
       "Anda, ¡pero si eres, @CharacterName!\nConseguiste hacer algo sobre <c=violastro>ese\nvillano</c>?"
     ],
+    "pl": [
+      "Witam panią we własnej karczmie Cornucopii!",
+      "O, to ty, @CharacterName?\nCzy udało ci się coś zrobić z <c=violastro>tamtym łotrem</c>?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -27,6 +31,10 @@
     "es": [
       "Se escapó...",
       "¡S-Sí, claro!"
+    ],
+    "pl": [
+      "On uciekł...",
+      "T-Tak, oczywiście!"
     ],
     "pt-BR": []
   }

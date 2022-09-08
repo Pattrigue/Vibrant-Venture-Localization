@@ -19,6 +19,12 @@
       "...Vaya, ¿conqué no estás aquí para reservar una habitación?",
       "Oye, ¿tú no eres uno de esos vibrantes que fue trás <c=violastro>ese villano</c>?"
     ],
+    "pl": [
+      "Witam we własnej karczmie Cornucopii!",
+      "Jeśli szukasz miejsce na pobyt, jesteś w dobrym miejscu!",
+      "...Czekaj tam, nie jesteś tu po rezerwacje?",
+      "Hej, czy ty nie jesteś jeden z tych Kolorowych, którzy gonili <c=violastro>tamtego łotra</c>?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -33,6 +39,10 @@
     "es": [
       "Sí, pero...",
       "¿Vibrantes?"
+    ],
+    "pl": [
+      "Tak, ale...",
+      "Kolorowych?"
     ],
     "pt-BR": []
   }

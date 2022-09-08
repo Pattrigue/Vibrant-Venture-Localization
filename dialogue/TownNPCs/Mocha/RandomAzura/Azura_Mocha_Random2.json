@@ -13,6 +13,10 @@
       "Hmmm...\n....\nOye, @CharacterName...",
       "Llevo tiempo preguntándomelo, ¿puedo verte la cara sin esas gafas puestas?"
     ],
+    "pl": [
+      "Hmmmm...\n....\n@CharacterName...",
+      "Zastanawiałam się przez jakiś czas... jak wyglądasz bez okularów, hm?"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -27,6 +31,10 @@
     "es": [
       "Eh, pues...",
       "¿A- así?"
+    ],
+    "pl": [
+      "Emm, ja...",
+      "J-Jak tak?"
     ],
     "pt-BR": []
   }

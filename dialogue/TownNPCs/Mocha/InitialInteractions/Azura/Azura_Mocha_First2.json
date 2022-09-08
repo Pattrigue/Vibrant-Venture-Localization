@@ -20,12 +20,19 @@
       "Bueno, ¡yo qué sé!'.\n¡Estoy muy ocupada!",
       "Me aseguraré de que nadie entre en tu habitación mientras tanto.."
     ],
+    "pl": [
+      "Kurczę, więc udało mu się uciec, co... Miasteczko w nieładzie oznacza złe wieści dla moich rezerwacji...",
+      "Nie martw się, @CharacterName! Na pewno dokonałaś już wielu groźnych czynów! Takich jak... Err... <w>Emmm...</w>",
+      "Walić to, mam nic.\nJestem zbyt zajęta!",
+      "Dopilnuję, aby nikt nie zajął twojego pokoju w międzyczasie."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

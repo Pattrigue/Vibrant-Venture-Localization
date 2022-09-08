@@ -25,12 +25,21 @@
       "...",
       "¿Seguro de que no estás aquí para hacer una reserva?"
     ],
+    "pl": [
+      "O, tak was po prostu lubię nazywać, przez to, że wszyscy macie inne kolory.",
+      "Ach, cholera. Więc udało mu się uciec, ha?",
+      "Rozgłos miasteczka, oraz moje rezerwacje, co z nimi będzie bez kryształów w miasteczce...",
+      "Postaraj się odzyskać tamte kryształy!\nJestem zbyt zajęta, ostatecznie...",
+      "...",
+      "Na pewno nie jesteś tu po rezerwację?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

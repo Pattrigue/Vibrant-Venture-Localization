@@ -22,12 +22,20 @@
       "¡No hay nada que yo no sepa!",
       "<w>Ehhh,</w> debería de volver al trabajo."
     ],
+    "pl": [
+      "Ty wiesz, @CharacterName...\nLepiej nie zostawiać swoich drzwi otwartych zbyt długo.",
+      "Kolorowe goście mogą myszkować i zabrać twoją książkę, w której piszesz o wielu informacjach.",
+      "Tak, ja wiem o twojej książce.\nJestem karczmarzką!",
+      "Nie ma tutaj niczego, o czym nie wiem!",
+      "<w>Uuups,</w> muszę wrócić do swojej pracy."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }

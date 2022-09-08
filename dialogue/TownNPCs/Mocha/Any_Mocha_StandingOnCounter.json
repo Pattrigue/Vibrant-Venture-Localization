@@ -16,12 +16,18 @@
       "¿Podrías no hacer eso?",
       "De verdad.\nNo me apetece que los clientes entren viendo este panorama."
     ],
+    "pl": [
+      "...\n...\nPrzepraszam?",
+      "Czy mógłbyś proszę, tak, nie robić?",
+      "Serio.\nNie chciałabym żeby jacyś klienci coś takiego widzieli."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
     "es": [],
+    "pl": [],
     "pt-BR": []
   }
 }
