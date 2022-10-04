@@ -9,11 +9,16 @@
       "Oh, I absolutely will! This book is an amazing find. <w>A treasure...</w>",
       "Hey, hey... How about we read it together? Let me know sometime, 'kay?"
     ],
+    "pl": [
+      "O, na pewno! Ta książka to wspaniałe odkrycie. <w>Prawdziwa skarbnica...</w>",
+      "Hej, hej... Może razem ją przeczytamy kiedyś? Daj mi znać kiedykolwiek, okej?"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

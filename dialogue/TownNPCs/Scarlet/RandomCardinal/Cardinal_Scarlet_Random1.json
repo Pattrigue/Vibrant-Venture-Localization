@@ -19,11 +19,21 @@
       "Oooh, and your fiery <c=cardinal>Double Jump</c> can cover you both to the left and right!",
       "It's pretty clear you have what it takes to combat multiple enemies at once, @CharacterName!"
     ],
+    "pl": [
+      "Hej, słuchaj, słuchaj, @CharacterName!\nCzy wiedziałeś?",
+      "Tu mówi że twoje umiejętności są bardzo proste...",
+      "...i to znaczy, że jedna naprawdę cię rozpędza prosto do przodu, haha!",
+      "*Ahem* Twoje <c=cardinal>Powietrzne Kopnięcie</c> wygląda na przydatne na atakowaniu kilku wrogów...",
+      "bo trwa dopóki nie lądujesz!",
+      "Uuu, i twój ognisty <c=cardinal>Podwójny Skok</c> może cię ochronić z obu stron!",
+      "Widocznie masz co trzeba do walczenia wielu wrogów na raz, @CharacterName!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

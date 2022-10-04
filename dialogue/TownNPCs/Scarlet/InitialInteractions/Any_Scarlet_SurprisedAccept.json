@@ -9,11 +9,16 @@
       "You will? I'm so happy!",
       "I'll see you very soon then, hopefully!"
     ],
+    "pl": [
+      "Serio? Jestem taka radosna!",
+      "Oby znów się spotkamy wkrótce!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

@@ -9,11 +9,16 @@
       "Oh, that's a shame...",
       "Well, talk to you again sometime!"
     ],
+    "pl": [
+      "O, szkoda...",
+      "Cóż, do zobaczenia następnym razem!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

@@ -9,11 +9,16 @@
       "Yay! I can't wait.",
       "Looking forward to seeing you again soon!"
     ],
+    "pl": [
+      "Super! Nie mogę się doczekać.",
+      "Mam nadzieję, że znów się zobaczymy wkrótce!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

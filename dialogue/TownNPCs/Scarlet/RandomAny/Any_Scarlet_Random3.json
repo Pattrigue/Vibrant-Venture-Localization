@@ -11,6 +11,11 @@
       "Say, say, I'm really curious!",
       "What's your favourite genre?\nDoesn't have to be for books per-se!"
     ],
+    "pl": [
+      "Czy to nie jest wspaniałe, że jest tyle różnych książek, wszystkie z innymi rodzajami opowieści?",
+      "Powiedz mi, jestem bardzo ciekawa!",
+      "Jaki gatunek jest twój ulubiony?\nTo nie musi być gatunek książek samo w sobie!"
+    ],
     "pt-BR": []
   },
   "Responses": {
@@ -29,6 +34,13 @@
       "Slice of Life & Comedy.",
       "All of the above!",
       "Don't have one..."
+    ],
+    "pl": [
+      "Przygoda & Akcja.",
+      "Dramat & Romans.",
+      "Fragmenty z Życia & Komedia.",
+      "Wszystkie powyższe!",
+      "Nie mam ulubionego..."
     ],
     "pt-BR": []
   }
