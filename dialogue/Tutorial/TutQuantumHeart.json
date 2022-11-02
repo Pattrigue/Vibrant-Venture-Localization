@@ -16,6 +16,13 @@
       "The entanglement can be broken by using an ability, causing the user to quantum tunnel to the entangled entity's position.",
       "<s>USE WITH CAUTION!!</s>\nWe all exist in the same spacetime, so please don't break it, m'kay?"
     ],
+    "pl": [
+      "Przedmiot: Serce Kwantowe.\nOpracowane przez: Niesamowite & Prawdopodobne do Rozdarcia Czasoprzestrzeni Innowacje.",
+      "Użycie: Wiąże użytkownika do równoległego podmiotu istniejącego w innym wymiarze rzeczywistości.",
+      "To kwantowe powiązanie spowoduje, że wiązany podmiot naśladuje ruchy użytkownika, i odwrotnie.",
+      "Powiązanie może być rozdarte używając umiejętności, spowodowanie kwantowe przeniesienie użytkownika do lokalizacji wiązanego podmiota.",
+      "<s>UŻYWAĆ OSTROŻNIE!!</s>\nWszyscy istniejemy w tej samej czasoprzestrzeni, więc prosimy nie rozedrzeć ją, m'kej?"
+    ],
     "pt-BR": [
       "Tópico: Coração Quântico. \nDesenvolvido por: Impressionantes & Frágeis Innovações do Espaço-Tempo.",
       "Uso: Emaranha o usuário até uma entidade irmã existente em um outro plano na realidade.",
@@ -27,6 +34,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

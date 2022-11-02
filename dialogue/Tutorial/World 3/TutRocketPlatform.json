@@ -9,11 +9,16 @@
       "NOTICE: <s>Y'ALL STOP CRASHING THE ROCKETS INTO THE DARN WALLS!</s>",
       "<s>PRESS UP OR DOWN TO CONTROL THE ROCKET'S TRAJECTORY!</s>\n- VIOLASTRO"
     ],
+    "pl": [
+      "POWIADOMIENIE: <s>DOŚĆ TEGO ROZBIJANIA RAKIET W TYCH DURNYCH ŚCIANACH!</s>",
+      "<s>NACIŚNIJCIE W GÓRĘ LUB W DÓŁ, ABY STEROWAĆ RAKIETĘ!</s>\n- VIOLASTRO"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

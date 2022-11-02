@@ -7,6 +7,9 @@
     "en": [
       "TIP: Holding jump while <c=pistachio>Vine Stabbing</c> makes you jump much higher!"
     ],
+    "pl": [
+      "PORADA: Trzymanie guzika skoku, gdy używasz <c=pistachio>Wiertło Roślinne</c>, spowoduje że odbijesz się wyżej!"
+    ],
     "pt-BR": [
       "DICA: Segurar pulo enquanto <c=pistachio>Vine Stabbing</c> faz você pular muito mais alto!"
     ]
@@ -14,6 +17,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }

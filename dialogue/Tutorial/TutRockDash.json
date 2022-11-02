@@ -7,6 +7,9 @@
     "en": [
       "TIP: You can break rocks by <c=azura>Dashing</c> through them!"
     ],
+    "pl": [
+      "PORADA: Możesz zniszczyć kamienie <c=azura>Dashowając</c> przez nie!"
+    ],
     "pt-BR": [
       "DICA: Você pode quebrar rochas com o <c=azura>Dashing</c> passando por eles!"
     ]
@@ -14,6 +17,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "pl": [],
     "pt-BR": []
   }
 }
