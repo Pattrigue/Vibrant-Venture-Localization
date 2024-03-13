@@ -7,11 +7,15 @@
     "en": [
       "TIP: You can break rocks by <c=azura>Dashing</c> through them!"
     ],
+    "fr": [
+      "ASTUCE: Vous pouvez briser les rochers en leur <c=azura>fonçant</c> dessus!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }
