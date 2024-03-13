@@ -11,11 +11,17 @@
       "Holding the jump button also maximizes your jump height.",
       "Quickly tapping jump instead results in shorter jumps!"
     ],
+    "fr": [
+      "Plus vous courez vite, plus vous sauterez haut.",
+      "Maintenir la touche de saut maximise également la hauteur du saut.",
+      "Appuyer rapidement sur la touche de saut vous fera plutôt sauter moins haut!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }
