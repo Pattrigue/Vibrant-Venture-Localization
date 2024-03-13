@@ -16,6 +16,15 @@
       "The entanglement can be broken by using an ability, causing the user to quantum tunnel to the entangled entity's position.",
       "<s>USE WITH CAUTION!!</s>\nWe all exist in the same spacetime, so please don't break it, m'kay?"
     ],
+    "fr": [
+      "Sujet: Quanti-coeur.\nDéveloppé par: Génial & susceptible de disloquer la Fabrique des innovations spatiotemporelles.",
+      "Usage: Rattache l'utilisateur à une entité parallèle propre qui existe dans un autre plan de la réalité.",
+      "Ce rattachement quantique fait que le partenaire rattaché imite les mouvements de l'utilisateur et vice versa.",
+      "Le rattachement peut être brisé en utilisant une compétence, ce qui amène par un tunnel quantique l'utilisateur à la position de l'entité rattachée.",
+      "<s>À MANIPULER AVEC PRÉCAUTION!!</s>\nOn existe tous dans le même espace-temps, donc n'allez pas le disloquer, pigé?"
+    ],
+    "pt-BR": []
+=======
     "pt-BR": [
       "Tópico: Coração Quântico. \nDesenvolvido por: Impressionantes & Frágeis Innovações do Espaço-Tempo.",
       "Uso: Emaranha o usuário até uma entidade irmã existente em um outro plano na realidade.",
@@ -27,6 +36,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }

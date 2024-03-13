@@ -11,6 +11,14 @@
       "Simply press one of the four designated buttons to instantly swap to the corresponding character!",
       "However, opening the wheel will slow down time for a few seconds!"
     ],
+
+    "fr": [
+      "Vous n'êtes pas obligé d'ouvrir la roue des personnages pour changer de personnage.",
+      "Appuyez simplement sur une des quatre touches qui y sont assignées pour passer directement au personnage correspondant!",
+      "Cependant, ouvrir la roue fera ralentir le temps pendant quelques secondes!"
+    ],
+    "pt-BR": []
+=======
     "pt-BR": [
       "Você não precisa abrir a roda de personagens para trocar personagens.",
       "Apenas pressione uma das quatro teclas designadas para trocar para a personagem correspondente!",
@@ -20,6 +28,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }

@@ -9,6 +9,12 @@
       "These screens tell you your current controls.",
       "You can change controls in the options menu by pausing the game."
     ],
+    "fr": [
+      "Ces écrans vous disent vos contrôles actuels.",
+      "Vous pouvez les changer dans le menu options en mettant le jeu en pause."
+    ],
+    "pt-BR": []
+=======
     "pt-BR": [
       "Essas telas informam seus controles atuais.",
       "Você pode alterar os controles no menu de configurações pausando o jogo."
@@ -17,6 +23,7 @@
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }

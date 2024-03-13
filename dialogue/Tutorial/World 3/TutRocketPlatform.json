@@ -9,11 +9,16 @@
       "NOTICE: <s>Y'ALL STOP CRASHING THE ROCKETS INTO THE DARN WALLS!</s>",
       "<s>PRESS UP OR DOWN TO CONTROL THE ROCKET'S TRAJECTORY!</s>\n- VIOLASTRO"
     ],
+    "fr": [
+      "NOTICE: <s>ARRÊTEZ DE FAIRE CRASHER LES ROQUETTES DANS LES SATANÉS MURS!</s>",
+      "<s>APPUYEZ SUR LA TOUCHE DU HAUT OU DU BAS POUR CONTRÔLER LEUR TRAJECTOIRE!</s>\n- VIOLASTRO"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }
