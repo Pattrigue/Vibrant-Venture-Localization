@@ -13,11 +13,18 @@
       "You can retry the minigame by hitting the button again.",
       "The door at the end will simply take you back here if you wish to retry.\nGo for it, champ!"
     ],
+    "fr": [
+      "<c=minigame_button>Les boutons M</c> lanceront un mini-jeu!",
+      "En cas d'échec,vous pouvez réessayer autant de fois que vous le souhaitez.",
+      "Vous pouvez retenter le mini-jeu en réappuyant sur le bouton.",
+      "La porte se trouvant à la fin vous ramènera ici si vous souhaitez réessayer. \nAllez-y, champion!"
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }
