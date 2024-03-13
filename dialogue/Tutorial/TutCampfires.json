@@ -9,11 +9,16 @@
       "If you die, you respawn at the most recently activated campfire.",
       "Touching a campfire also saves your progress in the level."
     ],
+    "fr": [
+      "Si vous mourez, vous réapparaîtrez au dernier feu de camp activé.",
+      "Toucher un feu de camp sauvegarde également votre progression dans le niveau."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }
