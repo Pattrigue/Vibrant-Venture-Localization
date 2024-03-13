@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<xliff xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="0074c736ad52c5744aec23aedd7161f5" original="Assets/Localization/Tables/SteamIntegration/SteamIntegration_en.asset">
+    <group id="61a275595a159ef45a94918119148bfd" name="SteamIntegration">
+      <unit id="316135337984" name="WorkshopVisibilityLabel" xml:space="preserve">
+        <segment>
+          <source>Visibility:</source>
+          <target>Visibility:</target>
+        </segment>
+      </unit>
+      <unit id="334837739520" name="WorkshopVisibilityPublic" xml:space="preserve">
+        <segment>
+          <source>Public</source>
+          <target>Public</target>
+        </segment>
+      </unit>
+      <unit id="359877734400" name="WorkshopVisibilityFriendsOnly" xml:space="preserve">
+        <segment>
+          <source>Friends-only</source>
+          <target>Friends-only</target>
+        </segment>
+      </unit>
+      <unit id="388961038336" name="WorkshopVisibilityHidden" xml:space="preserve">
+        <segment>
+          <source>Hidden</source>
+          <target>Hidden</target>
+        </segment>
+      </unit>
+      <unit id="413124423680" name="WorkshopDescriptionLabel" xml:space="preserve">
+        <segment>
+          <source>Description:</source>
+          <target>Description:</target>
+        </segment>
+      </unit>
+      <unit id="477955780608" name="WorkshopSubmit" xml:space="preserve">
+        <segment>
+          <source>Submit</source>
+          <target>Submit</target>
+        </segment>
+      </unit>
+      <unit id="496716902400" name="WorkshopUploadingPromptText" xml:space="preserve">
+        <segment>
+          <source>Uploading to Steam...
+{0}%</source>
+          <target>Uploading to Steam...
+{0}%</target>
+        </segment>
+      </unit>
+      <unit id="526383214592" name="WorkshopUploadCompletePromptText" xml:space="preserve">
+        <segment>
+          <source>Upload completed!</source>
+          <target>Upload completed!</target>
+        </segment>
+      </unit>
+      <unit id="561296601088" name="WorkshopUploadFailedPromptText" xml:space="preserve">
+        <segment>
+          <source>ERROR - Upload failed:
+{0}</source>
+          <target>ERROR - Upload failed:
+{0}</target>
+        </segment>
+      </unit>
+      <unit id="593961840640" name="WorkshopConnectingPromptText" xml:space="preserve">
+        <segment>
+          <source>Connecting to the Steam Workshop...</source>
+          <target>Connecting to the Steam Workshop...</target>
+        </segment>
+      </unit>
+    </group>
+  </file>
+</xliff>

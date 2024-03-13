@@ -11,6 +11,10 @@
       "ASTUCE: Vous pouvez briser les rochers en leur <c=azura>fonçant</c> dessus!"
     ],
     "pt-BR": []
+=======
+    "pt-BR": [
+      "DICA: Você pode quebrar rochas com o <c=azura>Dashing</c> passando por eles!"
+    ]
   },
   "Responses": {
     "da": [],

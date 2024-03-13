@@ -9,11 +9,18 @@
       "Fairies allow you to take an extra hit!",
       "Getting an additional fairy will turn the new fairy into gems."
     ],
+
     "fr": [
       "Les fées vous permettent d'encaisser un coup supplémentaire!",
       "Chaque fée additionnelle obtenue sera convertie en gemmes."
     ],
     "pt-BR": []
+=======
+    "pt-BR": [
+      "Fadas permitem que você receba um dano extra!",
+      "Recebendo uma fada adicional irá convertê-la em gemas."
+    ]
+
   },
   "Responses": {
     "da": [],

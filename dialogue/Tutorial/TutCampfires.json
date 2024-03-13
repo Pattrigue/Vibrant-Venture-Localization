@@ -14,6 +14,11 @@
       "Toucher un feu de camp sauvegarde également votre progression dans le niveau."
     ],
     "pt-BR": []
+=======
+    "pt-BR": [
+      "Quando você morre, você reaparece na fogueira mais recentemente ativada.",
+      "Tocar em uma fogueira também salva o seu progresso no nível."
+    ]
   },
   "Responses": {
     "da": [],
