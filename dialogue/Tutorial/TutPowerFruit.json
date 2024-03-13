@@ -9,11 +9,16 @@
       "<c=163,79,203>Power Fruits</c> recharge your abilities!\nThis allows you to use abilities once more.",
       "It also allows you to swap character more than once while airborne."
     ],
+    "fr": [
+      "<c=163,79,203>Les Fruits à pouvoirs</c> rechargent vos compétences!\nCela vous permet de les réutiliser encore une fois.",
+      "Cela vous permet également de changer de personnage plus d'une fois en étant dans les airs."
+    ],
     "pt-BR": []
   },
   "Responses": {
     "da": [],
     "en": [],
+    "fr": [],
     "pt-BR": []
   }
 }
